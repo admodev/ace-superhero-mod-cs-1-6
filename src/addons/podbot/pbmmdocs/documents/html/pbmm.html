@@ -1,0 +1,261 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta content="text/html; charset=iso-8859-1">
+<title>PODBot MM</title>
+<link href="./podbot.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<p align="center"><span class="style1">PodBot MM </span></p>
+<p><span class="style2">How To Play with Podbot:</span></p>
+
+<p><span class="style2">Important:</span></p>
+<p>Since <span class="style13">v2.6</span> A few new features have been added and some commands have been depreciated.</p>
+
+<p class="style2">Waypoint Folder:</p>
+<p>PodBot MM uses the default folder for Waypoints which was used since v2.0 which is &quot; <span class="style8">\PODBot\WPTDefault\</span>&quot;.</p>
+
+<p class="style2">The PODBot User Menu (podbotmenu):</p>
+<p>Pressing the &quot;=&quot; key in game (on listenserver only) a Menu with the following options should appear on your Screen:</p>
+
+<p align="center"><img src="../images/pbmenuall.jpg" alt="The PODBOT user menu" name="The PODBOT user menu" width="147" height="146" border="0" ></p>
+<p align="center" class="style11">This is the PODBOT User Menu.</p>
+
+
+<span class="style14">1. Quick Add Bot</span> - This does what it says. It quickly adds a Bot giving him a random name,   team, skill and model. Skill will be chosen randomly between your minbotskill/maxbotskill values specified in podbot.cfg.<br>
+<span class="style14">2. Add specific Bot</span> - Allows you specify all things (except name) for adding a single Bot.<br>
+  
+<p align="center"><img src="../images/pbmenuaddskill.jpg" alt="Choose a skill from menu" name="Choose a skill from menu" width="158" height="170" border="0" ></p>
+<p align="center" class="style11">This lets You choose a skill for specyfic Bot.</p><br>
+<p align="center"><img src="../images/pbmenuaddpers.jpg" alt="Choose a personality from menu" name="Choose a personality from menu" width="197" height="132" border="0" ></p>
+<p align="center" class="style11">This lets You choose a personality for specyfic Bot.</p><br>
+<p align="center"><img src="../images/pbmenuaddteam.jpg" alt="Choose a team from menu" name="Choose a team from menu" width="163" height="119" border="0" ></p>
+<p align="center" class="style11">This lets You choose a team for specyfic Bot.</p><br>
+<p align="center"><img src="../images/pbmenuaddtmodel.jpg" alt="Choose a model from menu (T team)" name="Choose a model from menu (T team)" width="226" height="119" border="0" ></p>
+<p align="center" class="style11">This lets You choose a model for specyfic Bot (T team).</p><br>
+<p align="center"><img src="../images/pbmenuaddctmodel.jpg" alt="Choose a model from menu (CT team)" name="Choose a model from menu (CT team)" width="184" height="117" border="0" ></p>
+<p align="center" class="style11">This lets You choose a model for specyfic Bot (CT team).</p><br>
+  
+<span class="style14">3. Kill all Bots</span> - Kills all Bots in all Teams. You can use this to end Rounds faster if there aren't any humans alive and you don't like watching Bots playing better than you <span class="style14">:)</span><br>
+<span class="style14">4. Newround</span> - Same as above, but kills every Client including human players.<br>
+<span class="style14">5. Fill Server</span> - Fills all free Server Entries with Bots (until reaching max_bots value). After selecting 
+this option you can specify the team or to auto-assign them. If you especially select a team for the Bots the 
+Server Variables &quot; <span class="style8">mp_autoteambalance</span>&quot; and 
+&quot; <span class="style8">mp_limitteams</span>&quot; will be set to 0 (thus not caring about balancing teams 
+anymore) and all Bots will only join 1 Team. You can use for example this to play alone or with your friends against 
+all Bots.<br>
+<span class="style14">6. Kick Bot</span> - Selecting this option opens the new selection, where You can choose which one
+bot You wish to kick. There are 4 pages (for 32 players). If some slot is free or is used by some human-player or other bot
+then You will see the info for that slot "Not a PodbotMM".<br>
+  
+<p align="center"><img src="../images/pbmenukickbot1.jpg" alt="Choose the Bot You want to kick" name="Choose a bot You want to kick - page 1" width="217" height="186" border="0" ></p>
+<p align="center" class="style11">This lets You choose the Bot You want to kick - page 1.</p><br>
+<p align="center"><img src="../images/pbmenukickbot2.jpg" alt="Choose the Bot You want to kick" name="Choose a bot You want to kick - page 2" width="173" height="182" border="0" ></p>
+<p align="center" class="style11">This lets You choose the Bot You want to kick - page 2.</p><br>
+<p align="center"><img src="../images/pbmenukickbot3.jpg" alt="Choose the Bot You want to kick" name="Choose a bot You want to kick - page 3" width="172" height="180" border="0" ></p>
+<p align="center" class="style11">This lets You choose the Bot You want to kick - page 3.</p><br>
+<p align="center"><img src="../images/pbmenukickbot4.jpg" alt="Choose the Bot You want to kick" name="Choose a bot You want to kick - page 4" width="165" height="169" border="0" ></p>
+<p align="center" class="style11">This lets You choose the Bot You want to kick - page 4.</p><br>
+  
+<span class="style14">7. Kick all Bots</span> - Kicks off all Bots from the Server.<br>
+<span class="style14">8. Weapon Mode</span> - Opens another Sub-Menu where you can select the Weapons Bots will buy (and use in combat). Selecting Knife Mode will also turn on Jason-Mode.
+ Selecting Standard Weapons will turn it off again.<br>
+
+<p align="center"><img src="../images/pbmenuweapmod.jpg" alt="Choose a weapon mode" name="Choose a weapon mode" width="182" height="156" border="0" ></p>
+<p align="center" class="style11">This lets You choose a weapon mode for bots.</p><br>
+
+<p class="style2">FunModes:</p>
+<p align="left">This was one of the features removed when PODBot was ported to metamod.</p>
+
+<p class="style2">Ordering Bots through Radio Commands:</p>
+<p>You can use some of the Radio Commands to get more support from your Bots<br>
+  Note: When you issue a <span class="style15">'Follow me</span>' Command Bots won't follow you in 3 cases:</p>
+<ul>
+  <li>The Bots have their own will and they issue a &quot;<span class="style15">Negative</span>&quot; if they don't want to follow you.</li>
+  <li>They don't see you.</li>
+  <li>They see an enemy and engage the target.</li>
+</ul>
+
+<p>A <span class="style12">Terrorist</span> Bot carrying the C4 or picking it up, will also issue a &quot;<span class="style15">Follow Me</span>&quot; 
+sometimes to have some assistance with him. (<span class= "style8">Note:</span> that they have problems following on ladders at the moment because the movement is unwaypointed.) 
+They also do some other Radio Commands like &quot;<span class="style15">Need Backup</span>&quot;, &quot;
+<span class="style15">Enemy down</span>&quot;, &quot; <span class="style15">Enemy spotted</span>&quot;, &quot; 
+<span class="style15">I'm in Position</span>&quot; (to tell you he's camping) but not very often, otherwise it would 
+surely get on your nerves...</p>
+
+<p class="style2">Summary of Bot Reactions to Radio Commands:</p>
+<ul>
+  <li><span class="style15">Follow me</span> - Forces Bots in the near to follow you. You can specify the maximum number 
+  of bots following in the podbot.cfg (defaults to 3).</li>
+  <li><span class="style15">Hold this Position</span> - Makes a Bot who's following you, stay a while at that position 
+  and look around for enemies.</li>
+  <li><span class="style15">Taking Fire, need assistance</span> - Makes all living Bots (not engaged in a Fight) run to 
+  your position to assist you.</li>
+  <li><span class="style15">Need Backup</span> - Basically the same as above, but limited to distance and also 
+  the Bots use it sometimes to get some support.</li>
+  <li><span class="style15">Storm the Front!</span> - Mighty command! Forces all Bots in the near to rush in the 
+  direction you're pointing to when using that command. Basically their level of aggression is increased so 
+  a pathetic frightened Bot could also turn around and flee.</li>
+  <li><span class="style15">Get in position...</span> - Bots in the near will try to take a covered position and stay 
+  there until they either encounter an enemy, you order them to leave, or they waited too long.</li>
+  <li><span class="style15">Go,go,go</span> - If a Bot follows you, this commands stops him from following. If there 
+  are other Bots in the near, they will stop camping and going to roam the map again (normally used in combination with
+   &quot;<span class="style15">Get in position...</span>&quot;)</li>
+  <li><span class="style15">Team, Fall Back!</span> - Opposite of &quot;<span class="style15">Storm the Front</span>&quot;. 
+  Increases Fear and decreases aggression of Bots in the near so that they are more likely to fall back and stay covered 
+  for a short period.</li>
+</ul><br>
+
+<p class="style2">Bot Skill differences:</p>
+<p>There is a file called botskill.cfg were you can tweak most skill parameters of the bots by editing the file 'botskill.cfg' 
+with any text-editor.<br>
+  Also take a look into 'podbot.cfg' to adjust some more things to your liking...settings for the Bots if you find them too 
+  easy/too hard,<br>
+  First, Bots with low skills will pause/camp longer and more often, Bots with low skills have a bigger surprise time and they
+  shoot slower and are lucky if they hit something..<br>
+  Then there are minor behaviour differences. For example Bots with a skill above 80 use the Knife more often if you're 
+  near them.<br>
+  If you want to get headshots all the time and attack really fast - add some Bots with a skill of 100.</p><br>
+
+<p class="style2">Bot Personalities:</p>
+<p>There are 3 different Personalities in POD now, if you have '<span class="style14">detailnames</span>' turned on they are 
+shown through the Prefixes like this:</p>
+<ol>
+  <li><span class="style13">[P*D]</span> = <span class="style13">Agressive Bot</span></li>
+  <li><span class="style13">[POD]</span> = <span class="style13">Normal Bot</span></li>
+  <li><span class="style13">[P0D]</span> = <span class="style13">Defensive Bot</span></li>
+</ol>
+<p>Right now these personalities affect only bot's buying system. In the future we want to extend a lot of stuff around 
+Personalities, but You can specify which one type of personlity has to be added to the game by addbot command 
+(or fillserver or from podbotmenu) .</p><br>
+
+<p class="style2">BotChats:</p>
+<p>The botchats are files which store what the bot can say during the game and when it's spectating.<br>
+  They are located in the podbot\botchats Folder where you installed the Bot.<br>
+  The translated versions (except the German and English ones) don't use the new Text replacements and the dynamic keyword 
+  chat is still in English language.<br>
+  Rename and copy one of these to &quot;botchat.txt&quot; in the main podbot folder to have your localized Bot Talk.</p>
+<p>These translated versions of the Botchat are available:</p>
+<ul>
+  <li>BotChat.txt (default english version)</li>
+  <li>BotChatBulgarian.txt</li>
+  <li>BotChatCroatian.txt</li>
+  <li>BotChatCzech.txt</li>
+  <li>BotChatDanish.txt</li>
+  <li>BotChatDutch.txt</li>
+  <li>BotChatEnglish.txt</li>
+  <li>BotChatFinnish.txt</li>
+  <li>BotChatFrench.txt</li>
+  <li>BotChatGerman.txt</li>
+  <li>BotChatHungarian.txt</li>
+  <li>BotChatIceland.txt</li>
+  <li>BotChatIndonesian.txt</li>
+  <li>BotChatItalian.txt</li>
+  <li>BotChatNorwegian.txt</li>
+  <li>BotChatPolish.txt</li>
+  <li>BotChatPortuguese.txt</li>
+  <li>BotChatRomanian.txt</li>
+  <li>BotChatRussian.txt</li>
+  <li>BotChatSerbian.txt</li>
+  <li>BotChatSpanish.txt</li>
+  <li>BotChatSwedish.txt</li>
+  <li>BotChatTagalog.txt</li>
+  <li>BotChatTurkish.txt</li>
+</ul>
+
+<p><span class="style2">Auto add/kick bot function</span></p>
+
+<p>What do the people want? They want to keep as constant the number of bots+players at the server, but sometimes 
+this was not working correct in old PB2.5 (client connection failed - bot didn't rejoin back) - sometimes this made 
+a server empty. Another people want the same but with the possibility of some manual control of bots on the server 
+(some manual kick, some manual add, some removebots and some fillserver - these function have to be still availiable). 
+How to solve this?<br>
+Now in code is a variable invisible for user-admin. It's name is g_iPeoBotsKept - this variable defines <B>how many 
+bots+players shuld be still on the server</B>. This name is only here for explaining how this is working now.<br>
+The meaning of max_bots and min_bots - these are limits only but with possibility change them from console by:<br>
+pb max_bots {new_value}<br>
+pb min_bots {new_value}<br>
+The max_bots variable defines <B>how many bots+players</B> will be on the server when You will use fillserver command 
+(of course - if there are on the server some sufficient slots for all of them) or addbot commands. The min_bots 
+variable defines <B>the minimum number of bots</B> must stay on the server when:<br>
+a) You will call removebots command<br>
+b) some of them will be kicked because of joining some people.<br>
+You can define max_bots as 12 and min_bots as 2 and put 8 addbot commands in podbot.cfg - then g_iPeoBotsKept 
+is calculated (automaticaly) as 8 - for example - because it's incremented every single addbot command. If You use 
+fillserver - this variable will reach 12 (in our example) - in the case of calling fillserver g_iPeoBotsKept is 
+overwitten by max_bots variabale.<br>
+
+NOTE:<br>
+On listenserver except addbots commands also the host (the player-LS owner) is calculated (added) to g_iPeoBotsKept.
+So in the case if he has - for example - 8 addbots commands in his podbot.cfg - g_iPeoBotsKept variable will be 9
+(at start host and 8 bots on the server).<br>
+
+At the first map (server started) the first bots added to the server are from podbot.cfg - these
+added by addbot commands or fillserver. If there are 4 addbot commands - first will enter the game these 4 specyfied
+by these commands and after - if there is also a fillserver command - automaticaly will be added some other bots 
+(according to other parameters of the fillserver command, max_bots and other parameters).<br>
+So - You started the game with 8 bots. Then one player is connected and entered the game, then one bot is automaticaly
+kicked. Player is disconnected - bot is automaticaly added. This is checked every frame - if still g_iPeoBotsKept is 
+the same like number of bots+players.<br>
+If You decide manualy add some bot (from podbotmenu or by pb addbot command from console) - bot will be added according 
+to this what You specify (if You type pb addbot 100 2 2 3 "Rocky" - just exactly this bot will be added - not some bot 
+automaticaly). In this case g_iPeoBotsKept variable will be automaticaly incremented by 1. If You decide to kick manually 
+some bot - bot will be kicked. If from podbotmenu - You can select iwhicj one should be kicked from menu (4 pages),
+if from console:<br>
+pb remove #bot_id<BR>
+or
+pb remove bot_name<BR>
+bot_id means the same like id for standard kick command.<br>
+In this case g_iPeoBotsKept variable will be automaticaly decremented by 1. Of course all here is valid only if You are 
+in range min/max bots You specyfied before.
+If You decide to use fillserver and You have actualy 10 bots+players on the server - bots will be added automaticaly 
+until reaching bots + players = max_bots (in our example 12). In this case g_iPeoBotsKept will be overwritten by 
+max_bots variable (12).<br>
+The same for removebots - If You decide to use this command, bots will be removed from the server until reaching 
+bots + players = min_bots (in our example 2). In this case g_iPeoBotsKept variable will be overwritten by min_bots 
+variable (2). If You will write in console :<br>
+pb max_bots 6<br>
+it will decrase (if is grater) the g_iPeoBotsKept variable to 6 and some bots will be probably kicked.<br> 
+If You will write in console:<br>
+pb min_bots 7<br>
+it will incrase (if is lower) the g_iPeoBotsKept variable to 7 and some bots will be probably added. This "probably" 
+above is depanding of actual situation on the server - if the number of human-players lets kick or add some bots in these 
+both situations.<br>
+Connecting to the game more human-players than is actually calculated g_iPeoBotsKept will not affect this variable. 
+If You have this variable as 10 and there is 12 human-players - of course You can't kick more bots.<br>
+All here can work automaticaly and there is still some control and possiblity of manual bots management.<br>
+If You want some delay for bots re-join at new map start then write in console this line:<br>
+pb mapstartbotdelay 10<br>
+and bot will be joined on the new map after 10s since map start. The same command (but without "pb") You can write in
+podbot.cfg.<br><br>
+
+If because of some reason You don't like this function (auto add/kick bots) You can simply disable it by writting in console:<br>
+pb max_bots 0<br>
+(or without "pb" in podbot.cfg file).<br>
+In this case the value of g_iPeoBotsKept is then following the current number of bots + players, but no one bot will
+be automatically added or kicked. Enabling back the function (by typing some different than 0 number for
+max_bots) should change nothing on the server (no one bot should be added or kicked after enabling this function) except
+the situation You specify some max_bots less than current number of bots+players on the server (in this case some of them
+will be kicked until reaching bots+players = max_bots).</p><br>
+
+<p><span class="style2">Known Limitations/Bugs/Problems still present:</span></p>
+<p>Bots sometimes fall from high places<br>
+ Sometimes stuck in other Bots (but should unstuck after less than 5 secs)<br>
+ Sometimes stuck in corners (see above)<br>
+ Counter Bots sometimes fail to detect the bomb (but happens to humans also, so what?)<br>
+ Bots lack advanced teamplay (very basic team-play and affection is present)<br>
+ Bots are too easy to snipe, see above<br>
+ Bots aren't affected by darkness<br>
+ Bots don't drive vehicles, hopefully in the 'Source' engine they will :) <br>
+ Due to HL Engine Limitations Bots can see through func_illusionaries (e.g. curtains in cs_747, doors in cs_backalley)<br>
+ Bots don't cheat <span class="style14">:)</span></p>
+
+<p><span class="style2">Planned for future Releases:</span></p>
+<p>Refining Combat Behaviours and Weapon Choices<br>
+ Customisation of Personalities incorporated into a Clan-System<br>
+ Advanced Team Behaviour<br>
+ Vehicle support <span class="style14">:)</span><br>
+ Elimination of most remaining Bugs and Limitations of the above list</p>
+</body>
+</html>

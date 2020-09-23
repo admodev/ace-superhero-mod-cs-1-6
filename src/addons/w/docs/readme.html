@@ -1,0 +1,100 @@
+<html>
+<head>
+<title>:: webmod docs : readme ::</title>
+<link Rel="StyleSheet" type="text/css" href="style.css">
+</head>
+
+<body>
+<div align="center" class="w-title-big">:: webmod ::</div>
+<br><br>
+<table align="center" width="640" style="border-width: 0;">
+<tr><td><div align="justify">
+
+<div class="w-title">I. About</div>
+<br><br>
+WebMod is a <b>multi-threaded HTTP Web server</b> embedded into a <a href="http://www.metamod.org" target="_blank">MetaMod</a> plugin
+(Linux and Win32 compatible). It allows you not to use specific tools like
+<a href="http://www.hlsw.net/" target="_blank">HLSW</a> or <a href="http://www.clanstd.com/agentorange/" target="_blank">AgentOrange</a>,
+or additional software such as a <a href="http://httpd.apache.org/" target="_blank">web server</a>, <a href="http://server.counter-strike.net/phprcon/" target="_blank">PHPRCon</a>
+or a <a href="http://www.perl.com/" target="_blank">Perl</a> capable shell account to run <a href="http://www.psychostats.com/pquery.php" target="_blank">PsychoQuery</a>.
+<br><br>
+Once installed, you can access it on <font color="orange">http://server_ip:server_port/</font> ; for
+example if you connect to <b>123.45.67.89:27016</b> to play, you just have to
+add « <b>http://</b> » at the beginning and give this to your web browser : <font color="orange">http://123.45.67.89:27016/</font>.
+<br><br>
+This addon provides a public live <b>status page</b>, and a private <b>admin area</b>
+(password-protected, currently using RCon password).
+<br><br>
+But this plugin is not only what's contained in the zip file : WebMod
+includes a <b>script preprocessor</b> that lets you customize its web pages
+totally, and to create yours at your own convenience. W scripting language
+reference document is provided in the archive. You'll learn how to use
+{ } blocks, game server and HTTP related variables, etc.
+<br><br>
+<br><br>
+<div class="w-title-small">Default package contains :</div>
+<br>
+First, a <b>public index page</b>, with real-time server status (map, players,
+rules, addons). It has been designed for <a href="http://www.counter-strike.net/" target="_blank">Counter-Strike</a> since it's
+<a href="http://half-life.sierra.com/" target="_blank">Half-Life</a>'s most popular mod, but can be easily adapted to any other mod
+thanks to W scripting language.
+<br><br>
+If you know the server's <b>RCon password</b>, you can log in as an admin, then
+enter <b>console commands</b>, <b>kick/ban</b> players, make them run commands (like
+AdminMod's admin_execclient first did), and <b>edit main config files</b>
+(mapcycle.txt, server.cfg, motd.txt, and any main config file for your
+other MetaMod plugins). Once again, all those features can be <b>customized</b>
+(just have a look at addons/w/www/*.w pages), you also can change these
+pages' design (quite djeyl.net-ified by default) so that they <b>perfectly
+fit</b> your own site's look and feel.
+<br><br>
+<br><br>
+<div class="w-title">II. Requirements</div>
+<br><br>
+You only need to have <a href="http://www.metamod.org" target="_blank">MetaMod</a> (version 1.13.x recommended) running on your server.
+
+<br><br><br><br>
+<div class="w-title">III. Installation</div>
+<br><br>
+Unzip this file in your mod's directory ("cstrike" for example).
+<br><br>
+It will create those directories :<br><br>
+<table align="center" width="500" cellpadding="4" cellspacing="2">
+<tr><td class="tabbody" width="40%">addons/w</td><td class="tabbody">webmod base dir</td></tr>
+<tr><td class="tabbody">addons/w/dlls</td><td class="tabbody">win32 & linux binaries</td></tr>
+<tr><td class="tabbody">addons/w/docs</td><td class="tabbody">documentation (html format)</td></tr>
+<tr><td class="tabbody">addons/w/www</td><td class="tabbody">web server root dir with .w pages</td></tr>
+<tr><td class="tabbody">addons/w/www/mappics</td><td class="tabbody">some Counter-Strike map screenshots</td></tr>
+<tr><td class="tabbody">addons/w/www/includes</td><td class="tabbody">some .inc files included by .w pages</td></tr>
+</table><br><br>
+Edit your <b>addons/metamod/plugins.ini</b> and add the following 2 lines
+(start, middle, end of file : no matter) :<br><br>
+<table align="center" width="500" cellpadding="4" cellspacing="2">
+<tr><td class="tabbody">win32 addons/w/dlls/w_mm.dll</td></tr>
+<tr><td class="tabbody">linux addons/w/dlls/w_mm_i386.so</td></tr>
+</table><br><br>
+Now you just have to restart your server ! Enjoy :-)
+<br><br><br><br>
+<div class="w-title">IV. Contact</div>
+<br><br>
+<table align="center" width="500" cellpadding="4" cellspacing="2">
+<tr><td class="tabbody" width="40%">web page</td><td class="tabbody"><a href="http://djeyl.net/w.php?language=english" target="_blank">http://djeyl.net/w</a></td></tr>
+<tr><td class="tabbody">forums</td><td class="tabbody"><a href="http://djeyl.net/forum/viewforum.php?f=32&language=english" target="_blank">http://djeyl.net/forum</a></td></tr>
+</table><br><br>
+<div class="w-title">V. Credits</div>
+<br><br>
+<table align="center" width="500" cellpadding="4" cellspacing="2">
+<tr><td class="tabbody" width="40%">djeyl.net team</td><td class="tabtitle"><a href="http://djeyl.net/?language=english" target="_blank">http://djeyl.net</a></td></tr>
+<tr><td class="tabbody" colspan="2">beta tests, ideas and support</td></tr>
+<tr><td height="1" colspan="2"></td></tr>
+<tr><td class="tabbody">OLO</td><td class="tabtitle"><a href="http://www.olo.counter-strike.pl" target="_blank">http://olo.counter-strike.pl</a></td></tr>
+<tr><td class="tabbody" colspan="2">StatsMe's little scripting language inspired me to create W's :-)</td></tr>
+<tr><td height="1" colspan="2"></td></tr>
+<tr><td class="tabbody">FireStarter</td><td class="tabtitle"><a href="http://server.counter-strike.net" target="_blank">http://server.counter-strike.net</a></td></tr>
+<tr><td class="tabbody" colspan="2">he's a carrot !!</td></tr>
+</table><br><br>
+
+</div></td></tr>
+</table>
+</body>
+</html>

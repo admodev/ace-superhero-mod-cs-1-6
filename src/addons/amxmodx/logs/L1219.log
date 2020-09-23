@@ -1,0 +1,27 @@
+L 12/19/2009 - 23:27:50: -------- Mapchange to surf_ski_2 --------
+L 12/19/2009 - 23:27:51: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/19/2009 - 23:27:51: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/19/2009 - 23:29:06: [admin.amxx] Login: "Fir3.rOx | mnR<2><VALVE_ID_PENDING><>" became an admin (account "Fir3.rOx | mnR") (access "abcdefghijklmnopqrstu") (address "200.171.224.21")
+L 12/19/2009 - 23:29:17: [admin.amxx] Login: "Fir3.rOx | mnR<3><VALVE_ID_PENDING><>" became an admin (account "Fir3.rOx | mnR") (access "abcdefghijklmnopqrstu") (address "200.171.224.21")
+L 12/19/2009 - 23:38:31: -------- Mapchange to surf_ski_2 --------
+L 12/19/2009 - 23:38:36: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/19/2009 - 23:38:36: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/19/2009 - 23:40:01: [admin.amxx] Login: "Fir3.rOx | mnR<1><VALVE_ID_PENDING><>" became an admin (account "Fir3.rOx | mnR") (access "abcdefghijklmnopqrstu") (address "200.171.224.21")
+L 12/19/2009 - 23:40:31: [adminchat.amxx] Chat: "Fir3.rOx | mnR<1><VALVE_ID_PENDING><>" tsay "a"
+L 12/19/2009 - 23:40:37: [adminchat.amxx] Chat: "Fir3.rOx | mnR<1><VALVE_ID_PENDING><>" tsay "[CSO] Escreva Chapeus para escolher um chapeu!"
+L 12/19/2009 - 23:40:47: [admincmd.amxx] Cmd: "Fir3.rOx | mnR<1><VALVE_ID_PENDING><>" server console (cmdline "sv_restartround 1")
+L 12/19/2009 - 23:43:18: -------- Mapchange to surf_ski_2 --------
+L 12/19/2009 - 23:43:23: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/19/2009 - 23:43:23: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/19/2009 - 23:45:41: -------- Mapchange to de_inferno --------
+L 12/19/2009 - 23:45:42: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_inferno.
+L 12/19/2009 - 23:45:42: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/19/2009 - 23:52:49: -------- Mapchange to surf_ski_2 --------
+L 12/19/2009 - 23:52:50: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/19/2009 - 23:52:50: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/19/2009 - 23:53:03: -------- Mapchange to de_dust2_fundo --------
+L 12/19/2009 - 23:53:04: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\de_dust2_fundo.spawns.cfg)
+L 12/19/2009 - 23:53:04: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/19/2009 - 23:59:06: -------- Mapchange to surf_ski_2 --------
+L 12/19/2009 - 23:59:07: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/19/2009 - 23:59:07: [csdm_main.amxx] CSDM spawn mode set to preset

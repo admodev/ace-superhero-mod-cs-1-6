@@ -1,0 +1,598 @@
+L 12/22/2009 - 00:08:50: [admin.amxx] Login: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | PeedriiN") (access "abcdefghijklmnopqrstu") (address "201.13.179.120")
+L 12/22/2009 - 00:14:11: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" server console (cmdline "exec cfg/adm1.cfg")
+L 12/22/2009 - 00:14:11: [adminchat.amxx] Chat: "Fir3.rOx |  DM  PeedriiN<0><><>" tsay "ADMIN [x] ON []OFF"
+L 12/22/2009 - 00:14:11: [adminchat.amxx] Chat: "Fir3.rOx |  DM  PeedriiN<0><><>" tsay "ADMIN Online!!!"
+L 12/22/2009 - 00:14:18: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" server console (cmdline "exec cfg/awp.cfg")
+L 12/22/2009 - 00:14:18: [adminchat.amxx] Chat: "Fir3.rOx |  DM  PeedriiN<0><><>" tsay ".....  Sem AwP!!"
+L 12/22/2009 - 00:14:18: [adminchat.amxx] Chat: "Fir3.rOx |  DM  PeedriiN<0><><>" tsay "[AVISO]"
+L 12/22/2009 - 00:14:18: [adminchat.amxx] Chat: "Fir3.rOx |  DM  PeedriiN<0><><>" say "Sem Alp nesse Round!"
+L 12/22/2009 - 00:14:34: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" server console (cmdline "exec cfg/awp.cfg")
+L 12/22/2009 - 00:14:34: [adminchat.amxx] Chat: "Fir3.rOx |  DM  PeedriiN<0><><>" tsay ".....  Sem AwP!!"
+L 12/22/2009 - 00:14:34: [adminchat.amxx] Chat: "Fir3.rOx |  DM  PeedriiN<0><><>" tsay "[AVISO]"
+L 12/22/2009 - 00:14:34: [adminchat.amxx] Chat: "Fir3.rOx |  DM  PeedriiN<0><><>" say "Sem Alp nesse Round!"
+L 12/22/2009 - 00:14:44: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" server console (cmdline "exec cfg/camper.cfg")
+L 12/22/2009 - 00:14:44: [adminchat.amxx] Chat: "Fir3.rOx |  DM  PeedriiN<0><><>" tsay "Sem Camper!!!"
+L 12/22/2009 - 00:14:44: [adminchat.amxx] Chat: "Fir3.rOx |  DM  PeedriiN<0><><>" tsay "Vai tomar tapa os campers!"
+L 12/22/2009 - 00:14:52: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" server console (cmdline "exec cfg/nb.cfg")
+L 12/22/2009 - 00:14:52: [adminchat.amxx] Chat: "Fir3.rOx |  DM  PeedriiN<0><><>" tsay "Ahh Seus N00B!!!"
+L 12/22/2009 - 00:14:52: [adminchat.amxx] Chat: "Fir3.rOx |  DM  PeedriiN<0><><>" tsay "Voces sao pateticos..."
+L 12/22/2009 - 00:18:13: [plmenu.amxx] Ban: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" ban and kick "mix lokooO<22><STEAM_ID_LAN><>" (minutes "5")
+L 12/22/2009 - 00:18:30: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" tsay " eh mesmo neh"
+L 12/22/2009 - 00:18:33: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" tsay " canso ja surf"
+L 12/22/2009 - 00:19:41: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" server console (cmdline "exec cfg/awp.cfg")
+L 12/22/2009 - 00:19:41: [adminchat.amxx] Chat: "Fir3.rOx |  DM  PeedriiN<0><><>" tsay ".....  Sem AwP!!"
+L 12/22/2009 - 00:19:41: [adminchat.amxx] Chat: "Fir3.rOx |  DM  PeedriiN<0><><>" tsay "[AVISO]"
+L 12/22/2009 - 00:19:41: [adminchat.amxx] Chat: "Fir3.rOx |  DM  PeedriiN<0><><>" say "Sem Alp nesse Round!"
+L 12/22/2009 - 00:22:01: [plmenu.amxx] Kick: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" kick "mix lokooO<22><STEAM_ID_LAN><>"
+L 12/22/2009 - 00:24:16: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" tsay " AWP = KICK FDP"
+L 12/22/2009 - 00:24:17: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" tsay " AWP = KICK FDP "
+L 12/22/2009 - 00:24:19: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" tsay " AWP = KICK FDP "
+L 12/22/2009 - 00:24:19: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" tsay " AWP = KICK FDP "
+L 12/22/2009 - 00:24:20: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" tsay " AWP = KICK FDP "
+L 12/22/2009 - 00:24:21: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" tsay " AWP = KICK FDP "
+L 12/22/2009 - 00:24:21: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" tsay " AWP = KICK FDP "
+L 12/22/2009 - 00:24:22: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" tsay " AWP = KICK FDP "
+L 12/22/2009 - 00:24:22: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" tsay " AWP = KICK FDP "
+L 12/22/2009 - 00:24:23: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" tsay " AWP = KICK FDP "
+L 12/22/2009 - 00:24:32: [plmenu.amxx] Ban: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" ban and kick "LsPtC- ;*<21><STEAM_ID_LAN><>" (minutes "5")
+L 12/22/2009 - 00:24:45: [plmenu.amxx] Kick: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" kick "LsPtC- ;*<21><STEAM_ID_LAN><>"
+L 12/22/2009 - 00:25:40: [plmenu.amxx] Kick: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" kick "Oo NooB<3><STEAM_ID_LAN><>"
+L 12/22/2009 - 00:26:52: [plmenu.amxx] Kick: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" kick "Oo NooB<37><STEAM_ID_LAN><>"
+L 12/22/2009 - 00:30:24: [plmenu.amxx] Kick: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" kick "@bmth          :x<40><STEAM_ID_LAN><>"
+L 12/22/2009 - 00:30:56: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" tsay " mano"
+L 12/22/2009 - 00:31:01: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" tsay " amanha nois conversa fexO?"
+L 12/22/2009 - 00:31:04: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" tsay " ja vos air jah"
+L 12/22/2009 - 00:31:07: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" tsay " fmza?"
+L 12/22/2009 - 00:31:21: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" tsay " tah daora?"
+L 12/22/2009 - 00:34:10: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" tsay " flw vo sair"
+L 12/22/2009 - 00:34:14: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<20><STEAM_ID_LAN><>" tsay " vai fikar aberto"
+L 12/22/2009 - 16:57:58: -------- Mapchange to de_dust2_fundo --------
+L 12/22/2009 - 16:58:08: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\de_dust2_fundo.spawns.cfg)
+L 12/22/2009 - 16:58:08: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/22/2009 - 17:20:39: [admin.amxx] Login: "Fir3.rOx | SpyBoTzOr ' x(:<30><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | SpyBoTzOr ' x(:") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/22/2009 - 17:21:57: [adminchat.amxx] Chat: "Fir3.rOx | SpyBoTzOr ' x(:<30><STEAM_ID_LAN><>" tsay ""
+L 12/22/2009 - 17:22:03: [admincmd.amxx] Cmd: "Fir3.rOx | SpyBoTzOr ' x(:<30><STEAM_ID_LAN><>" server console (cmdline "exec cfg/adm1.cfg")
+L 12/22/2009 - 17:22:04: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay "ADMIN [x] ON []OFF"
+L 12/22/2009 - 17:22:04: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay "ADMIN Online!!!"
+L 12/22/2009 - 17:23:12: [admincmd.amxx] Cmd: "Fir3.rOx | SpyBoTzOr ' x(:<30><STEAM_ID_LAN><>" server console (cmdline "exec cfg/adm1.cfg")
+L 12/22/2009 - 17:23:12: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay "ADMIN [x] ON []OFF"
+L 12/22/2009 - 17:23:12: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay "ADMIN Online!!!"
+L 12/22/2009 - 17:23:18: [admincmd.amxx] Cmd: "Fir3.rOx | SpyBoTzOr ' x(:<30><STEAM_ID_LAN><>" server console (cmdline "exec cfg/msn.cfg")
+L 12/22/2009 - 17:23:18: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay ""Fexem Navegador , MsN , Emule , etc...""
+L 12/22/2009 - 17:23:18: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay ""Isso Reduz o LAG!!!"
+L 12/22/2009 - 17:23:18: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" csay ""ATENCAO""
+L 12/22/2009 - 17:23:18: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" say "Fexem o msn galera para nao lagar o servidor!"
+L 12/22/2009 - 17:23:25: [admincmd.amxx] Cmd: "Fir3.rOx | SpyBoTzOr ' x(:<30><STEAM_ID_LAN><>" server console (cmdline "exec cfg/camper.cfg")
+L 12/22/2009 - 17:23:25: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay "Sem Camper!!!"
+L 12/22/2009 - 17:23:25: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay "Vai tomar tapa os campers!"
+L 12/22/2009 - 17:23:32: [admincmd.amxx] Cmd: "Fir3.rOx | SpyBoTzOr ' x(:<30><STEAM_ID_LAN><>" server console (cmdline "exec cfg/rir.cfg")
+L 12/22/2009 - 17:23:32: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay "Hahuheheuhehaahehehahaheahahedhhea"
+L 12/22/2009 - 17:23:32: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay " Muhuuhahaha"
+L 12/22/2009 - 17:23:32: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" csay "\0/\0/\0/"
+L 12/22/2009 - 17:23:40: [admincmd.amxx] Cmd: "Fir3.rOx | SpyBoTzOr ' x(:<30><STEAM_ID_LAN><>" server console (cmdline "exec cfg/zoar.cfg")
+L 12/22/2009 - 17:23:40: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay "H O L Y  S H I T"
+L 12/22/2009 - 17:23:40: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay "H o l y s h i t!"
+L 12/22/2009 - 17:23:47: [admincmd.amxx] Cmd: "Fir3.rOx | SpyBoTzOr ' x(:<30><STEAM_ID_LAN><>" server console (cmdline "exec cfg/nb.cfg")
+L 12/22/2009 - 17:23:47: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay "Ahh Seus N00B!!!"
+L 12/22/2009 - 17:23:47: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay "Voces sao pateticos..."
+L 12/22/2009 - 17:23:55: [adminchat.amxx] Chat: "Fir3.rOx | SpyBoTzOr ' x(:<30><STEAM_ID_LAN><>" tsay " Quem eh xiter"
+L 12/22/2009 - 17:24:09: [adminchat.amxx] Chat: "Fir3.rOx | SpyBoTzOr ' x(:<30><STEAM_ID_LAN><>" tsay " Quem eh o xiter bro"
+L 12/22/2009 - 17:24:24: [adminchat.amxx] Chat: "Fir3.rOx | SpyBoTzOr ' x(:<30><STEAM_ID_LAN><>" tsay " ta"
+L 12/22/2009 - 17:24:30: [plmenu.amxx] Ban: "Fir3.rOx | SpyBoTzOr ' x(:<30><STEAM_ID_LAN><>" ban and kick "cnL~bR. # TK'<31><STEAM_ID_LAN><>" (minutes "5")
+L 12/22/2009 - 17:24:44: [plmenu.amxx] Ban: "Fir3.rOx | SpyBoTzOr ' x(:<30><STEAM_ID_LAN><>" ban and kick "cnL~bR. # TK'<31><STEAM_ID_LAN><>" (minutes "0")
+L 12/22/2009 - 17:24:45: [plmenu.amxx] Ban: "Fir3.rOx | SpyBoTzOr ' x(:<30><STEAM_ID_LAN><>" ban and kick "cnL~bR. # TK'<31><STEAM_ID_LAN><>" (minutes "0")
+L 12/22/2009 - 17:24:51: [plmenu.amxx] Ban: "Fir3.rOx | SpyBoTzOr ' x(:<30><STEAM_ID_LAN><>" ban and kick "cnL~bR. # TK'<31><STEAM_ID_LAN><>" (minutes "0")
+L 12/22/2009 - 17:24:52: [plmenu.amxx] Ban: "Fir3.rOx | SpyBoTzOr ' x(:<30><STEAM_ID_LAN><>" ban and kick "cnL~bR. # TK'<31><STEAM_ID_LAN><>" (minutes "0")
+L 12/22/2009 - 17:25:01: [plmenu.amxx] Ban: "Fir3.rOx | SpyBoTzOr ' x(:<30><STEAM_ID_LAN><>" ban and kick "cnL~bR. # TK'<31><STEAM_ID_LAN><>" (minutes "5")
+L 12/22/2009 - 17:25:02: [plmenu.amxx] Ban: "Fir3.rOx | SpyBoTzOr ' x(:<30><STEAM_ID_LAN><>" ban and kick "cnL~bR. # TK'<31><STEAM_ID_LAN><>" (minutes "5")
+L 12/22/2009 - 17:25:04: [plmenu.amxx] Ban: "Fir3.rOx | SpyBoTzOr ' x(:<30><STEAM_ID_LAN><>" ban and kick "cnL~bR. # TK'<31><STEAM_ID_LAN><>" (minutes "5")
+L 12/22/2009 - 17:25:06: [plmenu.amxx] Ban: "Fir3.rOx | SpyBoTzOr ' x(:<30><STEAM_ID_LAN><>" ban and kick "cnL~bR. # TK'<31><STEAM_ID_LAN><>" (minutes "5")
+L 12/22/2009 - 17:25:10: [plmenu.amxx] Ban: "Fir3.rOx | SpyBoTzOr ' x(:<30><STEAM_ID_LAN><>" ban and kick "cnL~bR. # TK'<31><STEAM_ID_LAN><>" (minutes "5")
+L 12/22/2009 - 17:25:11: [plmenu.amxx] Ban: "Fir3.rOx | SpyBoTzOr ' x(:<30><STEAM_ID_LAN><>" ban and kick "cnL~bR. # TK'<31><STEAM_ID_LAN><>" (minutes "5")
+L 12/22/2009 - 17:25:14: [admin.amxx] Login: "Fir3.rOx | SpyBoTzOr ' x(:<42><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | SpyBoTzOr ' x(:") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/22/2009 - 17:26:03: [admincmd.amxx] Cmd: "Fir3.rOx | SpyBoTzOr ' x(:<42><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/22/2009 - 17:26:41: [plmenu.amxx] Ban: "Fir3.rOx | SpyBoTzOr ' x(:<42><STEAM_ID_LAN><>" ban and kick "cnL~bR. # TK'<31><STEAM_ID_LAN><>" (minutes "0")
+L 12/22/2009 - 17:26:46: [plmenu.amxx] Ban: "Fir3.rOx | SpyBoTzOr ' x(:<42><STEAM_ID_LAN><>" ban and kick "cnL~bR. # TK'<31><STEAM_ID_LAN><>" (minutes "0")
+L 12/22/2009 - 17:27:10: [plmenu.amxx] Ban: "Fir3.rOx | SpyBoTzOr ' x(:<42><STEAM_ID_LAN><>" ban and kick "cnL~bR. # TK'<31><STEAM_ID_LAN><>" (minutes "10")
+L 12/22/2009 - 17:27:13: [plmenu.amxx] Ban: "Fir3.rOx | SpyBoTzOr ' x(:<42><STEAM_ID_LAN><>" ban and kick "cnL~bR. # TK'<31><STEAM_ID_LAN><>" (minutes "10")
+L 12/22/2009 - 17:27:14: [plmenu.amxx] Ban: "Fir3.rOx | SpyBoTzOr ' x(:<42><STEAM_ID_LAN><>" ban and kick "cnL~bR. # TK'<31><STEAM_ID_LAN><>" (minutes "10")
+L 12/22/2009 - 17:27:16: [admin.amxx] Login: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | SpyBoTzOr ' x(:") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/22/2009 - 17:27:30: [plmenu.amxx] Kick: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" kick "cnL~bR. # TK'<31><STEAM_ID_LAN><>"
+L 12/22/2009 - 17:27:39: [plmenu.amxx] Kick: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" kick "cnL~bR. # TK'<48><STEAM_ID_LAN><>"
+L 12/22/2009 - 17:28:00: [plmenu.amxx] Kick: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" kick "cnL~bR. # TK'<50><STEAM_ID_LAN><>"
+L 12/22/2009 - 17:28:22: [admincmd.amxx] Cmd: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/22/2009 - 17:29:42: [plmenu.amxx] Kick: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" kick "cnL~bR. # TK'<52><STEAM_ID_LAN><>"
+L 12/22/2009 - 17:29:48: [plmenu.amxx] Kick: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" kick "ReborN mP3 ON || sXe ON ||<46><STEAM_ID_LAN><>"
+L 12/22/2009 - 17:29:53: [plmenu.amxx] Kick: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" kick "cnL~bR. # TK'<57><STEAM_ID_LAN><>"
+L 12/22/2009 - 17:29:55: [plmenu.amxx] Kick: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" kick "ReborN mP3 ON || sXe ON ||<58><STEAM_ID_LAN><>"
+L 12/22/2009 - 17:30:16: [plmenu.amxx] Kick: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" kick "ReborN mP3 ON || sXe ON ||<60><STEAM_ID_LAN><>"
+L 12/22/2009 - 17:30:18: [plmenu.amxx] Kick: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" kick "cnL~bR. # TK'<59><STEAM_ID_LAN><>"
+L 12/22/2009 - 17:30:29: [plmenu.amxx] Kick: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" kick "ReborN mP3 ON || sXe ON ||<62><STEAM_ID_LAN><>"
+L 12/22/2009 - 17:30:31: [plmenu.amxx] Kick: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" kick "cnL~bR. # TK'<63><STEAM_ID_LAN><>"
+L 12/22/2009 - 17:30:37: [admincmd.amxx] Cmd: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" server console (cmdline "exec cfg/adm1.cfg")
+L 12/22/2009 - 17:30:37: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay "ADMIN [x] ON []OFF"
+L 12/22/2009 - 17:30:37: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay "ADMIN Online!!!"
+L 12/22/2009 - 17:30:41: [adminchat.amxx] Chat: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" tsay "[CSO] Escreva Chapeus para escolher um chapeu!"
+L 12/22/2009 - 17:30:52: [plmenu.amxx] Kick: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" kick "ReborN mP3 ON || sXe ON ||<65><STEAM_ID_LAN><>"
+L 12/22/2009 - 17:31:26: [plmenu.amxx] Kick: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" kick "ReborN mP3 ON || sXe ON ||<68><STEAM_ID_LAN><>"
+L 12/22/2009 - 17:33:41: [adminchat.amxx] Chat: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" tsay " quem"
+L 12/22/2009 - 17:34:44: [adminchat.amxx] Chat: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" tsay " Vai Se Fuder!!!!"
+L 12/22/2009 - 17:36:54: [admincmd.amxx] Cmd: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" server console (cmdline "exec cfg/adm1.cfg")
+L 12/22/2009 - 17:36:54: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay "ADMIN [x] ON []OFF"
+L 12/22/2009 - 17:36:54: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay "ADMIN Online!!!"
+L 12/22/2009 - 17:38:42: [adminchat.amxx] Chat: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" tsay " Eu"
+L 12/22/2009 - 17:38:44: [admincmd.amxx] Cmd: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" server console (cmdline "exec cfg/adm1.cfg")
+L 12/22/2009 - 17:38:44: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay "ADMIN [x] ON []OFF"
+L 12/22/2009 - 17:38:44: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay "ADMIN Online!!!"
+L 12/22/2009 - 17:39:02: [adminchat.amxx] Chat: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" tsay "diz"
+L 12/22/2009 - 17:39:50: [plmenu.amxx] Kick: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" kick "Dean Winchester<74><STEAM_ID_LAN><>"
+L 12/22/2009 - 17:41:38: [plmenu.amxx] Kick: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" kick "Dean Winchester<75><STEAM_ID_LAN><>"
+L 12/22/2009 - 17:46:24: [adminchat.amxx] Chat: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" tsay " Quem ai conheco o CanalCS.Com.Br"
+L 12/22/2009 - 17:47:17: [adminchat.amxx] Chat: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" tsay "em"
+L 12/22/2009 - 17:48:16: [adminchat.amxx] Chat: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" tsay "Vai se Fuder!!!!"
+L 12/22/2009 - 17:48:38: [adminchat.amxx] Chat: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" tsay " Tem xter de Ct ai em"
+L 12/22/2009 - 17:48:45: [adminchat.amxx] Chat: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" tsay " Eh melhor desliga"
+L 12/22/2009 - 17:48:59: [adminchat.amxx] Chat: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" tsay " eh melhor desliga to falando"
+L 12/22/2009 - 17:49:43: [plmenu.amxx] Kick: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" kick "priiririri=D<76><STEAM_ID_LAN><>"
+L 12/22/2009 - 17:50:38: [plmenu.amxx] Kick: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" kick "priiririri=D<-1><><>"
+L 12/22/2009 - 17:53:20: [adminchat.amxx] Chat: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" tsay " Black Qual seu nome Real ?"
+L 12/22/2009 - 17:54:32: [admincmd.amxx] Cmd: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" server console (cmdline "exec cfg/msn.cfg")
+L 12/22/2009 - 17:54:32: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay ""Fexem Navegador , MsN , Emule , etc...""
+L 12/22/2009 - 17:54:32: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay ""Isso Reduz o LAG!!!"
+L 12/22/2009 - 17:54:32: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" csay ""ATENCAO""
+L 12/22/2009 - 17:54:32: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" say "Fexem o msn galera para nao lagar o servidor!"
+L 12/22/2009 - 17:54:40: [admincmd.amxx] Cmd: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" server console (cmdline "exec cfg/msn.cfg")
+L 12/22/2009 - 17:54:40: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay ""Fexem Navegador , MsN , Emule , etc...""
+L 12/22/2009 - 17:54:40: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay ""Isso Reduz o LAG!!!"
+L 12/22/2009 - 17:54:40: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" csay ""ATENCAO""
+L 12/22/2009 - 17:54:40: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" say "Fexem o msn galera para nao lagar o servidor!"
+L 12/22/2009 - 17:54:47: [admincmd.amxx] Cmd: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" server console (cmdline "exec cfg/chame.cfg")
+L 12/22/2009 - 17:54:47: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay "Chamem a Galeraa..."
+L 12/22/2009 - 17:54:47: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay "Bora Cambada!"
+L 12/22/2009 - 17:54:47: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" say "Chame o pessoal! Via Orkut - Msn - Pombo Correio - etc!! "
+L 12/22/2009 - 17:54:55: [admincmd.amxx] Cmd: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" server console (cmdline "exec cfg/spec.cfg")
+L 12/22/2009 - 17:54:55: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay ""Spectador... 1 minuto para entrar no jogo!""
+L 12/22/2009 - 17:54:55: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay " Entre no jogo ou kick!"
+L 12/22/2009 - 17:55:16: [admincmd.amxx] Cmd: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" server console (cmdline "exec cfg/rir.cfg")
+L 12/22/2009 - 17:55:16: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay "Hahuheheuhehaahehehahaheahahedhhea"
+L 12/22/2009 - 17:55:16: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay " Muhuuhahaha"
+L 12/22/2009 - 17:55:16: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" csay "\0/\0/\0/"
+L 12/22/2009 - 17:55:32: [admincmd.amxx] Cmd: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" server console (cmdline "exec cfg/ref.cfg")
+L 12/22/2009 - 17:55:32: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay "Equilibra o time!"
+L 12/22/2009 - 17:55:32: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay "Dee reforco para o time!"
+L 12/22/2009 - 17:55:38: [admincmd.amxx] Cmd: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" server console (cmdline "exec cfg/adm1.cfg")
+L 12/22/2009 - 17:55:38: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay "ADMIN [x] ON []OFF"
+L 12/22/2009 - 17:55:38: [adminchat.amxx] Chat: "Vamos Jogar Nubada<0><><>" tsay "ADMIN Online!!!"
+L 12/22/2009 - 17:58:28: [adminchat.amxx] Chat: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" tsay " Contato:guilherme_cs1@hotmail.com"
+L 12/22/2009 - 17:58:31: [adminchat.amxx] Chat: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" tsay " galera vo saitr"
+L 12/22/2009 - 17:58:39: [adminchat.amxx] Chat: "Fir3.rOx | SpyBoTzOr ' x(:<47><STEAM_ID_LAN><>" tsay " mais vo deixa o sv on na surf ski 2"
+L 12/22/2009 - 17:59:04: -------- Mapchange to surf_ski_2 --------
+L 12/22/2009 - 17:59:10: [AMXX] Run time error 4 (plugin "spawn_editor.amxx") - debug not enabled!
+L 12/22/2009 - 17:59:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/22/2009 - 17:59:10: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/22/2009 - 17:59:10: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/22/2009 - 18:19:38: -------- Mapchange to surf_ski_2 --------
+L 12/22/2009 - 18:19:44: [AMXX] Run time error 4 (plugin "spawn_editor.amxx") - debug not enabled!
+L 12/22/2009 - 18:19:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/22/2009 - 18:19:44: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/22/2009 - 18:19:44: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/22/2009 - 18:20:00: -------- Mapchange to surf_ski_2 --------
+L 12/22/2009 - 18:20:01: [AMXX] Run time error 4 (plugin "spawn_editor.amxx") - debug not enabled!
+L 12/22/2009 - 18:20:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/22/2009 - 18:20:01: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/22/2009 - 18:20:01: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/22/2009 - 18:26:18: -------- Mapchange to surf_ski_2 --------
+L 12/22/2009 - 18:26:19: [AMXX] Run time error 4 (plugin "spawn_editor.amxx") - debug not enabled!
+L 12/22/2009 - 18:26:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/22/2009 - 18:26:19: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/22/2009 - 18:26:19: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/22/2009 - 18:29:51: [admin.amxx] Login: "Fir3.rOx | PeedriiN<5><STEAM_ID_LAN><>" kicked due to invalid password (account "Fir3.rOx | PeedriiN") (address "192.168.254.1")
+L 12/22/2009 - 18:30:04: [admin.amxx] Login: "Fir3.rOx | PeedriiN<6><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | PeedriiN") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/22/2009 - 18:30:33: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<6><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/22/2009 - 18:32:42: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<6><STEAM_ID_LAN><>" transfer "mix sbt.com<2><STEAM_ID_LAN><>" (team "CT")
+L 12/22/2009 - 18:33:00: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<6><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/22/2009 - 18:34:24: [plmenu.amxx] Kick: "Fir3.rOx | PeedriiN<6><STEAM_ID_LAN><>" kick "mix.jorgito<1><STEAM_ID_LAN><>"
+L 12/22/2009 - 18:37:41: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<6><STEAM_ID_LAN><>" tsay " scoult & awp = BAN"
+L 12/22/2009 - 18:40:23: [plmenu.amxx] Kick: "Fir3.rOx | PeedriiN<6><STEAM_ID_LAN><>" kick "*V4n helsinG # ~[4]n[g]e[l]~<14><STEAM_ID_LAN><>"
+L 12/22/2009 - 18:40:46: [plmenu.amxx] Kick: "Fir3.rOx | PeedriiN<6><STEAM_ID_LAN><>" kick "*V4n helsinG # ~[4]n[g]e[l]~<18><STEAM_ID_LAN><>"
+L 12/22/2009 - 18:52:25: [plmenu.amxx] Kick: "Fir3.rOx | PeedriiN<6><STEAM_ID_LAN><>" kick "[P]iu [P]iu |*SemClan<23><STEAM_ID_LAN><>"
+L 12/22/2009 - 18:59:14: [plmenu.amxx] Kick: "Fir3.rOx | PeedriiN<6><STEAM_ID_LAN><>" kick "Loz Nanpe's # Eduarda!<24><STEAM_ID_LAN><>"
+L 12/22/2009 - 19:01:00: [plmenu.amxx] Kick: "Fir3.rOx | PeedriiN<6><STEAM_ID_LAN><>" kick "Player<37><STEAM_ID_LAN><>"
+L 12/22/2009 - 19:02:32: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<6><STEAM_ID_LAN><>" tsay " lag"
+L 12/22/2009 - 19:04:47: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<6><STEAM_ID_LAN><>" tsay " qnd eu ligo o bgl, nao da pra ngm entra"
+L 12/22/2009 - 19:07:33: [mapsmenu.amxx] Vote: "Fir3.rOx | PeedriiN<6><STEAM_ID_LAN><>" vote maps (map#1 "de_dust2") (map#2 "de_train") (map#3 "") (map#4 "")
+L 12/22/2009 - 19:07:45: [mapsmenu.amxx] Vote: Voting failed
+L 12/22/2009 - 19:08:16: [mapsmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<6><STEAM_ID_LAN><>" changelevel "de_dust2"
+L 12/22/2009 - 19:08:20: -------- Mapchange to de_dust2 --------
+L 12/22/2009 - 19:08:28: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/22/2009 - 19:08:28: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/22/2009 - 19:08:29: [admin.amxx] Login: "Fir3.rOx | PeedriiN<6><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | PeedriiN") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/22/2009 - 19:08:48: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<6><STEAM_ID_LAN><>" tsay " sem awp"
+L 12/22/2009 - 19:09:20: [plmenu.amxx] Kick: "Fir3.rOx | PeedriiN<6><STEAM_ID_LAN><>" kick "Loz Nanpe's # Eduarda!<44><STEAM_ID_LAN><>"
+L 12/22/2009 - 19:09:38: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<6><STEAM_ID_LAN><>" tsay " cansa"
+L 12/22/2009 - 19:10:03: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<6><STEAM_ID_LAN><>" tsay " tchau"
+L 12/22/2009 - 19:10:17: [plmenu.amxx] Kick: "Fir3.rOx | PeedriiN<6><STEAM_ID_LAN><>" kick "Loz Nanpe's # Eduarda!<46><STEAM_ID_LAN><>"
+L 12/22/2009 - 19:11:49: -------- Mapchange to surf_ski_2 --------
+L 12/22/2009 - 19:11:50: [AMXX] Run time error 4 (plugin "spawn_editor.amxx") - debug not enabled!
+L 12/22/2009 - 19:11:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/22/2009 - 19:11:50: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/22/2009 - 19:11:50: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/22/2009 - 19:11:59: -------- Mapchange to de_dust2 --------
+L 12/22/2009 - 19:12:02: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/22/2009 - 19:12:02: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/22/2009 - 19:40:53: -------- Mapchange to surf_ski_2 --------
+L 12/22/2009 - 19:40:58: [AMXX] Run time error 4 (plugin "spawn_editor.amxx") - debug not enabled!
+L 12/22/2009 - 19:40:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/22/2009 - 19:40:58: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/22/2009 - 19:40:58: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/22/2009 - 20:35:19: -------- Mapchange to surf_ski_2 --------
+L 12/22/2009 - 20:35:25: [AMXX] Run time error 4 (plugin "spawn_editor.amxx") - debug not enabled!
+L 12/22/2009 - 20:35:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/22/2009 - 20:35:25: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/22/2009 - 20:35:25: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/22/2009 - 20:43:50: -------- Mapchange to surf_ski_2 --------
+L 12/22/2009 - 20:43:54: [AMXX] Run time error 4 (plugin "spawn_editor.amxx") - debug not enabled!
+L 12/22/2009 - 20:43:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/22/2009 - 20:43:54: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/22/2009 - 20:43:54: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/22/2009 - 20:44:37: [admin.amxx] Login: "Fir3.rOx | PeedriiN<1><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | PeedriiN") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/22/2009 - 20:48:26: [admin.amxx] Login: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | PeedriiN") (access "abcdefghijklmnopqrstu") (address "189.46.166.151")
+L 12/22/2009 - 20:55:57: [plmenu.amxx] Kick: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" kick "'   LeO       )(KTRON     ;*<6><STEAM_ID_LAN><>"
+L 12/22/2009 - 20:56:15: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" server console (cmdline "exec cfg/awp.cfg")
+L 12/22/2009 - 20:56:15: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay ".....  Sem AwP!!"
+L 12/22/2009 - 20:56:15: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay "[AVISO]"
+L 12/22/2009 - 20:56:15: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" say "Sem Alp nesse Round!"
+L 12/22/2009 - 21:03:53: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" server console (cmdline "exec cfg/awp.cfg")
+L 12/22/2009 - 21:03:53: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay ".....  Sem AwP!!"
+L 12/22/2009 - 21:03:53: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay "[AVISO]"
+L 12/22/2009 - 21:03:53: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" say "Sem Alp nesse Round!"
+L 12/22/2009 - 21:07:24: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" transfer "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>" (team "CT")
+L 12/22/2009 - 21:21:13: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:15: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:15: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:16: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:16: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:16: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:16: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:17: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:17: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:17: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:17: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:18: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:18: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:18: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:19: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:19: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:19: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:19: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:20: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:20: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:20: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:20: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:20: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:21: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:21: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:21: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:21: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:22: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:22: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:22: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:22: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:22: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:23: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:23: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:23: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:23: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:23: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:24: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:24: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:24: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:24: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:25: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:25: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:25: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:25: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:26: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:26: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:26: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:26: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:27: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:27: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:27: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:27: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:33: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:33: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:33: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:33: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:33: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:34: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:34: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:34: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:34: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:34: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:34: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:34: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:35: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:35: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:35: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:35: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:35: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:35: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:35: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:35: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:36: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:36: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:36: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:36: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:36: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:37: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:37: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:37: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:37: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:37: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:38: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:38: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:38: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:38: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:38: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:38: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:38: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:38: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:39: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:39: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:39: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:39: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:39: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:39: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:39: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:39: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:40: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:40: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:40: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:40: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:40: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:40: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:40: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:40: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:41: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:41: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:41: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:41: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:41: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:41: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:42: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:42: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:42: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:42: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:42: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:42: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:43: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:43: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:43: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:43: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:43: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:43: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:43: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:44: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:44: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:44: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:44: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:44: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:44: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:44: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:44: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:45: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:48: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:48: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:48: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:48: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:49: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:49: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:49: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:49: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:49: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:49: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:49: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:50: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:50: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:50: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:50: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:50: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:50: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:50: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:50: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:51: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:51: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:51: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:52: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:52: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:52: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:52: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:52: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:52: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:53: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:53: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:53: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:53: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:53: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:54: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:54: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:54: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:54: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:54: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:54: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:55: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:55: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:55: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:55: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:55: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:55: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:56: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:56: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:56: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:56: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:56: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:56: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:56: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:57: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:57: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:57: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:57: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:57: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:58: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:58: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:58: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:58: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:58: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:58: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:59: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:59: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:59: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:59: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:59: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:59: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:21:59: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:00: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:00: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:00: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:00: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:00: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:00: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:00: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:01: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:01: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:01: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:01: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:01: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:01: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:01: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:02: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:02: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:02: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:02: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:02: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:02: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:03: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:03: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:03: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:03: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:03: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:03: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:03: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:04: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:04: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:04: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:04: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:04: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:04: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:05: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:05: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:05: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:05: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:05: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:06: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:06: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:06: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:06: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:06: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:06: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:07: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:07: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:07: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:07: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:07: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slap with 0 damage "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:17: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slay "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:32: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slay "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:22:35: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slay "(1)UFC # DIGUINHO<5><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:23:16: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" slay "mix DvM~~~SKIMBOARD [ T.J.F ] 8<9><STEAM_ID_LAN><>"
+L 12/22/2009 - 21:25:06: [admincmd.amxx] Cmd: "Fir3.rOx | SV / DeaTh maTch<0><><>" pause server
+L 12/22/2009 - 21:25:11: [admincmd.amxx] Cmd: "Fir3.rOx | SV / DeaTh maTch<0><><>" unpause server
+L 12/22/2009 - 21:25:17: [admincmd.amxx] Cmd: "Fir3.rOx | SV / DeaTh maTch<0><><>" pause server
+L 12/22/2009 - 21:25:18: [admincmd.amxx] Cmd: "Fir3.rOx | SV / DeaTh maTch<0><><>" unpause server
+L 12/22/2009 - 21:25:24: [admincmd.amxx] Cmd: "Fir3.rOx | SV / DeaTh maTch<0><><>" pause server
+L 12/22/2009 - 21:25:35: [admincmd.amxx] Cmd: "Fir3.rOx | SV / DeaTh maTch<0><><>" unpause server
+L 12/22/2009 - 21:26:52: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" tsay " sem awp agr em"
+L 12/22/2009 - 21:26:55: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/22/2009 - 21:27:00: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" tsay " sem alp agr blz"
+L 12/22/2009 - 21:30:58: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/22/2009 - 21:31:58: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" tsay " carakas"
+L 12/22/2009 - 21:31:59: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" tsay " dueu"
+L 12/22/2009 - 21:32:27: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" tsay " dieguin, nao pod usar o W"
+L 12/22/2009 - 21:33:06: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" tsay " sv_airaccelerate 999"
+L 12/22/2009 - 21:33:57: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/22/2009 - 21:35:42: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" tsay " henrique_hmt@hotmail. om"
+L 12/22/2009 - 21:36:07: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" tsay " dieguinb"
+L 12/22/2009 - 21:36:09: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" tsay ""
+L 12/22/2009 - 21:36:12: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/22/2009 - 21:44:23: -------- Mapchange to surf_ski_2 --------
+L 12/22/2009 - 21:44:28: [AMXX] Run time error 4 (plugin "spawn_editor.amxx") - debug not enabled!
+L 12/22/2009 - 21:44:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/22/2009 - 21:44:28: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/22/2009 - 21:44:28: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/22/2009 - 21:46:40: [admin.amxx] Login: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | PeedriiN") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/22/2009 - 21:47:04: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" tsay "manda um say"
+L 12/22/2009 - 21:47:26: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/22/2009 - 21:47:31: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" tsay " manda um say"
+L 12/22/2009 - 21:54:38: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/22/2009 - 22:04:29: [plmenu.amxx] Kick: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" kick "full [GO] . CheriN<26><STEAM_ID_LAN><>"
+L 12/22/2009 - 22:06:20: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" server console (cmdline "exec cfg/camper.cfg")
+L 12/22/2009 - 22:06:20: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay "Sem Camper!!!"
+L 12/22/2009 - 22:06:20: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay "Vai tomar tapa os campers!"
+L 12/22/2009 - 22:06:25: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" server console (cmdline "exec cfg/awp.cfg")
+L 12/22/2009 - 22:06:26: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay ".....  Sem AwP!!"
+L 12/22/2009 - 22:06:26: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay "[AVISO]"
+L 12/22/2009 - 22:06:26: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" say "Sem Alp nesse Round!"
+L 12/22/2009 - 22:09:29: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" tsay "[CSO] Escreva Chapeus para escolher um chapeu!"
+L 12/22/2009 - 22:09:38: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" tsay "[CSO] Escreva Chapeus para escolher um chapeu!"
+L 12/22/2009 - 22:10:15: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" server console (cmdline "exec cfg/adm1.cfg")
+L 12/22/2009 - 22:10:15: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay "ADMIN [x] ON []OFF"
+L 12/22/2009 - 22:10:15: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay "ADMIN Online!!!"
+L 12/22/2009 - 22:10:21: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" server console (cmdline "exec cfg/cheat.cfg")
+L 12/22/2009 - 22:10:21: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay "cheats = BAN"
+L 12/22/2009 - 22:10:21: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay "Cheaters serao expulsos!!"
+L 12/22/2009 - 22:10:37: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1")
+L 12/22/2009 - 22:10:44: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" server console (cmdline "exec cfg/ff1.cfg ")
+L 12/22/2009 - 22:10:45: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay "Fogo amigo [x]On []Off"
+L 12/22/2009 - 22:11:24: [mapsmenu.amxx] Vote: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" vote maps (map#1 "de_dust2") (map#2 "de_inferno") (map#3 "de_train") (map#4 "")
+L 12/22/2009 - 22:11:36: [mapsmenu.amxx] Vote: Voting failed
+L 12/22/2009 - 22:12:25: [plmenu.amxx] Ban: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" ban and kick "*Rkt.Damage | ReXoNa # Nac1<14><STEAM_ID_LAN><>" (minutes "5")
+L 12/22/2009 - 22:12:42: [plmenu.amxx] Kick: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" kick "*Rkt.Damage | ReXoNa # Nac1<14><STEAM_ID_LAN><>"
+L 12/22/2009 - 22:12:46: [plmenu.amxx] Kick: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" kick "(2)lSmallAvEnGeRl<30><STEAM_ID_LAN><>"
+L 12/22/2009 - 22:15:20: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" server console (cmdline "exec cfg/awp.cfg")
+L 12/22/2009 - 22:15:20: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay ".....  Sem AwP!!"
+L 12/22/2009 - 22:15:20: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay "[AVISO]"
+L 12/22/2009 - 22:15:20: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" say "Sem Alp nesse Round!"
+L 12/22/2009 - 22:15:40: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" server console (cmdline "exec cfg/awp.cfg")
+L 12/22/2009 - 22:15:40: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay ".....  Sem AwP!!"
+L 12/22/2009 - 22:15:40: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay "[AVISO]"
+L 12/22/2009 - 22:15:40: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" say "Sem Alp nesse Round!"
+L 12/22/2009 - 22:15:58: [plmenu.amxx] Kick: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" kick "(2)lSmallAvEnGeRl<33><STEAM_ID_LAN><>"
+L 12/22/2009 - 22:17:42: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" server console (cmdline "exec cfg/awp.cfg")
+L 12/22/2009 - 22:17:42: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay ".....  Sem AwP!!"
+L 12/22/2009 - 22:17:42: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay "[AVISO]"
+L 12/22/2009 - 22:17:42: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" say "Sem Alp nesse Round!"
+L 12/22/2009 - 22:17:47: [plmenu.amxx] Kick: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" kick "okubO ;$<22><STEAM_ID_LAN><>"
+L 12/22/2009 - 22:22:19: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" tsay " d2 blz"
+L 12/22/2009 - 22:22:28: [mapsmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" changelevel "de_dust2"
+L 12/22/2009 - 22:22:33: -------- Mapchange to de_dust2 --------
+L 12/22/2009 - 22:22:48: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/22/2009 - 22:22:48: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/22/2009 - 22:22:51: [admin.amxx] Login: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | PeedriiN") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/22/2009 - 22:23:16: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" tsay " cansa"
+L 12/22/2009 - 22:29:38: -------- Mapchange to surf_ski_2 --------
+L 12/22/2009 - 22:29:41: [AMXX] Run time error 4 (plugin "spawn_editor.amxx") - debug not enabled!
+L 12/22/2009 - 22:29:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/22/2009 - 22:29:41: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/22/2009 - 22:29:41: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/22/2009 - 22:29:48: [admin.amxx] Login: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | PeedriiN") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/22/2009 - 22:50:28: -------- Mapchange to surf_ski_2 --------
+L 12/22/2009 - 22:50:31: [AMXX] Run time error 4 (plugin "spawn_editor.amxx") - debug not enabled!
+L 12/22/2009 - 22:50:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/22/2009 - 22:50:31: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/22/2009 - 22:50:31: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/22/2009 - 23:38:03: [admin.amxx] Login: "Fir3.rOx | RoMaNiN<61><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | RoMaNiN") (access "abcdefghijklmnopqrstu") (address "200.97.9.74")
+L 12/22/2009 - 23:47:10: -------- Mapchange to surf_ski_2 --------
+L 12/22/2009 - 23:47:17: [AMXX] Run time error 4 (plugin "spawn_editor.amxx") - debug not enabled!
+L 12/22/2009 - 23:47:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/22/2009 - 23:47:17: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/22/2009 - 23:47:17: [csdm_main.amxx] CSDM spawn mode set to preset

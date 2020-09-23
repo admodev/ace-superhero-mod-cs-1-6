@@ -1,0 +1,29 @@
+L 07/08/2010 - 13:33:35: -------- Mapchange to $1000$ --------
+L 07/08/2010 - 13:33:35: Error:
+L 07/08/2010 - 13:33:35: [AMXX] Module requested a not exisitng function (file "cstrike\addons\amxmodx\modules\hamsandwich_amxx.dll") (func "AddNewNatives")
+L 07/08/2010 - 13:33:36: [AMXX] Plugin "backweapons.amxx" failed to load: Module/Library "hamsandwich" required for plugin.  Check modules.ini.
+L 07/08/2010 - 13:33:36: [AMXX] Plugin "damage_glow.amxx" failed to load: Module/Library "hamsandwich" required for plugin.  Check modules.ini.
+L 07/08/2010 - 13:35:11: -------- Mapchange to $1000$ --------
+L 07/08/2010 - 13:35:11: Error:
+L 07/08/2010 - 13:35:11: [AMXX] Module requested a not exisitng function (file "cstrike\addons\amxmodx\modules\hamsandwich_amxx.dll") (func "AddNewNatives")
+L 07/08/2010 - 13:35:11: [AMXX] Plugin "backweapons.amxx" failed to load: Module/Library "hamsandwich" required for plugin.  Check modules.ini.
+L 07/08/2010 - 13:35:11: [AMXX] Plugin "damage_glow.amxx" failed to load: Module/Library "hamsandwich" required for plugin.  Check modules.ini.
+L 07/08/2010 - 13:35:54: -------- Mapchange to $1000$ --------
+L 07/08/2010 - 13:35:54: Error:
+L 07/08/2010 - 13:35:54: [AMXX] Module requested a not exisitng function (file "cstrike\addons\amxmodx\modules\hamsandwich_amxx.dll") (func "AddNewNatives")
+L 07/08/2010 - 13:35:54: [AMXX] Plugin "backweapons.amxx" failed to load: Module/Library "hamsandwich" required for plugin.  Check modules.ini.
+L 07/08/2010 - 13:35:54: [AMXX] Plugin "damage_glow.amxx" failed to load: Module/Library "hamsandwich" required for plugin.  Check modules.ini.
+L 07/08/2010 - 13:36:05: [superheromodnvault.amxx] DEBUG: Attempting to load the SuperHero Config File
+L 07/08/2010 - 13:36:05: [superheromodnvault.amxx] DEBUG: Attempting to load the SuperHero Config File
+L 07/08/2010 - 13:36:07: [admin.amxx] Login: "nUy<1><VALVE_ID_LOOPBACK><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 07/08/2010 - 13:36:13: [admin.amxx] Login: "nUy<1><VALVE_ID_LOOPBACK><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 07/08/2010 - 13:38:41: [superheromodnvault.amxx] [SH] "nUy<1><VALVE_ID_LOOPBACK><>" erased all the XP
+L 07/08/2010 - 13:38:47: [superheromodnvault.amxx] [SH] "nUy<1><VALVE_ID_LOOPBACK><>" set level 1 on "nUy<1><VALVE_ID_LOOPBACK><>"
+L 07/08/2010 - 13:40:43: -------- Mapchange to de_dust --------
+L 07/08/2010 - 13:40:44: [AMXX] Plugin "backweapons.amxx" failed to load: Module/Library "hamsandwich" required for plugin.  Check modules.ini.
+L 07/08/2010 - 13:40:44: [AMXX] Plugin "damage_glow.amxx" failed to load: Module/Library "hamsandwich" required for plugin.  Check modules.ini.
+L 07/08/2010 - 13:40:48: [superheromodnvault.amxx] DEBUG: Attempting to load the SuperHero Config File
+L 07/08/2010 - 13:40:48: [superheromodnvault.amxx] DEBUG: Attempting to load the SuperHero Config File
+L 07/08/2010 - 13:40:49: [admin.amxx] Login: "nUy<1><VALVE_ID_LOOPBACK><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 07/08/2010 - 13:40:52: [admin.amxx] Login: "nUy<1><VALVE_ID_LOOPBACK><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 07/08/2010 - 13:44:19: [amx_parachute.amxx] "nUy<1><VALVE_ID_LOOPBACK><>" deu um paraquedas para "nUy<1><VALVE_ID_LOOPBACK><>"

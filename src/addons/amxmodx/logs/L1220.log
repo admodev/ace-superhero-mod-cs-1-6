@@ -1,0 +1,89 @@
+L 12/20/2009 - 13:04:21: -------- Mapchange to surf_ski_2 --------
+L 12/20/2009 - 13:04:27: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/20/2009 - 13:04:27: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/20/2009 - 13:06:49: -------- Mapchange to surf_ski_2 --------
+L 12/20/2009 - 13:06:50: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/20/2009 - 13:06:50: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/20/2009 - 13:09:50: -------- Mapchange to surf_ski_2 --------
+L 12/20/2009 - 13:09:57: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/20/2009 - 13:09:57: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/20/2009 - 13:34:39: -------- Mapchange to surf_ski_2 --------
+L 12/20/2009 - 13:34:44: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/20/2009 - 13:34:44: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/20/2009 - 14:14:02: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/20/2009 - 14:14:16: [AMXX] Run time error 10 (plugin "miscstats.amxx") - debug not enabled!
+L 12/20/2009 - 14:14:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/20/2009 - 14:14:17: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 12/20/2009 - 14:16:17: -------- Mapchange to de_dust --------
+L 12/20/2009 - 14:16:22: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 12/20/2009 - 14:16:22: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/20/2009 - 14:16:37: -------- Mapchange to de_dust2_fundo --------
+L 12/20/2009 - 14:16:38: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\de_dust2_fundo.spawns.cfg)
+L 12/20/2009 - 14:16:38: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/20/2009 - 14:34:53: -------- Mapchange to surf_ski_2 --------
+L 12/20/2009 - 14:35:00: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/20/2009 - 14:35:00: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/20/2009 - 14:35:11: -------- Mapchange to de_dust2_fundo --------
+L 12/20/2009 - 14:35:12: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\de_dust2_fundo.spawns.cfg)
+L 12/20/2009 - 14:35:12: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/20/2009 - 14:35:52: [admin.amxx] Login: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" became an admin (account "Hs # PrO |_WWW.CanalCS.Com.Br_|") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/20/2009 - 14:36:14: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay " Admin oN"
+L 12/20/2009 - 14:36:26: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "MUHUHUHAHUAHAHAHAHAA"
+L 12/20/2009 - 14:36:26: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "HUHUHAHAHUHAAHA"
+L 12/20/2009 - 14:36:30: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 14:36:30: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 14:36:30: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 14:37:27: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 14:37:27: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 14:37:27: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 14:37:37: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay " vai se fuer o.O wall teu cu"
+L 12/20/2009 - 14:37:50: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay " wall  HAHAHAHAHA"
+L 12/20/2009 - 14:37:56: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay " como eh noob mesmo"
+L 12/20/2009 - 14:40:01: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "MUHUHUHAHUAHAHAHAHAA"
+L 12/20/2009 - 14:40:01: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "HUHUHAHAHUHAAHA"
+L 12/20/2009 - 14:40:03: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "MUHUHUHAHUAHAHAHAHAA"
+L 12/20/2009 - 14:40:03: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "HUHUHAHAHUHAAHA"
+L 12/20/2009 - 14:40:04: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "MUHUHUHAHUAHAHAHAHAA"
+L 12/20/2009 - 14:40:04: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "HUHUHAHAHUHAAHA"
+L 12/20/2009 - 14:40:06: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 14:40:06: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 14:40:06: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 14:40:10: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 14:40:10: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 14:40:10: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 14:40:29: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay " -.-"
+L 12/20/2009 - 14:40:36: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay " -.-"
+L 12/20/2009 - 14:40:56: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay " toma"
+L 12/20/2009 - 14:41:24: [plmenu.amxx] Cmd: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" slay "|D|$ D'dthree |D|$<2><STEAM_ID_LAN><>"
+L 12/20/2009 - 14:43:57: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 14:43:57: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 14:43:57: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 14:44:00: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 14:44:00: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 14:44:00: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 14:44:12: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 14:44:12: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 14:44:12: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 14:44:15: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 14:44:15: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 14:44:15: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 14:44:18: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 14:44:18: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 14:44:18: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 14:44:29: [plmenu.amxx] Kick: "Hs # PrO |_WWW.CanalCS.Com.Br_|<3><STEAM_ID_LAN><>" kick "|D|$ D'dthree |D|$<2><STEAM_ID_LAN><>"
+L 12/20/2009 - 16:02:07: -------- Mapchange to surf_ski_2 --------
+L 12/20/2009 - 16:02:13: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/20/2009 - 16:02:13: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/20/2009 - 16:03:56: [admin.amxx] Login: "Hs # PrO |_WWW.CanalCS.Com.Br_|<1><STEAM_ID_LAN><>" became an admin (account "Hs # PrO |_WWW.CanalCS.Com.Br_|") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/20/2009 - 16:06:35: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<1><STEAM_ID_LAN><>" tsay " Admin oN"
+L 12/20/2009 - 16:06:43: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<1><STEAM_ID_LAN><>" tsay " Cheater sinonimo de BAN"
+L 12/20/2009 - 16:09:28: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<1><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 16:09:28: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<1><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 16:09:28: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<1><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 16:10:22: [plmenu.amxx] Kick: "Hs # PrO |_WWW.CanalCS.Com.Br_|<1><STEAM_ID_LAN><>" kick "@bmth          :x<5><STEAM_ID_LAN><>"
+L 12/20/2009 - 16:10:53: [plmenu.amxx] Kick: "Hs # PrO |_WWW.CanalCS.Com.Br_|<1><STEAM_ID_LAN><>" kick "@bmth          :x<8><STEAM_ID_LAN><>"
+L 12/20/2009 - 16:11:08: [plmenu.amxx] Kick: "Hs # PrO |_WWW.CanalCS.Com.Br_|<1><STEAM_ID_LAN><>" kick "@bmth          :x<9><STEAM_ID_LAN><>"
+L 12/20/2009 - 16:33:55: [plmenu.amxx] Kick: "Hs # PrO |_WWW.CanalCS.Com.Br_|<1><STEAM_ID_LAN><>" kick "mix Smasher<6><STEAM_ID_LAN><>"
+L 12/20/2009 - 16:34:11: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<1><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 16:34:11: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<1><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"
+L 12/20/2009 - 16:34:11: [adminchat.amxx] Chat: "Hs # PrO |_WWW.CanalCS.Com.Br_|<1><STEAM_ID_LAN><>" tsay "Vai Se FuDeR!!!"

@@ -1,0 +1,226 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Config and console commands</title>
+<link href="./podbot.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div align="center"><span class="style1">Availiable commands for podbot</span></div><br>
+
+<div><span class="style2">Commands in podbot.cfg file</span></div>
+
+<p><span class="style14">minbotskill</span> (value) - Sets the minimum Skill if Bots are created without
+specifying the Skill. Correct values are 1-100. Default is 1. <p>
+
+<p><span class="style14">maxbotskill</span> (value) - Sets the maximum Skill if Bots are created without
+specifying the Skill. Must be bigger than minbotskill of course ! Correct values are minbotskill-100. 
+Default is 100.<p>
+
+<p><span class="style14">min_bots</span> (value) - configure the minimum number of bots that will run
+on the server. Default is 0.</p>
+
+<p><span class="style14">max_bots</span> (value) - configure the maximum number of bots that will run
+on the server. Default is 0.</p>
+
+<p>If You don't specify min/max_bots (You will comment them out in Your podbot.cfg) then the function 
+auto/add kick bot (described a bit below) will not work. If You specify them - then they will support 
+a minimum and maximum number of bots running on the server.  Bots will be added to the server until 
+the total number of players (bots and humans) reaches the max_bots value.
+Each time a new player joins the server, a bot will be kicked from the server unless there are only 
+min_bots number of bots currently on the server.  After players disconnect from the server, bots will
+be automatically added back to the server until the total number of players reaches max_bots again.
+You should make max_bots be AT LEAST one less than the maxplayers value (otherwise no one will be able
+to join your server). Some more explanation to this function You can find here: 
+<span class="style13">bla_bla_link</span></p>
+
+<p><span class="style14">botchat</span> (on|off) - Turns on/off Botchatting. Bots chat if they killed
+someone, if the Bomb was planted or if they are dead and bored. Default is on.<p>
+
+<P class="style11">NOTE:</p>
+<p>BotChat.txt file must be in addons/podbot directory even if Botchat is turned off !</p>
+
+<p><span class="style14">jasonmode</span> (on|off) - Turns on/off Jason Mode ! Meaning Bots don't buy
+weapons and only use the knife for combat ! Greets to Auxois ! Use this for much fun with e.a. cs_estate 
+or cs_office . Default is off. </p>
+<p><span class="style14">wptfolder</span> (folder) - Sets the default Folder for loading/saving Waypoint
+Files. This folder HAS to be inside the POD-Bot Directory ! Don't put it into quotation marks and
+don't use spaces or a trailing backslash ! Default folder - wptdefault </p>
+
+<p><span class="style14">detailnames</span> (on|off) - Turns on/off the Skilldisplay behind names and the
+personality ( [POD], [P*D], [P0D] ) before the name. Default is on.</p>
+
+<p><span class="style14">inhumanturns</span> (on|off) - If you think that a Skill 100 Bot is too weak for
+you, you can turn this on to have that unfair turning from previous versions again. Note that
+this overrides the turn amounts in botskill.cfg . Default is off</p>
+ 
+<p><span class="style14">botsfollowuser</span> (number) - Sets the maximum number of Bots in the team to
+follow the same user (when Radio Command "Follow Me" is used). Default is 3.</p>
+
+<p><span class="style14">maxweaponpickup</span> (number) - Sets the maximum number of weapons Bots are
+allowed to pickup during a round. Default is 1.</p>
+
+<p><span class="style14">shootthruwalls</span> (on|off) - This Variable specifies if Bots are allowed to
+shoot through Walls if they saw an enemy or if they heard someone on the other Side of a Wall.
+Default is on.</p>
+
+<p><span class="style14">usespeech</span> (on|off) - Turns on/off usage of HL Engine Speech Synthesis 
+at the game start. Default is on.</p>
+
+<p><span class="style14">botspray</span> (on|off) - Set this to off to disallow Bot Logo Spraying. 
+Default is on.</p>
+ 
+<p><span class="style14">mapstartbotdelay</span> (value) - Delay (in seconds) of bots joining after new 
+map start to prevent kick some human-players at map change. Default is 5.</p>
+
+<p>
+<span class="style14">timer_sound</span> (value) - Default is 1.0 (in seconds).<br>
+<span class="style14">timer_pickup</span> (value) - Default is 0.3 (in seconds).<br>
+<span class="style14">timer_grenade</span> (value) - Default is 0.5 (in seconds).<br>
+
+These Settings above specify the rate (in seconds) of updating some of the Bot Checks like:
+some sound, some possibility of pickup any item or usage grenade by bots.
+If you've got a slow computer you could try changing these to higher values to get some 
+performance back.<br>
+<span class="style11">NOTE: </span><br>
+This seriously affects the Bots Perception. If you have a fast computer you might try 
+lowering them to get better even better playing results. </p>
+
+<p><span class="style14">welcome_msgs</span> (on|off) - Lets You to disable some welcome messages, 
+if You would like for example the people don't know there are some bots on the server. 
+Default is on.</p>
+
+<p><span class="style14">danger_factor</span> (value) - The setting here specifies the danger 
+factor with which the bots will weighten any waypoint where they have been killed in the past,
+in order to avoid it later. The higher the value, the more the bot will care about these 
+waypoints and pick other routes instead. Progression is logarithmic. Warning: higher values 
+require more CPU. Default is 2000.</p>
+
+<p><span class="style14">addbot</span> [skill [personality [team [model [name]]]]]</p>
+<p>Adds a Bot with parameters - skill You can write from 1 to 100; if You will write 101 it will mean 
+random skill from minbotskili to maxbotskill specified above.<br>
+Personality - 1 to 3 or 5 and these value mean:<br>
+<ul>
+  <li>1 - Normal [POD]</li>
+  <li>2 - Aggresive [P*D]</li>
+  <li>3 - Defensive [P0D]</li>
+  <li>5 - Random personality from these 3 above</li>
+</ul><br>
+Team 1 is for Terrorists, 2 for Counter Terrorists and 5 to use auto-assign.<br>
+Model (class) is 1-4 or 5 (5 means random from 1 to 4).<br>
+Name is of course the name for this Bot.<br>
+If You want to use space in the name of Your bot You have to use quotes 
+(for example: addbot 100 2 1 4 "James Bond").<br>
+You may not specify some argument without these before (for example - You may not specify bot's name 
+without its skill nor personality nor team nor model - like this: <br>
+addbot Roger<br>
+this is an invalid call of the function addbot and then some bot with all random parameters 
+(including also the name) will be added to the game.<br>
+You don't need of course specify all parameters - but if You need to specify some of them exactly - all other 
+You have to specify as random. In our example to add some bot with the name Roger You have to write the line:<br>
+<br>
+addbot 101 5 5 5 Roger<br>
+<br>
+and this call of addbot function is correctly.<br>
+If You want to add some bot to the game with skill 100 to T team, the line should be like this:<br>
+addbot 100 5 1<br>
+
+In this case the parameters AFTER the latest one You need to specify - aren't important (You don't need write
+anything more). The model will be selected automatically and the name will be choosen from botnames.txt file.<br>
+<p>Some other examples:</p>
+addbot -->skill gets based on mix\max, all else random<br>
+addbot 50 -->skill is 50 all else random<br>
+addbot joeblogs --> skill is based on min/max, name is joeblogs, all else random<br>
+addbot 100 1 2 1 "Mr Kabby" -->all have been set<br><br>
+
+<p><span class="style14">fillserver</span> [skill [personality [team [model]]]]</p>
+Meaning of the parameters is like for addbot command. This command let You fill the server by bots
+until reaching by podbots+human_players(or other bots):<br>
+a) the max_bots value if it is specyfied (different than 0)<br>
+b) max_players if max_bots is not specyfied (or is equal to 0)<br><br>
+
+If You want fill Your server by bots with random skill (between minbotskill and maxbotskill), but as 
+"aggresssive" (and You don't care about their models or team), write this line:<br>
+fillserver 101 2<br>
+If You want for example fill the server by bots with skill 100, random personality , random team and 
+random model - write this line:<br>
+fillserver 100 <br>
+If You wish to fill the server by bots, but all bots to one team only - then write this:<br>
+a)example for T team and skill 90, all else random:<br>
+fillserver 90 5 1<br>
+b)example for CT team and skill and personalities randomly, model 3:<br>
+fillserver 101 5 2 3<br>
+The rules are the same for parameters like for addbot command (except 'name' parameter - 
+for fillserver this parameter doesn't exist).<br>
+<P class="style11">NOTE:</p>
+If You want fill server by bots to only one team don't forget set-up game variables 
+"mp_autoteambalance" and "mp_limitteams" to 0.<br><br>
+
+<div><span class="style2">Podbot control console commands</span></div>
+
+<p>You can change all parameters described above from console - if You wish to do this. 
+Any command You want to write in console for this bot You have to start with prefix "pb" 
+without quotes. For example: <br>
+pb minbotskill 60<br>
+pb jasonmode on<br></p>
+<p>Except these commands described above there are also some other available commands You can 
+write in console.<br></p>
+
+<p><span class="style14">pb experience</span> - this command force bot dll to save 
+the experience file (pxp) exactly at the moment of calling it (after typing in console). 
+Normally these pxp files (with experience of bots - like sombody died near some waypoint 
+number) are saved at the end of the map (before starting the new one).</p>
+
+<p><span class="style14">pb help</span> - this command lists all available bot console commands.
+In the future we want to write more precisly help for every command separately.</p>
+
+<p><span class="style14">pb killbots</span> - this command kill all pod bots in the game.
+Useful for testing if bots got stuck somewhere becasue of bad waypointing and You want simply 
+finish the round.</p>
+
+<p><span class="style14">pb remove</span> (#bot_id | bot_name) - this command lets kick 
+the selected bot from the game. bot_id parameter is this what You can see when You write 
+status in console (the same like for standard kick command). bot_name - it's second method
+to specify which one bot has to be kicked (it's like kick by the name).</p>
+<P class="style11">NOTE:</p>
+<p>If Your bot has a space in its name (for example - James Bond) You need to use quotes 
+to successfully usage of the remove command. Example:<br>
+pb remove "[P*D]James Bond (100)"<br>
+Look at this example with attention - if detailnames is on - You have to write also this personality
+prefix and skill sufix - all must be in quotes - because all of this it's the bot's name in this
+example.</p>
+
+<p><span class="style14">pb removebots</span> - this command kick bots from Your server until 
+reaching min_bots. If min_bots is 0 then all bots will be kicked out by this command.</p>
+
+<p><span class="style14">pb weaponmode</span> (value) - correct value are 1 to 7. This command lets
+You select the weapon will be used by bots only (they will not buy another type).
+<ul>
+  <li>1 - Knife only (JasonMode!)</li>
+  <li>2 - Pistols</li>
+  <li>3 - Shotguns</li>
+  <li>4 - Machine Guns</li>
+  <li>5 - Rifles</li>
+  <li>6 - Sniper Weapons</li>
+  <li>7 - All Weapons (Standard)</li>
+</ul></p>
+
+<p><span class="style14">pb version</span> - this command returns the version number (as a string) 
+of the POD's build</p>
+
+<div><span class="style2">Waypoint console commands</span></div>
+
+<p>These commands below are valid only on listenserver.</p>
+
+<p><span class="style14">waypoint teleport</span> (value) - Teleports You to the waypoint number You write here.</p>
+
+<p><span class="style14">waypoint stats</span> - Shows the number of different waypoints you did 
+already set.</p>
+
+<p><span class="style14">pb debuggoal</span> (value) - this command force bots to go to 
+the waypoint number specyfied here as a goal (target). Default is -1 (-1 means no extra goal waypoint specyfied
+and bots aren't forced to go to some waypoint). More info You can find in Waypointing section of this doc.
+
+</body>
+</html>

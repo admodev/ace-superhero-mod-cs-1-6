@@ -1,0 +1,32 @@
+L 01/22/2006 - 08:03:06: -------- Mapchange to de_dust2 --------
+L 01/22/2006 - 08:03:06: [AMXX] Plugin "csdm_main.amxx" failed to load: Module "csdm" required for plugin. Check modules.ini.
+L 01/22/2006 - 08:03:06: [AMXX] Plugin "csdm_equip.amxx" failed to load: Module "cstrike" required for plugin. Check modules.ini.
+L 01/22/2006 - 08:03:06: [AMXX] Plugin "csdm_spawn_preset.amxx" failed to load: Module "engine" required for plugin. Check modules.ini.
+L 01/22/2006 - 08:03:06: [AMXX] Plugin "spawn_editor.amxx" failed to load: Module "engine" required for plugin. Check modules.ini.
+L 01/22/2006 - 08:03:06: [AMXX] Plugin "csdm_misc.amxx" failed to load: Module "cstrike" required for plugin. Check modules.ini.
+L 01/22/2006 - 08:03:06: [AMXX] Plugin "csdm_tickets.amxx" failed to load: Module "csdm" required for plugin. Check modules.ini.
+L 01/22/2006 - 08:03:06: [AMXX] Plugin "csdm_protection.amxx" failed to load: Module "engine" required for plugin. Check modules.ini.
+L 01/22/2006 - 08:03:10: [admin.amxx] Login: "oNfire! Rev*<1><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/22/2006 - 08:03:12: [admin.amxx] Login: "oNfire! Rev*<1><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/22/2006 - 08:07:00: -------- Mapchange to de_dust2 --------
+L 01/22/2006 - 08:07:01: [AMXX] Plugin "csdm_equip.amxx" failed to load: Module "cstrike" required for plugin. Check modules.ini.
+L 01/22/2006 - 08:07:01: [AMXX] Plugin "csdm_misc.amxx" failed to load: Module "cstrike" required for plugin. Check modules.ini.
+L 01/22/2006 - 08:07:03: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 01/22/2006 - 08:07:03: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/22/2006 - 08:07:05: [admin.amxx] Login: "oNfire! Rev*<1><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/22/2006 - 08:07:07: [admin.amxx] Login: "oNfire! Rev*<1><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/22/2006 - 08:09:38: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 01/22/2006 - 08:09:38: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/22/2006 - 08:10:37: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 01/22/2006 - 08:10:37: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/22/2006 - 08:24:57: -------- Mapchange to de_dust2 --------
+L 01/22/2006 - 08:25:01: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 01/22/2006 - 08:25:01: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/22/2006 - 08:25:02: [admin.amxx] Login: "oNfire! Rev*<1><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/22/2006 - 08:25:05: [admin.amxx] Login: "oNfire! Rev*<1><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/22/2006 - 08:25:27: [amxx_podbotmenu.amxx] [POD-Bot] "oNfire! Rev*<1><STEAM_ID_LAN><>" add 15 bots
+L 01/22/2006 - 08:27:43: -------- Mapchange to de_dust2 --------
+L 01/22/2006 - 08:27:45: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 01/22/2006 - 08:27:45: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/22/2006 - 08:27:47: [admin.amxx] Login: "oNfire! Rev*<1><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/22/2006 - 08:27:49: [admin.amxx] Login: "oNfire! Rev*<1><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")

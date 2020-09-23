@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Introduction</title>
+<link href="./podbot.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div align="center"><span class="style1">Installing podbot and metamod</span></div><br>
+This Install procedure is primarily written for podbot but many other metamod plugins work the same so can be used similarly.<br>
+
+Note:<br>
+plugin.dll should be of the form "plugin_mm.dll" and reside normally in:<br><br>
+Lets Start (Directories):<br><br>
+
+<p class="style11">CS v1.5 and Below:</p>
+The directories will be as follows:<br>
+C:\SIERRA\Half-Life\cstrike (Counter-Strike Half Life MOD version)<br>
+C:\SIERRA\Counter-Strike\cstrike (Counter-Strike retail)<br><br>
+
+<p class="style11">CS1.6 Steam:</p>
+Install Steam (need help - go see the steam website).
+When You have steam installed, it's time to put the other pieces.<br>
+Our working directory where everything will happen is:<br><br>
+c:\steam\steamApps\your@mail\counter-strike\cstrike<br><br>
+or a similar directory depending on where you installed.<br>
+In both cases (CS1.5 and CS1.6) there should be a folder in cstrike called 'addons'. If not - just make a new one.<br><br>
+c:\steam\steamApps\your@mail\counter-strike\cstrike\addons<br><br>
+Now inside create 2 folders: metamod and podbot<br><br>
+c:\steam\steamApps\your@mail\counter-strike\cstrike\addons\metamod<br><br>
+c:\steam\steamApps\your@mail\counter-strike\cstrike\addons\podbot<br><br>
+Inside metamod directory create a folder called 'dlls':<br> 
+c:\steam\steamApps\your@mail\counter-strike\cstrike\addons\metamod\dlls<br>
+The directories are ready now to be filled by some files.<br>
+Lets Start (Files):<br>
+The first step is to edit your liblist.gam this is found in the cstrike directory.<br>
+c:\steam\steamApps\your@mail\counter-strike\cstrike<br><br>
+Make a copy of it and rename this copy to 'csold.gam'<br>
+Then open up 'liblist.gam' file using any text editor and change the following line:<br><br>
+gamedll "dlls\mp.dll" to<br><br>
+gamedll "addons\metamod\dlls\metamod.dll"<br><br>
+then save it.<br><br>
+Extract the podbot and metamod files into some temporary directory like so:<br><br>
+c:\temp\podbot<br><br>
+c:\temp\metamod<br><br>
+Now go into the metamod folder and find the metmod.dll -  copy\drag\cut n paste it to the following folder<br><br>
+c:\steam\steamApps\your@mail\counter-strike\cstrike\addons\metamod\dlls<br><br> 
+Now go to the temp folder 'podbot' and copy all contest of it (with all subdirectories) to the steam 'podbot' folder (this one below):<br><br> 
+c:\steam\steamApps\your@mail\counter-strike\cstrike\addons\podbot<br><br>
+Now go to<br><br>
+c:\steam\steamApps\your@mail\counter-strike\cstrike\addons\metamod<br><br><br>
+create a file called plugins.ini . Just use notepad and go 'save as', save as type = all files, file name = plugins.ini (make sure You write is as plugins.ini - not some hidden extension txt like plugins.ini.txt - Windows by default hides some most known file types). <br><br>
+in this file place the following line for Windows:<br><br>
+win32 addons/podbot/podbot_mm.dll<br><br>
+or for Linux:<br><br>
+linux addons/podbot/podbot_mm_i586.so<br><br>
+Create a Game with a map that has waypoints for POD-Bot (take a look into the &quot;cstrike/addons/podbot/WPTDefault&quot; folder - all files with the extension &quot;.pwf&quot; should be valid waypoint files.<br> 
+Note:<br>
+We advise you to delete any previous .pxp files (bots experience files) that you may have used with former versions of this bot. You don't need to do this if You already used some podbot2.6mm version before (some podbot_mm.dll created after 26.04.2004). Since the bot now supports the new CS 1.6 weapons, you MUST use the included bot_weapons.cfg file which takes them into account. If you attempt to use an older weapon configuration file from POD-bot 2.5 or 2.6 (but not 2.6mm) or some old &quot;.pxp&quot; files the bot will crash.<br>
+<p>Bots will automatically be added to the game using the &quot;podbot.cfg&quot; file found in the cstrike/addons/podbot directory. If you wish to change the number of bots that are created automatically you can edit the podbot.cfg file using any text editor. </p>
+Done. Metamod and podbot should be ready to work.<br>
+<p class="style14">Now you're ready to play! </p>
+<p class="style2">Uninstalling PodBot from your system:</p>
+Rename the file 'csold.gam' to 'liblist.gam' in your cstrike Game Folder to have a full working CS again without metamod or delete one of these lines in plugins.ini file (in metamod directory) - depanding of the system You have:<br><br>
+win32 addons/podbot/podbot_mm.dll<br>
+linux addons/podbot/podbot_mm_i586.so<br><br>
+if You still want to use some other metamod plugins.
+Then simply delete the podbot folder in cstrike/addons directory (if You don't wish to use it any more).<br><br>
+</body>
+</html>
+

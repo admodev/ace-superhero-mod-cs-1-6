@@ -1,0 +1,26 @@
+body {
+	font-family: Arial, Verdana, Helvetica, sans-serif, Tahoma;
+	color: white;
+	font-size: 12;
+	background-color: #333333;
+}
+
+td { font-size:12; }
+.transp { ; }
+.normcell { background-color: #4D4D4D; }
+.teamTERRORIST { background-color: #623738; }
+.teamCT { background-color: #2D356C; }
+.teamUNASSIGNED { background-color: #757575; }
+.teamSPECTATOR { background-color: #757575; }
+
+.w-title-big { font-size: 30; font-weight: bold; color: orange; }
+
+A { color: orange; text-decoration: none; }
+A:hover { text-decoration: underline; }
+
+table { border: #FFFFFF; border-style: solid; border-width: 1px; }
+
+select { background-color: #4D4D4D; color: #FFFFFF; }
+
+input { border-style: solid; border-color: orange; border-width: 1px; }
+.nojs { border-style: dotted; border-width: 1px; padding: 2px; background-color: #FF5151; }

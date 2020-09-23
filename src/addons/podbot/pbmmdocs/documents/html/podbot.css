@@ -1,0 +1,57 @@
+body, td, th 
+{
+	background-color: #000000;
+	color: #999999;
+	font-family: Courier New, Courier, mono;
+	font-size: small;
+}
+h1, h2, h3, h4, h5, h6 
+{
+	font-family: Times New Roman, Times, serif;
+}
+h1 
+{
+	font-size: xx-large;
+	color: #CCCCCC;
+}
+.style1 {font-family: "Times New Roman", Times, serif; font-size: xx-large; color: #CCCCCC; font-weight: bold;}
+.style2 {font-family: "Times New Roman", Times, serif;font-size: large;color: #CCCCCC; font-weight: bold;}
+.style3 {font-size: small; color: #CCCCCC;}
+.style4 {font-family: "Courier New", Courier, mono; font-size: small; color: #999999; }
+.style5 {font-family: Georgia, "Times New Roman", Times, serif; font-size: medium; color: #0066FF; font-weight: bold;}
+.style6 {font-family: "Times New Roman", Courier, mono; font-size: medium; color: #999999; font-weight: bold;}
+.style7 {font-family: "Courier New", Courier, mono;	font-size: x-large; color: #00FF00; font-weight: bold;}
+.style8 {font-family: "Courier New", Courier, mono; font-size: small; color: #FF0000; font-weight: bold;}
+.style9 {font-family: "Times New Roman", Courier, mono; font-size: medium; color: #00FF66; font-weight: bold;}
+.style10 {font-family: "Times New Roman", Courier, mono; font-size: large; color: #0066FF; font-weight: bold;}
+.style11 {font-family: "Courier New", Courier, mono; font-size: small; color: #0099FF; font-weight: bold;}
+.style12 {color: #FF0000}
+.style13 {color: #FF0000; font-weight: bold;}
+.style14 {color: #00FF66}
+.style15 {color: #FFFF00}
+.style16 {color: #FFFFFF}
+.style17 {color: #0033FF}
+.style18 {color: #00FF00}
+.style19 {color: #00FFFF}
+.style20 {color: #FF00FF}
+.style21 {color: #FF9933}
+.style22 {font-family: "Times New Roman", Times, serif;font-size: large;color: #FF33CC; font-weight: bold;}
+.style23 {color: #6600FF}
+.style24 {color: #00CC99}
+.page
+{
+	background: #FFFFFF;
+	color: #000000;
+}
+.tborder
+{
+	background: #204060;
+}
+.thead
+{
+	background: #80a0d0;
+	color: #EEEEFF;
+	font-size: 10px;
+	font-weight: bold;
+}
+td.thead { padding: 4px; }

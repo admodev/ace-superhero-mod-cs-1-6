@@ -1,0 +1,11 @@
+L 07/09/2010 - 12:40:48: Log file started (file "cstrike\addons\amxmodx\logs\dmaplog0709.log") (game "cstrike") (amx "1.75a")
+L 07/09/2010 - 12:40:48: Did not ban any maps from mapstoban.ini file
+L 07/09/2010 - 12:40:48: Map "fy_snow" is already in list! It is defined it twice
+L 07/09/2010 - 12:40:48: Loaded 37 Maps into the maps that will be picked for the vote
+L 07/09/2010 - 12:40:48: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 07/09/2010 - 12:40:48: Found 39 Maps in your mapcycle.txt/allmaps.txt file, 37 are available for filling slots
+L 07/09/2010 - 14:25:53: Did not ban any maps from mapstoban.ini file
+L 07/09/2010 - 14:25:56: Map "fy_snow" is already in list! It is defined it twice
+L 07/09/2010 - 14:25:56: Loaded 36 Maps into the maps that will be picked for the vote
+L 07/09/2010 - 14:25:56: 4 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 07/09/2010 - 14:25:56: Found 39 Maps in your mapcycle.txt/allmaps.txt file, 36 are available for filling slots

@@ -1,0 +1,1503 @@
+L 12/23/2009 - 00:01:53: [admin.amxx] Login: "Hs # PrO | flanders<22><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.2.51")
+L 12/23/2009 - 00:02:00: [adminchat.amxx] Chat: "Hs # PrO | flanders<22><STEAM_ID_LAN><>" tsay "sdajda"
+L 12/23/2009 - 00:02:11: [adminchat.amxx] Chat: "Hs # PrO | flanders<22><STEAM_ID_LAN><>" tsay "respeito"
+L 12/23/2009 - 00:02:48: [adminchat.amxx] Chat: "Hs # PrO | flanders<22><STEAM_ID_LAN><>" tsay " jah pus"
+L 12/23/2009 - 00:02:56: [adminchat.amxx] Chat: "Hs # PrO | flanders<22><STEAM_ID_LAN><>" tsay "jah  foi"
+L 12/23/2009 - 00:03:15: [adminchat.amxx] Chat: "Hs # PrO | flanders<22><STEAM_ID_LAN><>" tsay "  haah"
+L 12/23/2009 - 00:03:44: [adminchat.amxx] Chat: "Hs # PrO | flanders<22><STEAM_ID_LAN><>" tsay "arma de mira e kick"
+L 12/23/2009 - 00:05:34: -------- Mapchange to surf_ski_2 --------
+L 12/23/2009 - 00:05:39: [AMXX] Run time error 4 (plugin "spawn_editor.amxx") - debug not enabled!
+L 12/23/2009 - 00:05:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/23/2009 - 00:05:39: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/23/2009 - 00:05:39: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/23/2009 - 00:06:27: [admin.amxx] Login: "Hs # PrO | flanders<27><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.5.193")
+L 12/23/2009 - 00:07:01: [admin.amxx] Login: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | Form1g4") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/23/2009 - 00:07:19: [adminchat.amxx] Chat: "Hs # PrO | flanders<27><STEAM_ID_LAN><>" tsay "ADM ON"
+L 12/23/2009 - 00:07:31: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" tsay ""
+L 12/23/2009 - 00:07:39: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" tsay " eae NuuB"
+L 12/23/2009 - 00:07:53: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" tsay "qual tu quer Lucas"
+L 12/23/2009 - 00:08:03: [adminchat.amxx] Chat: "Hs # PrO | flanders<27><STEAM_ID_LAN><>" tsay "  RLX   formiga  ds muda"
+L 12/23/2009 - 00:08:20: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" tsay "em lucas"
+L 12/23/2009 - 00:08:23: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" tsay "qual tu quer"
+L 12/23/2009 - 00:08:38: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" server console (cmdline "exec cfg/adm1.cfg")
+L 12/23/2009 - 00:08:38: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay "ADMIN [x] ON []OFF"
+L 12/23/2009 - 00:08:38: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay "ADMIN Online!!!"
+L 12/23/2009 - 00:08:50: [adminchat.amxx] Chat: "Hs # PrO | flanders<27><STEAM_ID_LAN><>" tsay "DAQUI A POcos ne formiga"
+L 12/23/2009 - 00:08:56: [mapsmenu.amxx] Vote: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" vote maps (map#1 "cs_assault") (map#2 "de_dust2") (map#3 "") (map#4 "")
+L 12/23/2009 - 00:09:08: [mapsmenu.amxx] Vote: Voting failed
+L 12/23/2009 - 00:09:08: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" tsay " 2"
+L 12/23/2009 - 00:09:31: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" tsay " entaum sai rodrigo"
+L 12/23/2009 - 00:10:20: [mapsmenu.amxx] Cmd: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" changelevel "de_dust2"
+L 12/23/2009 - 00:10:32: -------- Mapchange to de_dust2 --------
+L 12/23/2009 - 00:10:43: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/23/2009 - 00:10:44: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/23/2009 - 00:10:49: [admin.amxx] Login: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | Form1g4") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/23/2009 - 00:11:56: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 00:12:07: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" tsay " Lukas cara muda esse nick"
+L 12/23/2009 - 00:12:11: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" tsay " heauehaeuaheau"
+L 12/23/2009 - 00:13:24: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" tsay " nao karalho"
+L 12/23/2009 - 00:13:26: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" tsay " chatao"
+L 12/23/2009 - 00:13:56: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" server console (cmdline "exec cfg/adm1.cfg")
+L 12/23/2009 - 00:13:56: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay "ADMIN [x] ON []OFF"
+L 12/23/2009 - 00:13:56: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay "ADMIN Online!!!"
+L 12/23/2009 - 00:14:32: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" tsay " Vai Se Fuder!!!"
+L 12/23/2009 - 00:16:54: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" tsay "qm"
+L 12/23/2009 - 00:18:14: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" server console (cmdline "exec cfg/adm1.cfg")
+L 12/23/2009 - 00:18:14: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay "ADMIN [x] ON []OFF"
+L 12/23/2009 - 00:18:14: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay "ADMIN Online!!!"
+L 12/23/2009 - 00:18:19: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" server console (cmdline "exec cfg/adm2.cfg")
+L 12/23/2009 - 00:18:19: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay "ADMIN [] ON [x]OFF"
+L 12/23/2009 - 00:18:19: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay "ADMIN Saindo..."
+L 12/23/2009 - 00:18:19: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" csay "!!!!"
+L 12/23/2009 - 00:18:26: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" server console (cmdline "exec cfg/adm1.cfg")
+L 12/23/2009 - 00:18:27: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay "ADMIN [x] ON []OFF"
+L 12/23/2009 - 00:18:27: [adminchat.amxx] Chat: "Fir3.rOx | SV / DeaTh maTch<0><><>" tsay "ADMIN Online!!!"
+L 12/23/2009 - 00:21:11: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" tsay " ve c deu"
+L 12/23/2009 - 00:21:17: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" tsay " ve c deu"
+L 12/23/2009 - 00:25:03: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" tsay " ah man"
+L 12/23/2009 - 00:25:06: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" tsay " ja sei pq"
+L 12/23/2009 - 00:25:12: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" tsay " pera um pokinho firmeza"
+L 12/23/2009 - 00:25:14: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" tsay " ?"
+L 12/23/2009 - 00:25:58: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" tsay " contato:guilherme_cs1@hotmail.com"
+L 12/23/2009 - 00:26:08: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<28><STEAM_ID_LAN><>" tsay " ta full"
+L 12/23/2009 - 00:31:46: -------- Mapchange to de_dust2 --------
+L 12/23/2009 - 00:31:52: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/23/2009 - 00:31:52: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/23/2009 - 00:31:54: [admin.amxx] Login: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | LeO       )(KTRON") (access "abcdefghijklmnopqrstu") (address "189.62.225.114")
+L 12/23/2009 - 00:32:07: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" tsay "o>o"
+L 12/23/2009 - 00:32:14: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 00:32:14: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 00:32:14: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" tsay "| Restarting Round in GAME! | "
+L 12/23/2009 - 00:32:14: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1 ")
+L 12/23/2009 - 00:32:16: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 00:32:16: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 00:32:16: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 00:32:17: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 00:32:17: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 00:32:17: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 00:32:17: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 00:32:17: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 00:32:17: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 00:32:17: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 00:32:17: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 00:32:17: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 00:32:17: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 00:32:17: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 00:32:17: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 00:32:17: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 00:32:17: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 00:32:17: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 00:32:19: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 00:32:20: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 00:32:20: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 00:32:20: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 00:32:20: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 00:32:20: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 00:32:20: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 00:32:43: -------- Mapchange to surf_ski_2 --------
+L 12/23/2009 - 00:32:44: [AMXX] Run time error 4 (plugin "spawn_editor.amxx") - debug not enabled!
+L 12/23/2009 - 00:32:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/23/2009 - 00:32:44: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/23/2009 - 00:32:44: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/23/2009 - 00:32:45: [admin.amxx] Login: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | LeO       )(KTRON") (access "abcdefghijklmnopqrstu") (address "189.62.225.114")
+L 12/23/2009 - 00:32:45: [admin.amxx] Login: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | LeO       )(KTRON") (access "abcdefghijklmnopqrstu") (address "189.62.225.114")
+L 12/23/2009 - 00:34:00: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 00:34:00: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 00:34:00: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 00:34:01: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 00:34:02: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 00:34:02: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 00:34:02: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 00:34:03: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 00:34:03: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 00:34:03: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 00:34:04: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 00:34:04: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 00:34:04: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" tsay "| Restarting Round in GAME! | "
+L 12/23/2009 - 00:34:04: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1 ")
+L 12/23/2009 - 00:34:41: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 00:34:41: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 00:34:41: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" tsay "| Restarting Round in GAME! | "
+L 12/23/2009 - 00:34:41: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1 ")
+L 12/23/2009 - 00:34:59: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 00:34:59: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 00:34:59: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" tsay "| Restarting Round in GAME! | "
+L 12/23/2009 - 00:34:59: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1 ")
+L 12/23/2009 - 00:38:58: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 00:38:58: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 00:38:58: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" tsay "| Restarting Round in GAME! | "
+L 12/23/2009 - 00:38:58: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1 ")
+L 12/23/2009 - 00:43:59: [plmenu.amxx] Ban: "Fir3.rOx | LeO       )(KTRON<1><STEAM_ID_LAN><>" ban and kick "Panic!<10><STEAM_ID_LAN><>" (minutes "5")
+L 12/23/2009 - 00:44:03: [admin.amxx] Login: "Fir3.rOx | LeO       )(KTRON<19><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | LeO       )(KTRON") (access "abcdefghijklmnopqrstu") (address "189.62.225.114")
+L 12/23/2009 - 00:44:20: [plmenu.amxx] Ban: "Fir3.rOx | LeO       )(KTRON<19><STEAM_ID_LAN><>" ban and kick "Panic!<10><STEAM_ID_LAN><>" (minutes "5")
+L 12/23/2009 - 00:44:22: [admin.amxx] Login: "Fir3.rOx | LeO       )(KTRON<21><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | LeO       )(KTRON") (access "abcdefghijklmnopqrstu") (address "189.62.225.114")
+L 12/23/2009 - 00:44:36: [admin.amxx] Login: "Hs # PrO | flanders<18><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.6.5")
+L 12/23/2009 - 00:44:39: [plmenu.amxx] Kick: "Fir3.rOx | LeO       )(KTRON<21><STEAM_ID_LAN><>" kick "Panic!<10><STEAM_ID_LAN><>"
+L 12/23/2009 - 00:44:54: [adminchat.amxx] Chat: "Hs # PrO | flanders<18><STEAM_ID_LAN><>" tsay " DEU pau no teclado"
+L 12/23/2009 - 00:44:59: [plmenu.amxx] Ban: "Fir3.rOx | LeO       )(KTRON<21><STEAM_ID_LAN><>" ban and kick "Panic!<23><STEAM_ID_LAN><>" (minutes "5")
+L 12/23/2009 - 00:45:02: [admin.amxx] Login: "Fir3.rOx | LeO       )(KTRON<24><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | LeO       )(KTRON") (access "abcdefghijklmnopqrstu") (address "189.62.225.114")
+L 12/23/2009 - 00:46:38: [admin.amxx] Login: "Hs # PrO | flanders<25><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.1.173")
+L 12/23/2009 - 00:47:07: [adminchat.amxx] Chat: "Hs # PrO | flanders<25><STEAM_ID_LAN><>" tsay " admi on"
+L 12/23/2009 - 00:47:32: [adminchat.amxx] Chat: "Hs # PrO | flanders<25><STEAM_ID_LAN><>" tsay "PANIC vai levar ban"
+L 12/23/2009 - 00:47:52: [adminchat.amxx] Chat: "Hs # PrO | flanders<25><STEAM_ID_LAN><>" tsay "ARMA DE MIRA  KICK   XITER BAN"
+L 12/23/2009 - 00:48:44: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<24><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 00:48:44: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<24><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 00:48:45: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<24><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 00:48:45: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<24><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 00:48:45: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<24><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 00:49:05: [plmenu.amxx] Kick: "Fir3.rOx | LeO       )(KTRON<24><STEAM_ID_LAN><>" kick "Panic!<23><STEAM_ID_LAN><>"
+L 12/23/2009 - 00:50:35: [adminchat.amxx] Chat: "Hs # PrO | flanders<25><STEAM_ID_LAN><>" tsay "lguem vai querer outro mapa ou esse tah lpza"
+L 12/23/2009 - 00:50:50: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<24><STEAM_ID_LAN><>" tsay "Sem ALP"
+L 12/23/2009 - 00:51:25: [admin.amxx] Login: "Hs # PrO | flanders<31><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.1.173")
+L 12/23/2009 - 00:52:38: [adminchat.amxx] Chat: "Hs # PrO | flanders<31><STEAM_ID_LAN><>" tsay "arma de mira e kick"
+L 12/23/2009 - 00:52:50: [adminchat.amxx] Chat: "Hs # PrO | flanders<31><STEAM_ID_LAN><>" tsay " arma de mira e kick"
+L 12/23/2009 - 00:55:56: [adminchat.amxx] Chat: "Hs # PrO | flanders<31><STEAM_ID_LAN><>" tsay "rma de mira kick   ultimo aviso"
+L 12/23/2009 - 00:56:17: [adminchat.amxx] Chat: "Hs # PrO | flanders<31><STEAM_ID_LAN><>" tsay " arma de mira KICK"
+L 12/23/2009 - 13:15:05: -------- Mapchange to surf_iceday_remake --------
+L 12/23/2009 - 13:15:11: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_iceday_remake.spawns.cfg)
+L 12/23/2009 - 13:15:11: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/23/2009 - 13:26:01: [admin.amxx] Login: "Fir3.rOx | Form1g4<6><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | Form1g4") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/23/2009 - 13:26:40: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<6><STEAM_ID_LAN><>" tsay " Admin oN"
+L 12/23/2009 - 13:27:23: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<6><STEAM_ID_LAN><>" tsay " Admin oN"
+L 12/23/2009 - 13:28:14: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<6><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 13:31:14: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<6><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 13:36:41: [admin.amxx] Login: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | Form1g4") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/23/2009 - 13:38:17: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 13:38:56: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay "heauehau"
+L 12/23/2009 - 13:39:02: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay " daki a poko coloko blz "
+L 12/23/2009 - 13:39:04: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay " ?"
+L 12/23/2009 - 13:39:14: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay " opa blz"
+L 12/23/2009 - 13:39:53: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay ""
+L 12/23/2009 - 13:40:07: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay " quando eu coloco surf_style 2 aki"
+L 12/23/2009 - 13:40:22: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay " da ERRo"
+L 12/23/2009 - 13:40:26: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay " e fecha o server"
+L 12/23/2009 - 13:40:28: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay " nao sei pq"
+L 12/23/2009 - 13:41:15: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay " me add la"
+L 12/23/2009 - 13:41:27: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay " contato:guilherme_cs1@hotmail.com"
+L 12/23/2009 - 13:42:58: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay "fala"
+L 12/23/2009 - 13:43:15: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay "eu naum tenho po"
+L 12/23/2009 - 13:43:25: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay "vcs sabem jogar qual mais"
+L 12/23/2009 - 13:43:27: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay "fala ai"
+L 12/23/2009 - 13:43:40: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay "qual mais"
+L 12/23/2009 - 13:43:56: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay "q"
+L 12/23/2009 - 13:44:04: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay "oq"
+L 12/23/2009 - 13:44:21: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay "meu"
+L 12/23/2009 - 13:44:42: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay "ainda nao"
+L 12/23/2009 - 13:45:44: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay "vcs sabem joga na surf sand ou ski 2 ?"
+L 12/23/2009 - 13:46:22: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay "aprendendo surf"
+L 12/23/2009 - 13:46:24: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay "qual sewu nome"
+L 12/23/2009 - 13:46:52: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay "vem na base TR"
+L 12/23/2009 - 13:47:17: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay "nao mata"
+L 12/23/2009 - 13:47:20: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay "nao mata porra"
+L 12/23/2009 - 13:47:30: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay "leo nao mata karalho"
+L 12/23/2009 - 13:47:35: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay "vem todos base TR"
+L 12/23/2009 - 13:47:38: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 13:47:47: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay "c liguem"
+L 12/23/2009 - 13:47:51: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay "vem todos base Tr"
+L 12/23/2009 - 13:47:53: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay "sem mata"
+L 12/23/2009 - 13:48:15: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay "[CSO] Escreva Chapeus para escolher um chapeu!"
+L 12/23/2009 - 13:48:16: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 13:48:25: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay "todos base"
+L 12/23/2009 - 13:50:33: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay ""
+L 12/23/2009 - 13:50:35: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay "ae"
+L 12/23/2009 - 13:50:41: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay "ae ae ae thiago"
+L 12/23/2009 - 13:51:07: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay "thiago vem Msn"
+L 12/23/2009 - 13:51:29: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay "thiago vai no msn vo la aceita"
+L 12/23/2009 - 13:51:42: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay " Todos add em msn"
+L 12/23/2009 - 13:51:46: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay " e vao pro msn"
+L 12/23/2009 - 13:51:55: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<17><STEAM_ID_LAN><>" tsay " guilherme_cs1@hotmail.com"
+L 12/23/2009 - 13:56:37: -------- Mapchange to de_dust2_fundo --------
+L 12/23/2009 - 13:56:43: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\de_dust2_fundo.spawns.cfg)
+L 12/23/2009 - 13:56:43: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/23/2009 - 14:05:34: [admin.amxx] Login: "Hs # PrO | flanders<43><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.1.108")
+L 12/23/2009 - 14:06:17: [adminchat.amxx] Chat: "Hs # PrO | flanders<43><STEAM_ID_LAN><>" tsay " ADMIN ON"
+L 12/23/2009 - 14:06:52: [admin.amxx] Login: "Hs # PrO | flanders<45><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.1.108")
+L 12/23/2009 - 14:07:20: [adminchat.amxx] Chat: "Hs # PrO | flanders<45><STEAM_ID_LAN><>" tsay "ADM ON"
+L 12/23/2009 - 15:13:02: -------- Mapchange to de_dust2 --------
+L 12/23/2009 - 15:13:11: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/23/2009 - 15:13:11: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/23/2009 - 15:16:31: [admin.amxx] Login: "adx's# joosch<10><STEAM_ID_LAN><>" kicked due to invalid password (account "adx's# joosch") (address "201.89.78.189")
+L 12/23/2009 - 15:17:00: [admin.amxx] Login: "adx's# joosch<11><STEAM_ID_LAN><>" kicked due to invalid password (account "adx's# joosch") (address "201.89.78.189")
+L 12/23/2009 - 15:17:46: [admin.amxx] Login: "adx's# joosch<20><STEAM_ID_LAN><>" kicked due to invalid password (account "adx's# joosch") (address "201.89.78.189")
+L 12/23/2009 - 15:17:49: [admin.amxx] Login: "adx's# joosch<21><STEAM_ID_LAN><>" kicked due to invalid password (account "adx's# joosch") (address "201.89.78.189")
+L 12/23/2009 - 15:17:52: [admin.amxx] Login: "adx's# joosch<22><STEAM_ID_LAN><>" kicked due to invalid password (account "adx's# joosch") (address "201.89.78.189")
+L 12/23/2009 - 15:17:55: [admin.amxx] Login: "adx's# joosch<23><STEAM_ID_LAN><>" kicked due to invalid password (account "adx's# joosch") (address "201.89.78.189")
+L 12/23/2009 - 15:17:56: [admin.amxx] Login: "Hs # PrO | flanders<24><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.5.21")
+L 12/23/2009 - 15:18:38: [adminchat.amxx] Chat: "Hs # PrO | flanders<24><STEAM_ID_LAN><>" tsay " ADM ON"
+L 12/23/2009 - 15:18:48: [admin.amxx] Login: "adx's# joosch<35><STEAM_ID_LAN><>" kicked due to invalid password (account "adx's# joosch") (address "201.89.78.189")
+L 12/23/2009 - 15:18:56: [admin.amxx] Login: "adx's# joosch<37><STEAM_ID_LAN><>" kicked due to invalid password (account "adx's# joosch") (address "201.89.78.189")
+L 12/23/2009 - 15:18:58: [admin.amxx] Login: "adx's# joosch<42><STEAM_ID_LAN><>" kicked due to invalid password (account "adx's# joosch") (address "201.89.78.189")
+L 12/23/2009 - 15:19:00: [admin.amxx] Login: "adx's# joosch<43><STEAM_ID_LAN><>" kicked due to invalid password (account "adx's# joosch") (address "201.89.78.189")
+L 12/23/2009 - 15:19:02: [admin.amxx] Login: "adx's# joosch<44><STEAM_ID_LAN><>" kicked due to invalid password (account "adx's# joosch") (address "201.89.78.189")
+L 12/23/2009 - 15:19:06: [admin.amxx] Login: "adx's# joosch<45><STEAM_ID_LAN><>" kicked due to invalid password (account "adx's# joosch") (address "201.89.78.189")
+L 12/23/2009 - 15:19:08: [admin.amxx] Login: "adx's# joosch<46><STEAM_ID_LAN><>" kicked due to invalid password (account "adx's# joosch") (address "201.89.78.189")
+L 12/23/2009 - 15:19:10: [admin.amxx] Login: "adx's# joosch<47><STEAM_ID_LAN><>" kicked due to invalid password (account "adx's# joosch") (address "201.89.78.189")
+L 12/23/2009 - 15:19:12: [admin.amxx] Login: "adx's# joosch<48><STEAM_ID_LAN><>" kicked due to invalid password (account "adx's# joosch") (address "201.89.78.189")
+L 12/23/2009 - 15:19:39: [admin.amxx] Login: "adx's# joosch<66><STEAM_ID_LAN><>" kicked due to invalid password (account "adx's# joosch") (address "201.89.78.189")
+L 12/23/2009 - 15:19:51: [admin.amxx] Login: "adx's# joosch<67><STEAM_ID_LAN><>" kicked due to invalid password (account "adx's# joosch") (address "201.89.78.189")
+L 12/23/2009 - 15:19:54: [admin.amxx] Login: "Hs # PrO | flanders<69><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.5.21")
+L 12/23/2009 - 15:20:10: [admin.amxx] Login: "adx's# joosch<75><STEAM_ID_LAN><>" became an admin (account "adx's# joosch") (access "abcdefghijklmnopqrstu") (address "201.89.78.189")
+L 12/23/2009 - 15:20:31: [adminchat.amxx] Chat: "Hs # PrO | flanders<69><STEAM_ID_LAN><>" tsay "VAO QUERER D2 mesmo?"
+L 12/23/2009 - 15:20:59: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "aeae"
+L 12/23/2009 - 15:21:04: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "KAOPSKAPOSKPOAS"
+L 12/23/2009 - 15:21:13: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "eh nois que ta"
+L 12/23/2009 - 15:21:13: [admin.amxx] Login: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | LeO       )(KTRON") (access "abcdefghijklmnopqrstu") (address "189.62.241.16")
+L 12/23/2009 - 15:21:19: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "[: - R E S T A R T I N G - :]"
+L 12/23/2009 - 15:21:19: [admincmd.amxx] Cmd: "adx's# joosch<75><STEAM_ID_LAN><>" server console (cmdline "sv_restart 2")
+L 12/23/2009 - 15:21:21: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:21: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:21: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:21:21: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:21: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:21: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:21:21: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:21: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:21: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:21:21: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:21: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:22: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:21:22: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:22: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:22: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:21:22: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:22: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:22: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:21:22: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:22: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:22: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:21:22: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:22: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:22: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:21:23: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:23: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:23: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:21:23: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:23: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:23: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:21:23: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:23: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:23: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:21:23: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "[ SPEC TR ]"
+L 12/23/2009 - 15:21:23: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "[ SPEC TR ]"
+L 12/23/2009 - 15:21:23: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:23: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:23: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:21:23: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:23: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:24: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:21:24: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:24: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:24: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:21:24: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:24: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:21:24: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:21:34: [adminchat.amxx] Chat: "Hs # PrO | flanders<69><STEAM_ID_LAN><>" tsay "intaum     e h nois que tah no estilo bagda"
+L 12/23/2009 - 15:21:35: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "aeae"
+L 12/23/2009 - 15:21:35: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" tsay "o surf"
+L 12/23/2009 - 15:21:39: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "saopksopaskopas"
+L 12/23/2009 - 15:21:43: [adminchat.amxx] Chat: "Hs # PrO | flanders<69><STEAM_ID_LAN><>" tsay " surf?"
+L 12/23/2009 - 15:22:02: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" csay "[ L I V E ] [ L I V E ] [ L I V E ]"
+L 12/23/2009 - 15:22:21: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<85><STEAM_ID_LAN><>" tsay "GOOOO surf?"
+L 12/23/2009 - 15:22:33: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "go go"
+L 12/23/2009 - 15:22:39: [adminchat.amxx] Chat: "Hs # PrO | flanders<69><STEAM_ID_LAN><>" tsay " surf vcs  querem?"
+L 12/23/2009 - 15:22:51: [admin.amxx] Login: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | LeO       )(KTRON") (access "abcdefghijklmnopqrstu") (address "189.62.241.16")
+L 12/23/2009 - 15:23:10: [adminchat.amxx] Chat: "Hs # PrO | flanders<69><STEAM_ID_LAN><>" tsay " pq so eu do Hs"
+L 12/23/2009 - 15:23:48: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:23:48: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:23:49: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:23:49: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:23:49: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:23:49: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:23:51: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:23:51: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:23:51: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:23:52: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 15:23:52: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 15:23:52: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "| Restarting Round in GAME! | "
+L 12/23/2009 - 15:23:52: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1 ")
+L 12/23/2009 - 15:24:01: [adminchat.amxx] Chat: "Hs # PrO | flanders<69><STEAM_ID_LAN><>" tsay " ADM s   vamo dar uma jogadinha?"
+L 12/23/2009 - 15:24:10: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "bora"
+L 12/23/2009 - 15:24:35: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "LIVE! LIVE! LIVE!"
+L 12/23/2009 - 15:24:35: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "LIVE! LIVE! LIVE!"
+L 12/23/2009 - 15:24:37: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[MD3 MD3 MD3] "
+L 12/23/2009 - 15:24:37: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "MD3 MD3 MD3 "
+L 12/23/2009 - 15:24:37: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "MD3 MD3 MD3 "
+L 12/23/2009 - 15:24:38: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[MD3 MD3 MD3] "
+L 12/23/2009 - 15:24:38: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "MD3 MD3 MD3 "
+L 12/23/2009 - 15:24:38: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "MD3 MD3 MD3 "
+L 12/23/2009 - 15:24:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:24:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:24:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:24:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:24:40: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:24:46: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 15:24:46: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ ALLTALK OFF ] "
+L 12/23/2009 - 15:24:46: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 15:24:46: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ ALLTALK OFF ] "
+L 12/23/2009 - 15:24:46: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 0 ")
+L 12/23/2009 - 15:24:46: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 15:24:46: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ ALLTALK OFF ] "
+L 12/23/2009 - 15:24:46: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 15:24:46: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ ALLTALK OFF ] "
+L 12/23/2009 - 15:24:46: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 0 ")
+L 12/23/2009 - 15:24:46: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 15:24:46: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ ALLTALK OFF ] "
+L 12/23/2009 - 15:24:46: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 15:24:46: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ ALLTALK OFF ] "
+L 12/23/2009 - 15:24:46: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 0 ")
+L 12/23/2009 - 15:24:49: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "Alltalk : OFF"
+L 12/23/2009 - 15:24:49: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "Alltalk : OFF"
+L 12/23/2009 - 15:24:49: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "Alltalk : OFF"
+L 12/23/2009 - 15:24:49: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "Alltalk : OFF"
+L 12/23/2009 - 15:24:49: [admincmd.amxx] Cmd: "adx's# joosch<75><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 0")
+L 12/23/2009 - 15:24:51: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "Alltalk : OFF"
+L 12/23/2009 - 15:24:51: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "Alltalk : OFF"
+L 12/23/2009 - 15:24:51: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "Alltalk : OFF"
+L 12/23/2009 - 15:24:51: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "Alltalk : OFF"
+L 12/23/2009 - 15:24:51: [admincmd.amxx] Cmd: "adx's# joosch<75><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 0")
+L 12/23/2009 - 15:24:52: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "Alltalk : ON"
+L 12/23/2009 - 15:24:52: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "Alltalk : ON"
+L 12/23/2009 - 15:24:52: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "Alltalk : ON"
+L 12/23/2009 - 15:24:52: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "Alltalk : ON"
+L 12/23/2009 - 15:24:52: [admincmd.amxx] Cmd: "adx's# joosch<75><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1")
+L 12/23/2009 - 15:24:53: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:24:53: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:24:53: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:24:53: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:24:53: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:24:53: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:24:53: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:24:53: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:24:53: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:24:53: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:24:53: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:24:53: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:24:53: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:24:53: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:24:53: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:24:53: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:24:53: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:24:53: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:24:53: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:24:53: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:25:03: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "UU"
+L 12/23/2009 - 15:25:31: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:25:31: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:25:31: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:25:31: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:25:31: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:25:31: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:25:31: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:25:31: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:25:31: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:25:31: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:25:31: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:25:31: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:25:32: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:25:32: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:25:32: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:25:32: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:25:32: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:25:32: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:25:32: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:25:32: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:25:32: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:25:32: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:25:32: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:25:32: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:25:32: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:25:32: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:25:32: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:25:32: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:25:32: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:25:32: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:25:32: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:25:32: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:25:32: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:25:33: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:25:33: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:25:33: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:25:33: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:25:33: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:25:33: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:25:34: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:25:35: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:25:35: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:25:35: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:25:35: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:25:35: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:25:36: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:25:36: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:25:36: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:25:36: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:25:36: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:25:36: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:25:46: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 15:25:46: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 15:25:46: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ SPEC ENTRA OU KICK ] "
+L 12/23/2009 - 15:25:49: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 15:25:49: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 15:25:49: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ SPEC ENTRA OU KICK ] "
+L 12/23/2009 - 15:25:50: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 15:25:50: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 15:25:50: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ SPEC ENTRA OU KICK ] "
+L 12/23/2009 - 15:25:50: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 15:25:50: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 15:25:50: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ SPEC ENTRA OU KICK ] "
+L 12/23/2009 - 15:25:50: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 15:25:50: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 15:25:50: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ SPEC ENTRA OU KICK ] "
+L 12/23/2009 - 15:25:50: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 15:25:50: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 15:25:50: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ SPEC ENTRA OU KICK ] "
+L 12/23/2009 - 15:25:50: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 15:25:50: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 15:25:50: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ SPEC ENTRA OU KICK ] "
+L 12/23/2009 - 15:25:50: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 15:25:50: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 15:25:50: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ SPEC ENTRA OU KICK ] "
+L 12/23/2009 - 15:25:50: [adminchat.amxx] Chat: "Hs # PrO | flanders<69><STEAM_ID_LAN><>" tsay " pq o meu naum tem"
+L 12/23/2009 - 15:25:55: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 15:25:55: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 15:25:55: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ SPEC ENTRA OU KICK ] "
+L 12/23/2009 - 15:25:55: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 15:25:55: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 15:25:55: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ SPEC ENTRA OU KICK ] "
+L 12/23/2009 - 15:25:55: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 15:25:55: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 15:25:55: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ SPEC ENTRA OU KICK ] "
+L 12/23/2009 - 15:25:56: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 15:25:56: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 15:25:56: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ SPEC ENTRA OU KICK ] "
+L 12/23/2009 - 15:25:56: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 15:25:56: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 15:25:56: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ SPEC ENTRA OU KICK ] "
+L 12/23/2009 - 15:25:57: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 15:25:57: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 15:25:57: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ SPEC ENTRA OU KICK ] "
+L 12/23/2009 - 15:25:57: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 15:25:57: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 15:25:57: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ SPEC ENTRA OU KICK ] "
+L 12/23/2009 - 15:25:57: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 15:25:57: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 15:25:57: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ SPEC ENTRA OU KICK ] "
+L 12/23/2009 - 15:25:59: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 15:25:59: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 15:25:59: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ SPEC ENTRA OU KICK ] "
+L 12/23/2009 - 15:26:03: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 15:26:03: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 15:26:03: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ SPEC ENTRA OU KICK ] "
+L 12/23/2009 - 15:26:03: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 15:26:03: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 15:26:03: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ SPEC ENTRA OU KICK ] "
+L 12/23/2009 - 15:26:03: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 15:26:03: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 15:26:03: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ SPEC ENTRA OU KICK ] "
+L 12/23/2009 - 15:26:03: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 15:26:03: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 15:26:04: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ SPEC ENTRA OU KICK ] "
+L 12/23/2009 - 15:26:04: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 15:26:04: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 15:26:04: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "[ SPEC ENTRA OU KICK ] "
+L 12/23/2009 - 15:26:04: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 15:26:04: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 15:26:04: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "| Restarting Round in GAME! | "
+L 12/23/2009 - 15:26:04: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1 ")
+L 12/23/2009 - 15:26:10: [adminchat.amxx] Chat: "Hs # PrO | flanders<69><STEAM_ID_LAN><>" tsay "ESPEC ENTRA"
+L 12/23/2009 - 15:26:31: [adminchat.amxx] Chat: "Hs # PrO | flanders<69><STEAM_ID_LAN><>" tsay " HUAHUA"
+L 12/23/2009 - 15:26:39: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<88><STEAM_ID_LAN><>" tsay "e vai coloka surf"
+L 12/23/2009 - 15:26:39: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "ja entroo !"
+L 12/23/2009 - 15:26:44: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "to arrumando adm"
+L 12/23/2009 - 15:26:53: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "to arrumando adm`s"
+L 12/23/2009 - 15:27:07: [adminchat.amxx] Chat: "Hs # PrO | flanders<69><STEAM_ID_LAN><>" tsay " m ais ainda?"
+L 12/23/2009 - 15:27:15: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "espera"
+L 12/23/2009 - 15:27:27: [adminchat.amxx] Chat: "Hs # PrO | flanders<69><STEAM_ID_LAN><>" tsay " VAMO  jogar quero ver seus potenciais"
+L 12/23/2009 - 15:28:29: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "deuu ??"
+L 12/23/2009 - 15:28:53: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" csay "[ L I V E ] [ L I V E ] [ L I V E ]"
+L 12/23/2009 - 15:29:22: [admin.amxx] Login: "Hs # PrO | flanders<101><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.2.17")
+L 12/23/2009 - 15:29:41: [admin.amxx] Login: "Fir3.rOx | Form1g4<102><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | Form1g4") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/23/2009 - 15:30:13: [admin.amxx] Login: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | LeO       )(KTRON") (access "abcdefghijklmnopqrstu") (address "189.62.241.16")
+L 12/23/2009 - 15:30:22: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:30:23: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:30:23: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:30:23: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:30:23: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:30:23: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:30:24: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:30:24: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:30:24: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:30:24: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:30:24: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:30:24: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:30:24: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:30:24: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:30:24: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:30:24: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:30:25: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:30:25: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:30:25: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:30:25: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:30:25: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:30:28: [adminchat.amxx] Chat: "Hs # PrO | flanders<101><STEAM_ID_LAN><>" tsay "vou no banheiro daqui a pouco   volto"
+L 12/23/2009 - 15:30:29: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<102><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 15:30:39: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<102><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 15:30:52: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<102><STEAM_ID_LAN><>" tsay " hahahahahaha"
+L 12/23/2009 - 15:31:00: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "skaopskoaps"
+L 12/23/2009 - 15:31:01: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<102><STEAM_ID_LAN><>" tsay " _)_"
+L 12/23/2009 - 15:31:10: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:31:10: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:31:10: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:31:10: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:31:10: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:31:15: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<102><STEAM_ID_LAN><>" tsay "ta lag pakas vey"
+L 12/23/2009 - 15:31:19: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<102><STEAM_ID_LAN><>" tsay "=/"
+L 12/23/2009 - 15:31:24: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "fecha e abre"
+L 12/23/2009 - 15:32:16: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" server console (cmdline "sv_restart 1")
+L 12/23/2009 - 15:32:22: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" server console (cmdline "sv_restart 1")
+L 12/23/2009 - 15:32:28: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<102><STEAM_ID_LAN><>" tsay " Chega de RR  Porra"
+L 12/23/2009 - 15:33:14: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:33:14: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:33:14: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:33:14: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:33:15: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:33:15: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<103><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:33:21: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<102><STEAM_ID_LAN><>" tsay "KTRON"
+L 12/23/2009 - 15:33:26: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<102><STEAM_ID_LAN><>" tsay "qual letra tu botou"
+L 12/23/2009 - 15:33:29: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<102><STEAM_ID_LAN><>" tsay "pra sair essa cor"
+L 12/23/2009 - 15:33:37: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<102><STEAM_ID_LAN><>" tsay "?"
+L 12/23/2009 - 15:34:14: [adminchat.amxx] Chat: "adx's# joosch<75><STEAM_ID_LAN><>" tsay "[: - R E S T A R T I N G - :]"
+L 12/23/2009 - 15:34:14: [admincmd.amxx] Cmd: "adx's# joosch<75><STEAM_ID_LAN><>" server console (cmdline "sv_restart 2")
+L 12/23/2009 - 15:34:18: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<102><STEAM_ID_LAN><>" tsay "para poirra"
+L 12/23/2009 - 15:34:31: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<102><STEAM_ID_LAN><>" server console (cmdline "exec cfg/adm1.cfg")
+L 12/23/2009 - 15:34:31: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay "ADMIN [x] ON []OFF"
+L 12/23/2009 - 15:34:31: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay "ADMIN Online!!!"
+L 12/23/2009 - 15:35:36: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<102><STEAM_ID_LAN><>" tsay " AE CANBADA"
+L 12/23/2009 - 15:35:42: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<102><STEAM_ID_LAN><>" tsay " VCS QUEREM SEM LAG ?"
+L 12/23/2009 - 15:35:57: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<102><STEAM_ID_LAN><>" tsay " ADD O SERVE FAVORITES TODO MUNDO"
+L 12/23/2009 - 15:36:12: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<102><STEAM_ID_LAN><>" tsay " QUE VO DA UMA FECHADINHA RAPIDIN"
+L 12/23/2009 - 15:36:19: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<102><STEAM_ID_LAN><>" tsay "PRA VE SE SAI O LAGGER"
+L 12/23/2009 - 15:36:24: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<102><STEAM_ID_LAN><>" tsay "PQ TA ODSO"
+L 12/23/2009 - 15:36:34: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<102><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 15:36:51: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<102><STEAM_ID_LAN><>" server console (cmdline "exec cfg/adm2.cfg")
+L 12/23/2009 - 15:36:51: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay "ADMIN [] ON [x]OFF"
+L 12/23/2009 - 15:36:51: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay "ADMIN Saindo..."
+L 12/23/2009 - 15:36:51: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" csay "!!!!"
+L 12/23/2009 - 15:37:28: -------- Mapchange to de_dust2 --------
+L 12/23/2009 - 15:37:32: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/23/2009 - 15:37:32: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/23/2009 - 15:37:41: [admin.amxx] Login: "adx's# joosch<9><STEAM_ID_LAN><>" became an admin (account "adx's# joosch") (access "abcdefghijklmnopqrstu") (address "201.89.78.189")
+L 12/23/2009 - 15:38:10: [admin.amxx] Login: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | LeO       )(KTRON") (access "abcdefghijklmnopqrstu") (address "189.62.241.16")
+L 12/23/2009 - 15:38:19: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" server console (cmdline "sv_restart 1")
+L 12/23/2009 - 15:38:26: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:38:26: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:38:26: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:38:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:38:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:38:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:38:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:38:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:38:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:38:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:38:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:38:28: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:38:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:38:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:38:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:38:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:38:29: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:38:30: [adminchat.amxx] Chat: "adx's# joosch<9><STEAM_ID_LAN><>" tsay "KSOPASKOPS"
+L 12/23/2009 - 15:38:33: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:38:33: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:38:33: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:38:33: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:38:34: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:38:34: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:38:34: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:38:34: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:38:34: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:38:34: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<13><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:39:24: [admin.amxx] Login: "Fir3.rOx | Form1g4<19><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | Form1g4") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/23/2009 - 15:39:30: [adminchat.amxx] Chat: "adx's# joosch<9><STEAM_ID_LAN><>" tsay "KSAOPSK"
+L 12/23/2009 - 15:40:11: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<19><STEAM_ID_LAN><>" tsay "karalho"
+L 12/23/2009 - 15:40:17: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<19><STEAM_ID_LAN><>" tsay "acho que ta a mesma merda"
+L 12/23/2009 - 15:41:50: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<19><STEAM_ID_LAN><>" tsay "karalho"
+L 12/23/2009 - 15:43:05: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<19><STEAM_ID_LAN><>" server console (cmdline "exec cfg/adm1.cfg")
+L 12/23/2009 - 15:43:05: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay "ADMIN [x] ON []OFF"
+L 12/23/2009 - 15:43:05: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay "ADMIN Online!!!"
+L 12/23/2009 - 15:43:31: [admin.amxx] Login: "Hs # PrO | flanders<27><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.2.17")
+L 12/23/2009 - 15:43:46: [admin.amxx] Login: "Hs # PrO | flanders<29><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.2.17")
+L 12/23/2009 - 15:43:48: [admin.amxx] Login: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | LeO       )(KTRON") (access "abcdefghijklmnopqrstu") (address "189.62.241.16")
+L 12/23/2009 - 15:44:03: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<19><STEAM_ID_LAN><>" tsay "ehauehauea"
+L 12/23/2009 - 15:44:32: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<19><STEAM_ID_LAN><>" tsay "ehauehaueaheuaheauehauehaueaheua"
+L 12/23/2009 - 15:44:39: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<19><STEAM_ID_LAN><>" tsay "ah vey"
+L 12/23/2009 - 15:44:44: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<19><STEAM_ID_LAN><>" tsay "nao acredito"
+L 12/23/2009 - 15:44:46: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<19><STEAM_ID_LAN><>" tsay "bugo"
+L 12/23/2009 - 15:44:57: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<19><STEAM_ID_LAN><>" tsay "nao quer mais renascer quando eu morro"
+L 12/23/2009 - 15:45:02: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<19><STEAM_ID_LAN><>" tsay "vo tem que dar Rr"
+L 12/23/2009 - 15:45:04: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<19><STEAM_ID_LAN><>" tsay "mals ae"
+L 12/23/2009 - 15:45:12: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<19><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 15:45:53: [admin.amxx] Login: "Hs # PrO | flanders<33><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.1.86")
+L 12/23/2009 - 15:46:15: [admin.amxx] Login: "adx's# joosch<35><STEAM_ID_LAN><>" became an admin (account "adx's# joosch") (access "abcdefghijklmnopqrstu") (address "201.89.78.189")
+L 12/23/2009 - 15:46:23: [adminchat.amxx] Chat: "Hs # PrO | flanders<33><STEAM_ID_LAN><>" tsay " ADMIN ON"
+L 12/23/2009 - 15:46:26: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:46:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:46:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:46:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:46:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:46:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:46:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:46:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:46:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:46:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:46:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:46:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:46:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:46:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:46:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:46:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:46:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<31><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:46:50: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<19><STEAM_ID_LAN><>" tsay "leo"
+L 12/23/2009 - 15:46:50: [adminchat.amxx] Chat: "Hs # PrO | flanders<33><STEAM_ID_LAN><>" tsay "PQ  o meu naum tem adm on nas falas?"
+L 12/23/2009 - 15:46:53: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<19><STEAM_ID_LAN><>" tsay "dps me passa umas binds ?"
+L 12/23/2009 - 15:47:35: [adminchat.amxx] Chat: "Hs # PrO | flanders<33><STEAM_ID_LAN><>" tsay "omo fa,o para por as binds"
+L 12/23/2009 - 15:48:14: [adminchat.amxx] Chat: "adx's# joosch<35><STEAM_ID_LAN><>" tsay "=]"
+L 12/23/2009 - 15:50:26: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<19><STEAM_ID_LAN><>" tsay "nossa vey"
+L 12/23/2009 - 15:50:33: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<19><STEAM_ID_LAN><>" tsay "ah vai se fude"
+L 12/23/2009 - 15:50:36: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<19><STEAM_ID_LAN><>" tsay "bugo denovo"
+L 12/23/2009 - 15:50:38: [adminchat.amxx] Chat: "adx's# joosch<35><STEAM_ID_LAN><>" tsay "oque? "
+L 12/23/2009 - 15:50:39: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<19><STEAM_ID_LAN><>" tsay "karalho"
+L 12/23/2009 - 15:50:42: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<19><STEAM_ID_LAN><>" tsay "quando eu morro"
+L 12/23/2009 - 15:50:45: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<19><STEAM_ID_LAN><>" tsay "naop resnace"
+L 12/23/2009 - 15:50:54: [adminchat.amxx] Chat: "adx's# joosch<35><STEAM_ID_LAN><>" tsay "ize"
+L 12/23/2009 - 15:50:59: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<19><STEAM_ID_LAN><>" tsay "vo po dust fudo"
+L 12/23/2009 - 15:51:02: [adminchat.amxx] Chat: "adx's# joosch<35><STEAM_ID_LAN><>" tsay "sei la eu nao curto muito esse addons"
+L 12/23/2009 - 15:51:08: [adminchat.amxx] Chat: "adx's# joosch<35><STEAM_ID_LAN><>" tsay "podiia ser normal neh"
+L 12/23/2009 - 15:51:50: -------- Mapchange to de_dust2_fundo --------
+L 12/23/2009 - 15:51:54: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\de_dust2_fundo.spawns.cfg)
+L 12/23/2009 - 15:51:54: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/23/2009 - 15:52:04: [admin.amxx] Login: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | LeO       )(KTRON") (access "abcdefghijklmnopqrstu") (address "189.62.241.16")
+L 12/23/2009 - 15:52:10: [admin.amxx] Login: "adx's# joosch<5><STEAM_ID_LAN><>" became an admin (account "adx's# joosch") (access "abcdefghijklmnopqrstu") (address "201.89.78.189")
+L 12/23/2009 - 15:52:31: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "oloka surf"
+L 12/23/2009 - 15:52:38: [adminchat.amxx] Chat: "adx's# joosch<5><STEAM_ID_LAN><>" tsay "eh"
+L 12/23/2009 - 15:52:45: [admin.amxx] Login: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | Form1g4") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/23/2009 - 15:52:48: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "Coloka"
+L 12/23/2009 - 15:52:57: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "COLOKA"
+L 12/23/2009 - 15:52:59: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" server console (cmdline "sv_restart 1")
+L 12/23/2009 - 15:53:03: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" server console (cmdline "sv_restart 1")
+L 12/23/2009 - 15:53:05: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 15:53:05: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 15:53:05: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "| Restarting Round in GAME! | "
+L 12/23/2009 - 15:53:05: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1 ")
+L 12/23/2009 - 15:53:15: [adminchat.amxx] Chat: "adx's# joosch<5><STEAM_ID_LAN><>" tsay "skaopsk"
+L 12/23/2009 - 15:53:25: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay " Vai Se Fuder!!!!"
+L 12/23/2009 - 15:53:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:53:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:53:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:53:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:53:34: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "ae Ktron"
+L 12/23/2009 - 15:53:41: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "tu sabe qual letra tem q por"
+L 12/23/2009 - 15:53:44: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "pra sair dessa cor"
+L 12/23/2009 - 15:53:48: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "que tinha saido"
+L 12/23/2009 - 15:53:51: [adminchat.amxx] Chat: "adx's# joosch<5><STEAM_ID_LAN><>" tsay "SKOPA"
+L 12/23/2009 - 15:53:55: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "ComO ?"
+L 12/23/2009 - 15:54:01: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "fais denovo"
+L 12/23/2009 - 15:54:03: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "Em"
+L 12/23/2009 - 15:54:04: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "HEAUeaHEAUEAHEau"
+L 12/23/2009 - 15:54:08: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:54:08: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:54:08: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:54:08: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:54:08: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:54:08: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:54:08: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:54:09: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:54:09: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:54:09: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:54:12: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "essa cor ai"
+L 12/23/2009 - 15:54:16: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "qual letra eh"
+L 12/23/2009 - 15:54:30: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "mais nao da pra po o numero"
+L 12/23/2009 - 15:54:32: [admin.amxx] Login: "adx's# joosch<11><STEAM_ID_LAN><>" became an admin (account "adx's# joosch") (access "abcdefghijklmnopqrstu") (address "201.89.78.189")
+L 12/23/2009 - 15:54:36: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 15:54:36: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 15:54:36: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "| Restarting Round in GAME! | "
+L 12/23/2009 - 15:54:36: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1 ")
+L 12/23/2009 - 15:54:38: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "pra sair essa cor"
+L 12/23/2009 - 15:54:38: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:38: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:38: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:38: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:38: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:54:38: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:38: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:38: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:38: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:38: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:54:39: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:39: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:39: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:39: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:39: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:54:39: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:39: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:39: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:39: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:39: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:54:39: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:39: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:39: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:39: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:39: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:54:39: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:39: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:39: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:39: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:39: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:54:39: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:39: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:39: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:39: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:39: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:40: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:40: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:40: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:40: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:40: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:40: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:40: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:40: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:40: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:54:41: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:41: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:41: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:41: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:41: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:54:41: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:41: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:41: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:41: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:41: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:54:41: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:41: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:41: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:41: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:41: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:54:41: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:41: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:41: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 15:54:41: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "[ ALLTALK ON ] "
+L 12/23/2009 - 15:54:41: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 15:54:43: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:54:43: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:54:44: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "HSAUSHAUSHUAHSUAHSUHA "
+L 12/23/2009 - 15:54:44: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:54:44: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:54:44: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:54:44: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:54:44: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:54:44: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:54:44: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:54:44: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:54:44: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:54:45: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:54:45: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:54:45: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:54:45: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:54:45: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:54:45: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:54:45: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:54:45: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 15:54:45: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "Administrador ON "
+L 12/23/2009 - 15:54:57: [adminchat.amxx] Chat: "adx's# joosch<11><STEAM_ID_LAN><>" tsay "ksaopksopa"
+L 12/23/2009 - 15:54:59: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "transfere esse podre do nosso time"
+L 12/23/2009 - 15:55:01: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "pra CT"
+L 12/23/2009 - 15:55:05: [adminchat.amxx] Chat: "adx's# joosch<11><STEAM_ID_LAN><>" tsay "ae agota arrumei adm =]"
+L 12/23/2009 - 15:55:37: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay " contato:guilherme_cs1@hotmail.com"
+L 12/23/2009 - 15:55:49: [adminchat.amxx] Chat: "adx's# joosch<11><STEAM_ID_LAN><>" tsay "SKAOP"
+L 12/23/2009 - 15:56:27: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 15:56:32: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "aff"
+L 12/23/2009 - 15:56:34: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "para de RR"
+L 12/23/2009 - 15:56:37: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "karalho"
+L 12/23/2009 - 15:56:39: [adminchat.amxx] Chat: "adx's# joosch<11><STEAM_ID_LAN><>" tsay "??"
+L 12/23/2009 - 15:57:06: [admin.amxx] Login: "Hs # PrO | flanders<17><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.4.175")
+L 12/23/2009 - 15:57:12: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "nop"
+L 12/23/2009 - 15:57:23: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "sai do buraco"
+L 12/23/2009 - 15:57:36: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "vamos sem AWP ?"
+L 12/23/2009 - 15:57:44: [adminchat.amxx] Chat: "Hs # PrO | flanders<17><STEAM_ID_LAN><>" tsay "eu tenho que pegar umas binds"
+L 12/23/2009 - 15:57:46: [adminchat.amxx] Chat: "adx's# joosch<11><STEAM_ID_LAN><>" tsay "go go"
+L 12/23/2009 - 15:57:48: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay " sem awp fexo ?>"
+L 12/23/2009 - 15:58:00: [adminchat.amxx] Chat: "adx's# joosch<11><STEAM_ID_LAN><>" tsay "minhas bind nao quer funfa mais"
+L 12/23/2009 - 15:58:03: [adminchat.amxx] Chat: "Hs # PrO | flanders<17><STEAM_ID_LAN><>" tsay "eu tenho que pegar umas binds"
+L 12/23/2009 - 15:58:18: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "sem awp"
+L 12/23/2009 - 15:58:23: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" server console (cmdline "exec cfg/awp.cfg")
+L 12/23/2009 - 15:58:23: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay ".....  Sem AwP!!"
+L 12/23/2009 - 15:58:23: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay "[AVISO]"
+L 12/23/2009 - 15:58:23: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" say "Sem Alp nesse Round!"
+L 12/23/2009 - 15:58:28: [adminchat.amxx] Chat: "Hs # PrO | flanders<17><STEAM_ID_LAN><>" tsay "ormiga tem"
+L 12/23/2009 - 15:58:31: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" server console (cmdline "exec cfg/awp.cfg")
+L 12/23/2009 - 15:58:31: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay ".....  Sem AwP!!"
+L 12/23/2009 - 15:58:31: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay "[AVISO]"
+L 12/23/2009 - 15:58:31: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" say "Sem Alp nesse Round!"
+L 12/23/2009 - 15:58:40: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 15:58:41: [adminchat.amxx] Chat: "adx's# joosch<11><STEAM_ID_LAN><>" tsay "susse"
+L 12/23/2009 - 15:58:48: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" server console (cmdline "exec cfg/awp.cfg")
+L 12/23/2009 - 15:58:48: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay ".....  Sem AwP!!"
+L 12/23/2009 - 15:58:48: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay "[AVISO]"
+L 12/23/2009 - 15:58:48: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" say "Sem Alp nesse Round!"
+L 12/23/2009 - 15:58:54: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" server console (cmdline "exec cfg/awp.cfg")
+L 12/23/2009 - 15:58:54: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay ".....  Sem AwP!!"
+L 12/23/2009 - 15:58:54: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay "[AVISO]"
+L 12/23/2009 - 15:58:54: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" say "Sem Alp nesse Round!"
+L 12/23/2009 - 15:58:58: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" server console (cmdline "exec cfg/awp.cfg")
+L 12/23/2009 - 15:58:58: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay ".....  Sem AwP!!"
+L 12/23/2009 - 15:58:58: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay "[AVISO]"
+L 12/23/2009 - 15:58:58: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" say "Sem Alp nesse Round!"
+L 12/23/2009 - 15:59:01: [adminchat.amxx] Chat: "adx's# joosch<11><STEAM_ID_LAN><>" tsay "nao chora"
+L 12/23/2009 - 15:59:05: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "quem"
+L 12/23/2009 - 15:59:40: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "desliga brow"
+L 12/23/2009 - 15:59:53: [adminchat.amxx] Chat: "adx's# joosch<11><STEAM_ID_LAN><>" tsay "avisoo "
+L 12/23/2009 - 15:59:56: [plmenu.amxx] Kick: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" kick "|M.S.K|(Cp)-<Draco><19><STEAM_ID_LAN><>"
+L 12/23/2009 - 15:59:58: [adminchat.amxx] Chat: "adx's# joosch<11><STEAM_ID_LAN><>" tsay "xiter bam"
+L 12/23/2009 - 16:00:00: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 16:00:09: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" server console (cmdline "exec cfg/awp.cfg")
+L 12/23/2009 - 16:00:09: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay ".....  Sem AwP!!"
+L 12/23/2009 - 16:00:09: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay "[AVISO]"
+L 12/23/2009 - 16:00:09: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" say "Sem Alp nesse Round!"
+L 12/23/2009 - 16:00:22: [plmenu.amxx] Kick: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" kick "[S'mOrK] Team # aLLaNzIhO<2><STEAM_ID_LAN><>"
+L 12/23/2009 - 16:00:27: [adminchat.amxx] Chat: "Hs # PrO | flanders<17><STEAM_ID_LAN><>" tsay " RESPEITO"
+L 12/23/2009 - 16:01:05: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" server console (cmdline "exec cfg/adm1.cfg")
+L 12/23/2009 - 16:01:05: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay "ADMIN [x] ON []OFF"
+L 12/23/2009 - 16:01:06: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay "ADMIN Online!!!"
+L 12/23/2009 - 16:01:19: [plmenu.amxx] Kick: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" kick "[S'mOrK] Team # aLLaNzIhO<24><STEAM_ID_LAN><>"
+L 12/23/2009 - 16:01:41: [plmenu.amxx] Kick: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" kick "[S'mOrK] Team # aLLaNzIhO<28><STEAM_ID_LAN><>"
+L 12/23/2009 - 16:01:47: [admin.amxx] Login: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | LeO       )(KTRON") (access "abcdefghijklmnopqrstu") (address "189.62.241.16")
+L 12/23/2009 - 16:01:56: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "tu eh chato viu bixoi"
+L 12/23/2009 - 16:01:59: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "Todos de Spec ! : Live - Live "
+L 12/23/2009 - 16:01:59: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "Todos de Spec ! : Live - Live "
+L 12/23/2009 - 16:02:00: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "Todos de Spec ! : Live - Live "
+L 12/23/2009 - 16:02:00: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "Todos de Spec ! : Live - Live "
+L 12/23/2009 - 16:02:00: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "Todos de Spec ! : Live - Live "
+L 12/23/2009 - 16:02:00: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "soh figa na minha suga"
+L 12/23/2009 - 16:02:01: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "Todos de Spec ! : Live - Live "
+L 12/23/2009 - 16:02:01: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "Todos de Spec ! : Live - Live "
+L 12/23/2009 - 16:02:01: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "Todos de Spec ! : Live - Live "
+L 12/23/2009 - 16:02:01: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "Todos de Spec ! : Live - Live "
+L 12/23/2009 - 16:02:01: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "Todos de Spec ! : Live - Live "
+L 12/23/2009 - 16:02:01: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "Todos de Spec ! : Live - Live "
+L 12/23/2009 - 16:02:01: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "Todos de Spec ! : Live - Live "
+L 12/23/2009 - 16:02:02: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "Todos de Spec ! : Live - Live "
+L 12/23/2009 - 16:02:02: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "Todos de Spec ! : Live - Live "
+L 12/23/2009 - 16:02:02: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "Todos de Spec ! : Live - Live "
+L 12/23/2009 - 16:02:03: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "viciadinho"
+L 12/23/2009 - 16:02:11: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" server console (cmdline "exec cfg/4fun.cfg")
+L 12/23/2009 - 16:02:11: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" csay "Configuracao 4fun [x]ON []OFF"
+L 12/23/2009 - 16:02:11: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" csay "  4fun [x]ON []OFF"
+L 12/23/2009 - 16:02:17: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 16:02:17: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 16:02:19: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 16:02:19: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 16:02:20: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "LIVE! LIVE! LIVE!"
+L 12/23/2009 - 16:02:21: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 16:02:21: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 16:02:22: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 16:02:22: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 16:02:23: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 16:02:23: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 16:02:23: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 0 ")
+L 12/23/2009 - 16:02:24: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 16:02:24: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 16:02:24: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 16:02:25: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" set cvar (name "sv_alltalk") (value "0")
+L 12/23/2009 - 16:02:25: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" set cvar (name "mp_freezetime") (value "60")
+L 12/23/2009 - 16:02:25: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" set cvar (name "sv_restart") (value "1")
+L 12/23/2009 - 16:02:26: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" set cvar (name "sv_alltalk") (value "0")
+L 12/23/2009 - 16:02:26: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" set cvar (name "mp_freezetime") (value "60")
+L 12/23/2009 - 16:02:26: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" set cvar (name "sv_restart") (value "1")
+L 12/23/2009 - 16:02:26: [adminchat.amxx] Chat: "adx's# joosch<11><STEAM_ID_LAN><>" tsay "coloca surf"
+L 12/23/2009 - 16:02:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "Todos de Spec ! : Live - Live "
+L 12/23/2009 - 16:02:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "Todos de Spec ! : Live - Live "
+L 12/23/2009 - 16:02:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "Todos de Spec ! : Live - Live "
+L 12/23/2009 - 16:02:31: [adminchat.amxx] Chat: "Hs # PrO | flanders<17><STEAM_ID_LAN><>" tsay "DNV FORMIGA"
+L 12/23/2009 - 16:02:31: [adminchat.amxx] Chat: "adx's# joosch<11><STEAM_ID_LAN><>" tsay "coloca SURF"
+L 12/23/2009 - 16:02:32: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" server console (cmdline "exec cfg/dft.cfg")
+L 12/23/2009 - 16:02:34: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 16:02:34: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 16:02:34: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1 ")
+L 12/23/2009 - 16:02:37: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "nao sou eu"
+L 12/23/2009 - 16:02:45: [adminchat.amxx] Chat: "adx's# joosch<11><STEAM_ID_LAN><>" tsay "nem eu"
+L 12/23/2009 - 16:02:50: [adminchat.amxx] Chat: "Hs # PrO | flanders<17><STEAM_ID_LAN><>" tsay " RLX  agora vi"
+L 12/23/2009 - 16:02:57: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 16:02:57: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<29><STEAM_ID_LAN><>" chat " [HLGUARD] The used key is blocked (use END)"
+L 12/23/2009 - 16:02:59: [adminchat.amxx] Chat: "Hs # PrO | flanders<17><STEAM_ID_LAN><>" tsay "e oh leo"
+L 12/23/2009 - 16:03:01: [admin.amxx] Login: "Fir3.rOx | LeO       )(KTRON<32><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | LeO       )(KTRON") (access "abcdefghijklmnopqrstu") (address "189.62.241.16")
+L 12/23/2009 - 16:03:01: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay " Sem awp po"
+L 12/23/2009 - 16:03:07: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<32><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 16:03:09: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<32><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 16:03:10: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<32><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 16:03:10: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay " ae da BAN ai alguem meuw o.O"
+L 12/23/2009 - 16:03:10: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<32><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 16:03:11: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<32><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 16:03:14: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay " os de ALP"
+L 12/23/2009 - 16:03:15: [adminchat.amxx] Chat: "Hs # PrO | flanders<17><STEAM_ID_LAN><>" tsay " sem awp"
+L 12/23/2009 - 16:03:17: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay " da BAN"
+L 12/23/2009 - 16:03:20: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 16:03:27: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "SEM ALP"
+L 12/23/2009 - 16:03:41: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<32><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 16:03:41: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<32><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 16:03:41: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<32><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 16:03:42: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<32><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 16:03:45: [adminchat.amxx] Chat: "Hs # PrO | flanders<17><STEAM_ID_LAN><>" tsay " se continuar de awp ele vai da rr toda vez entaum parem"
+L 12/23/2009 - 16:03:57: [plmenu.amxx] Cmd: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" transfer "|*Us*Br|Nino<31><STEAM_ID_LAN><>" (team "TERRORIST")
+L 12/23/2009 - 16:03:59: [plmenu.amxx] Cmd: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" transfer "marcos_fodax2806<14><STEAM_ID_LAN><>" (team "TERRORIST")
+L 12/23/2009 - 16:04:05: [plmenu.amxx] Cmd: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" transfer "Liilaum<26><STEAM_ID_LAN><>" (team "TERRORIST")
+L 12/23/2009 - 16:04:38: [admin.amxx] Login: "adx's# joosch<36><STEAM_ID_LAN><>" became an admin (account "adx's# joosch") (access "abcdefghijklmnopqrstu") (address "201.89.78.189")
+L 12/23/2009 - 16:04:46: [plmenu.amxx] Kick: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" kick "EmSINC<30><STEAM_ID_LAN><>"
+L 12/23/2009 - 16:04:51: [adminchat.amxx] Chat: "Hs # PrO | flanders<17><STEAM_ID_LAN><>" tsay "no  awp"
+L 12/23/2009 - 16:05:13: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "oq porra"
+L 12/23/2009 - 16:05:46: [adminchat.amxx] Chat: "Hs # PrO | flanders<17><STEAM_ID_LAN><>" tsay "tow levando dos malukos ai naum sei que tah acontecendo"
+L 12/23/2009 - 16:05:47: [plmenu.amxx] Kick: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" kick "EmSINC<38><STEAM_ID_LAN><>"
+L 12/23/2009 - 16:05:49: [admin.amxx] Login: "Fir3.rOx | LeO       )(KTRON<40><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | LeO       )(KTRON") (access "abcdefghijklmnopqrstu") (address "189.62.241.16")
+L 12/23/2009 - 16:06:09: [admin.amxx] Login: "Fir3.rOx | LeO       )(KTRON<42><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | LeO       )(KTRON") (access "abcdefghijklmnopqrstu") (address "189.62.241.16")
+L 12/23/2009 - 16:06:14: [adminchat.amxx] Chat: "Hs # PrO | flanders<17><STEAM_ID_LAN><>" tsay "tow lvndo dos malukos naum sei que tah acontecendo??"
+L 12/23/2009 - 16:06:15: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<42><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 16:06:16: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<42><STEAM_ID_LAN><>" chat " [HLGUARD] The used key is blocked (use END)"
+L 12/23/2009 - 16:06:19: [admin.amxx] Login: "Fir3.rOx | LeO       )(KTRON<43><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | LeO       )(KTRON") (access "abcdefghijklmnopqrstu") (address "189.62.241.16")
+L 12/23/2009 - 16:06:27: [plmenu.amxx] Kick: "adx's# joosch<36><STEAM_ID_LAN><>" kick "mix player<25><STEAM_ID_LAN><>"
+L 12/23/2009 - 16:06:46: [admin.amxx] Login: "adx's# joosch<47><STEAM_ID_LAN><>" became an admin (account "adx's# joosch") (access "abcdefghijklmnopqrstu") (address "201.89.78.189")
+L 12/23/2009 - 16:07:26: [plmenu.amxx] Cmd: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" transfer "mix player<45><STEAM_ID_LAN><>" (team "TERRORIST")
+L 12/23/2009 - 16:07:34: [admin.amxx] Login: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | LeO       )(KTRON") (access "abcdefghijklmnopqrstu") (address "189.62.241.16")
+L 12/23/2009 - 16:07:46: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay " VSF"
+L 12/23/2009 - 16:07:49: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 16:07:50: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 16:07:50: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 16:07:50: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 16:07:50: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 16:07:50: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 16:07:51: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 16:07:51: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 16:07:51: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 16:07:51: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 16:07:51: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 16:07:51: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 16:07:51: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 16:07:51: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 16:07:57: [adminchat.amxx] Chat: "adx's# joosch<47><STEAM_ID_LAN><>" tsay "[ SPEC TR ]"
+L 12/23/2009 - 16:07:57: [adminchat.amxx] Chat: "adx's# joosch<47><STEAM_ID_LAN><>" tsay "[ SPEC TR ]"
+L 12/23/2009 - 16:08:00: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 16:08:00: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 16:08:01: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 16:08:01: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ADM ON "
+L 12/23/2009 - 16:08:02: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 16:08:02: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 16:08:03: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 16:08:03: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 16:08:04: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 16:08:04: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 16:08:05: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 16:08:05: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 16:08:05: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 16:08:05: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 16:08:05: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 16:08:05: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 16:08:05: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 16:08:05: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 16:08:06: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 16:08:06: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 16:08:21: [plmenu.amxx] Kick: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" kick "mix player<45><STEAM_ID_LAN><>"
+L 12/23/2009 - 16:08:24: [adminchat.amxx] Chat: "adx's# joosch<47><STEAM_ID_LAN><>" tsay "muito chiter mano"
+L 12/23/2009 - 16:08:24: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "AWP=KICK"
+L 12/23/2009 - 16:08:31: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" server console (cmdline "exec cfg/awp.cfg")
+L 12/23/2009 - 16:08:31: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay ".....  Sem AwP!!"
+L 12/23/2009 - 16:08:31: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay "[AVISO]"
+L 12/23/2009 - 16:08:31: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" say "Sem Alp nesse Round!"
+L 12/23/2009 - 16:08:54: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" server console (cmdline "exec cfg/nb.cfg")
+L 12/23/2009 - 16:08:54: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay "Ahh Seus N00B!!!"
+L 12/23/2009 - 16:08:54: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay "Voces sao pateticos..."
+L 12/23/2009 - 16:09:00: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" server console (cmdline "exec cfg/rir.cfg")
+L 12/23/2009 - 16:09:00: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay "Hahuheheuhehaahehehahaheahahedhhea"
+L 12/23/2009 - 16:09:00: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay " Muhuuhahaha"
+L 12/23/2009 - 16:09:00: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" csay "\0/\0/\0/"
+L 12/23/2009 - 16:09:05: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 16:09:05: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 16:09:05: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 16:09:05: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 16:09:05: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 16:09:05: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 16:09:06: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "[ ENTRA TR SPEC ] "
+L 12/23/2009 - 16:09:06: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "[ ENTRA CT SPEC ] "
+L 12/23/2009 - 16:09:07: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 16:09:07: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 16:09:07: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 0 ")
+L 12/23/2009 - 16:09:08: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 16:09:08: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 16:09:08: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 0 ")
+L 12/23/2009 - 16:09:09: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" server console (cmdline "exec cfg/zoar.cfg")
+L 12/23/2009 - 16:09:09: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay "H O L Y  S H I T"
+L 12/23/2009 - 16:09:09: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay "H o l y s h i t!"
+L 12/23/2009 - 16:09:10: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 16:09:10: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 16:09:10: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 16:09:14: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" server console (cmdline "exec cfg/unico.cfg")
+L 12/23/2009 - 16:09:14: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay ".....contamos com voce!"
+L 12/23/2009 - 16:09:14: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay "Voce esta sozinho!!"
+L 12/23/2009 - 16:09:38: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "Leo"
+L 12/23/2009 - 16:09:42: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "vamos la no msn"
+L 12/23/2009 - 16:09:47: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "pra vc me passa umas binds"
+L 12/23/2009 - 16:09:49: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "?"
+L 12/23/2009 - 16:09:56: [adminchat.amxx] Chat: "Hs # PrO | flanders<17><STEAM_ID_LAN><>" tsay " eu tb quero"
+L 12/23/2009 - 16:09:56: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "ta"
+L 12/23/2009 - 16:09:59: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "quando for me avisa"
+L 12/23/2009 - 16:10:24: [adminchat.amxx] Chat: "Hs # PrO | flanders<17><STEAM_ID_LAN><>" tsay "sem camperar"
+L 12/23/2009 - 16:10:43: [adminchat.amxx] Chat: "adx's# joosch<47><STEAM_ID_LAN><>" tsay "coloca surf"
+L 12/23/2009 - 16:10:48: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "qual"
+L 12/23/2009 - 16:10:51: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "si 2"
+L 12/23/2009 - 16:10:54: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "ski "
+L 12/23/2009 - 16:10:57: [adminchat.amxx] Chat: "adx's# joosch<47><STEAM_ID_LAN><>" tsay "naoo"
+L 12/23/2009 - 16:11:06: [adminchat.amxx] Chat: "adx's# joosch<47><STEAM_ID_LAN><>" tsay "aquela que agente tava jogando"
+L 12/23/2009 - 16:11:18: [adminchat.amxx] Chat: "adx's# joosch<47><STEAM_ID_LAN><>" tsay "eh tira ded"
+L 12/23/2009 - 16:11:26: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" tsay "eath"
+L 12/23/2009 - 16:11:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" tsay "eath"
+L 12/23/2009 - 16:11:33: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" tsay "death"
+L 12/23/2009 - 16:12:59: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "vai msn primeiro Leo"
+L 12/23/2009 - 16:13:30: [admin.amxx] Login: "Hs # PrO | flanders<64><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.4.175")
+L 12/23/2009 - 16:14:09: [adminchat.amxx] Chat: "Hs # PrO | flanders<64><STEAM_ID_LAN><>" tsay " kad os kra"
+L 12/23/2009 - 16:16:04: [adminchat.amxx] Chat: "Hs # PrO | flanders<64><STEAM_ID_LAN><>" tsay " se tiver eh ban"
+L 12/23/2009 - 16:17:19: [admin.amxx] Login: "Hs # PrO | flanders<69><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.4.175")
+L 12/23/2009 - 16:17:52: [adminchat.amxx] Chat: "Hs # PrO | flanders<69><STEAM_ID_LAN><>" tsay " sem awp"
+L 12/23/2009 - 16:18:01: [adminchat.amxx] Chat: "adx's# joosch<47><STEAM_ID_LAN><>" tsay "susse"
+L 12/23/2009 - 16:18:07: [adminchat.amxx] Chat: "adx's# joosch<47><STEAM_ID_LAN><>" tsay "eh a ulma"
+L 12/23/2009 - 16:18:17: [adminchat.amxx] Chat: "Hs # PrO | flanders<69><STEAM_ID_LAN><>" tsay " sem awp pow"
+L 12/23/2009 - 16:19:07: [adminchat.amxx] Chat: "Hs # PrO | flanders<69><STEAM_ID_LAN><>" tsay " VAI levar kick quem tiver de awp"
+L 12/23/2009 - 16:19:31: [admin.amxx] Login: "Hs # PrO | flanders<71><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.4.175")
+L 12/23/2009 - 16:20:02: [adminchat.amxx] Chat: "Hs # PrO | flanders<71><STEAM_ID_LAN><>" tsay " sem camperar tr"
+L 12/23/2009 - 16:20:23: [adminchat.amxx] Chat: "adx's# joosch<47><STEAM_ID_LAN><>" tsay "saii da base seus lixo"
+L 12/23/2009 - 16:20:40: [adminchat.amxx] Chat: "adx's# joosch<47><STEAM_ID_LAN><>" tsay "saii da base"
+L 12/23/2009 - 16:20:57: [adminchat.amxx] Chat: "adx's# joosch<47><STEAM_ID_LAN><>" tsay "sem alp ? "
+L 12/23/2009 - 16:21:02: [adminchat.amxx] Chat: "adx's# joosch<47><STEAM_ID_LAN><>" tsay "sem arma de mira neh"
+L 12/23/2009 - 16:21:12: [adminchat.amxx] Chat: "Hs # PrO | flanders<71><STEAM_ID_LAN><>" tsay " so awp"
+L 12/23/2009 - 16:21:26: [plmenu.amxx] Kick: "adx's# joosch<47><STEAM_ID_LAN><>" kick "unnamed<27><STEAM_ID_LAN><>"
+L 12/23/2009 - 16:21:49: [adminchat.amxx] Chat: "adx's# joosch<47><STEAM_ID_LAN><>" tsay "LEMBRADO XITER = BAM"
+L 12/23/2009 - 16:22:02: [adminchat.amxx] Chat: "Hs # PrO | flanders<71><STEAM_ID_LAN><>" tsay " lenbramdo ban e comn"
+L 12/23/2009 - 16:22:08: [adminchat.amxx] Chat: "Hs # PrO | flanders<71><STEAM_ID_LAN><>" tsay ""
+L 12/23/2009 - 16:22:12: [adminchat.amxx] Chat: "adx's# joosch<47><STEAM_ID_LAN><>" tsay "SEM ALP"
+L 12/23/2009 - 16:22:34: [plmenu.amxx] Ban: "adx's# joosch<47><STEAM_ID_LAN><>" ban and kick "@*L*3*M*a*(*0<77><STEAM_ID_LAN><>" (minutes "5")
+L 12/23/2009 - 16:22:46: [adminchat.amxx] Chat: "Hs # PrO | flanders<71><STEAM_ID_LAN><>" tsay "  sei la"
+L 12/23/2009 - 16:23:03: [adminchat.amxx] Chat: "Hs # PrO | flanders<71><STEAM_ID_LAN><>" tsay "vai jogando ai e rlx eu vejo seu potencial  "
+L 12/23/2009 - 16:23:14: [adminchat.amxx] Chat: "adx's# joosch<47><STEAM_ID_LAN><>" tsay "ja disse XITER = BAM"
+L 12/23/2009 - 16:23:29: [adminchat.amxx] Chat: "Hs # PrO | flanders<71><STEAM_ID_LAN><>" tsay " ds add   italokent@hotmail.com"
+L 12/23/2009 - 16:24:09: [adminchat.amxx] Chat: "adx's# joosch<47><STEAM_ID_LAN><>" tsay "[: - R E S T A R T I N G - :]"
+L 12/23/2009 - 16:24:09: [admincmd.amxx] Cmd: "adx's# joosch<47><STEAM_ID_LAN><>" server console (cmdline "sv_restart 2")
+L 12/23/2009 - 16:24:42: [mapsmenu.amxx] Vote: "adx's# joosch<47><STEAM_ID_LAN><>" vote maps (map#1 "de_dust2") (map#2 "de_inferno") (map#3 "de_prodigy") (map#4 "")
+L 12/23/2009 - 16:24:54: [mapsmenu.amxx] Vote: Voting failed
+L 12/23/2009 - 16:24:55: [adminchat.amxx] Chat: "Hs # PrO | flanders<71><STEAM_ID_LAN><>" tsay "tira essa votacao"
+L 12/23/2009 - 16:25:25: [adminchat.amxx] Chat: "Hs # PrO | flanders<71><STEAM_ID_LAN><>" tsay " tem que por  surf"
+L 12/23/2009 - 16:25:31: [adminchat.amxx] Chat: "adx's# joosch<47><STEAM_ID_LAN><>" tsay "SEN AWP"
+L 12/23/2009 - 16:25:32: [adminchat.amxx] Chat: "Hs # PrO | flanders<71><STEAM_ID_LAN><>" tsay "na votacao"
+L 12/23/2009 - 16:25:41: [plmenu.amxx] Kick: "adx's# joosch<47><STEAM_ID_LAN><>" kick "mix kBs'<91><STEAM_ID_LAN><>"
+L 12/23/2009 - 16:25:45: [adminchat.amxx] Chat: "adx's# joosch<47><STEAM_ID_LAN><>" tsay "SEM ADM "
+L 12/23/2009 - 16:25:52: [adminchat.amxx] Chat: "Hs # PrO | flanders<71><STEAM_ID_LAN><>" tsay "kicka naum"
+L 12/23/2009 - 16:26:44: [adminchat.amxx] Chat: "Hs # PrO | flanders<71><STEAM_ID_LAN><>" tsay " para josh"
+L 12/23/2009 - 16:42:02: -------- Mapchange to surf_ski_2 --------
+L 12/23/2009 - 16:42:07: [AMXX] Run time error 4 (plugin "spawn_editor.amxx") - debug not enabled!
+L 12/23/2009 - 16:42:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/23/2009 - 16:42:07: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/23/2009 - 16:42:07: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/23/2009 - 16:45:58: [admin.amxx] Login: "Fir3.rOx | LeO       )(KTRON<7><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | LeO       )(KTRON") (access "abcdefghijklmnopqrstu") (address "189.62.241.16")
+L 12/23/2009 - 16:46:22: [admin.amxx] Login: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | Form1g4") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/23/2009 - 16:47:15: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" server console (cmdline "exec cfg/adm1.cfg")
+L 12/23/2009 - 16:47:15: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay "ADMIN [x] ON []OFF"
+L 12/23/2009 - 16:47:15: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" tsay "ADMIN Online!!!"
+L 12/23/2009 - 16:47:20: [admin.amxx] Login: "Fir3.rOx | LeO       )(KTRON<9><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | LeO       )(KTRON") (access "abcdefghijklmnopqrstu") (address "189.62.241.16")
+L 12/23/2009 - 16:47:23: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "diz"
+L 12/23/2009 - 16:47:25: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" tsay "n"
+L 12/23/2009 - 16:47:39: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<9><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 16:47:39: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<9><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 16:47:39: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<9><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1 ")
+L 12/23/2009 - 16:47:50: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<9><STEAM_ID_LAN><>" tsay "FALE"
+L 12/23/2009 - 16:48:44: [plmenu.amxx] Kick: "Fir3.rOx | Form1g4<8><STEAM_ID_LAN><>" kick "FnC *|TuTz'|<1><STEAM_ID_LAN><>"
+L 12/23/2009 - 16:54:48: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<9><STEAM_ID_LAN><>" tsay "amper`s igual a ban"
+L 12/23/2009 - 16:59:42: [admin.amxx] Login: "Fir3.rOx | LeO       )(KTRON<25><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | LeO       )(KTRON") (access "abcdefghijklmnopqrstu") (address "189.62.241.16")
+L 12/23/2009 - 17:00:03: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<25><STEAM_ID_LAN><>" tsay "SEM AWP "
+L 12/23/2009 - 17:00:08: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<25><STEAM_ID_LAN><>" tsay "SEM CAMPERA"
+L 12/23/2009 - 17:00:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<25><STEAM_ID_LAN><>" tsay "sem SCOUT"
+L 12/23/2009 - 17:00:56: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<25><STEAM_ID_LAN><>" tsay ",)"
+L 12/23/2009 - 17:04:11: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<25><STEAM_ID_LAN><>" tsay "QUEM FALo ?"
+L 12/23/2009 - 17:04:14: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<25><STEAM_ID_LAN><>" tsay "QUEM TA CAMPER ?"
+L 12/23/2009 - 17:04:20: [admin.amxx] Login: "Fir3.rOx | Form1g4<29><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | Form1g4") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/23/2009 - 17:04:43: [plmenu.amxx] Kick: "Fir3.rOx | LeO       )(KTRON<25><STEAM_ID_LAN><>" kick "-->[S]wat<-- | [J]asonSubzero<20><STEAM_ID_LAN><>"
+L 12/23/2009 - 17:05:06: [admin.amxx] Login: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | Form1g4") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/23/2009 - 17:05:45: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" tsay "ah vai toma no cu"
+L 12/23/2009 - 17:05:47: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" tsay "nao foi"
+L 12/23/2009 - 17:05:50: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" tsay "essa porra"
+L 12/23/2009 - 17:05:54: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" tsay "fiquei mow tenpao"
+L 12/23/2009 - 17:06:14: [plmenu.amxx] Ban: "Fir3.rOx | LeO       )(KTRON<25><STEAM_ID_LAN><>" ban and kick "-->[S]wat<-- | [J]asonSubzero<31><STEAM_ID_LAN><>" (minutes "10")
+L 12/23/2009 - 17:06:43: [plmenu.amxx] Kick: "Fir3.rOx | LeO       )(KTRON<25><STEAM_ID_LAN><>" kick "-->[S]wat<-- | [J]asonSubzero<31><STEAM_ID_LAN><>"
+L 12/23/2009 - 17:06:49: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" tsay " n"
+L 12/23/2009 - 17:07:04: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<25><STEAM_ID_LAN><>" tsay "Formiga acho q sei"
+L 12/23/2009 - 17:07:09: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<25><STEAM_ID_LAN><>" tsay "Pq nao foi"
+L 12/23/2009 - 17:07:19: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<25><STEAM_ID_LAN><>" tsay "dexa meu truta volta"
+L 12/23/2009 - 17:07:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<25><STEAM_ID_LAN><>" tsay "ele me fala o porq"
+L 12/23/2009 - 17:07:34: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<25><STEAM_ID_LAN><>" tsay "ele manja"
+L 12/23/2009 - 17:07:52: [admin.amxx] Login: "Fir3.rOx | LeO       )(KTRON<35><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | LeO       )(KTRON") (access "abcdefghijklmnopqrstu") (address "189.62.241.16")
+L 12/23/2009 - 17:08:10: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" tsay "n"
+L 12/23/2009 - 17:09:14: [plmenu.amxx] Kick: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" kick "-->[S]wat<-- | [J]asonSubzero<34><STEAM_ID_LAN><>"
+L 12/23/2009 - 17:09:49: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" tsay "nao soh kickey pq falo"
+L 12/23/2009 - 17:09:53: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" tsay "adm vagabundo"
+L 12/23/2009 - 17:09:57: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" tsay " Respeito rapaz"
+L 12/23/2009 - 17:10:23: [plmenu.amxx] Kick: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" kick "-->[S]wat<-- | [J]asonSubzero<38><STEAM_ID_LAN><>"
+L 12/23/2009 - 17:12:35: [plmenu.amxx] Kick: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" kick "-->[S]wat<-- | [J]asonSubzero<39><STEAM_ID_LAN><>"
+L 12/23/2009 - 17:13:12: [plmenu.amxx] Kick: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" kick "-->[S]wat<-- | [J]asonSubzero<42><STEAM_ID_LAN><>"
+L 12/23/2009 - 17:13:36: [plmenu.amxx] Ban: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" ban and kick "-->[S]wat<-- | [J]asonSubzero<43><STEAM_ID_LAN><>" (minutes "5")
+L 12/23/2009 - 17:13:49: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" server console (cmdline "exec cfg/4fun.cfg")
+L 12/23/2009 - 17:13:49: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" csay "Configuracao 4fun [x]ON []OFF"
+L 12/23/2009 - 17:13:49: [adminchat.amxx] Chat: "Fir3.rOx | + adx's# |<0><><>" csay "  4fun [x]ON []OFF"
+L 12/23/2009 - 17:14:06: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:14:09: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:14:11: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:14:13: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:14:15: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:14:17: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:14:19: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:14:21: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:14:23: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:14:27: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:14:29: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:14:31: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:14:34: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:14:38: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" tsay "[CSO] Escreva Chapeus para escolher um chapeu!"
+L 12/23/2009 - 17:14:40: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:14:43: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:14:45: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:14:47: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:14:49: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:14:51: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:14:54: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:14:57: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:15:02: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:15:08: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:15:21: [plmenu.amxx] Kick: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" kick "-->[S]wat<-- | [J]asonSubzero<43><STEAM_ID_LAN><>"
+L 12/23/2009 - 17:21:04: [admin.amxx] Login: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | LeO       )(KTRON") (access "abcdefghijklmnopqrstu") (address "189.62.241.16")
+L 12/23/2009 - 17:21:26: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 17:21:26: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 17:21:26: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 0 ")
+L 12/23/2009 - 17:21:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 17:21:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 17:21:27: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 0 ")
+L 12/23/2009 - 17:21:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 17:21:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 17:21:27: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 0 ")
+L 12/23/2009 - 17:21:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 17:21:27: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 17:21:27: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 0 ")
+L 12/23/2009 - 17:21:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 17:21:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 17:21:28: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 0 ")
+L 12/23/2009 - 17:21:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 17:21:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 17:21:28: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 0 ")
+L 12/23/2009 - 17:21:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 17:21:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 17:21:28: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 0 ")
+L 12/23/2009 - 17:21:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 17:21:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 17:21:28: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 0 ")
+L 12/23/2009 - 17:21:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 17:21:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/23/2009 - 17:21:28: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 0 ")
+L 12/23/2009 - 17:21:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 17:21:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 17:21:28: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 17:21:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 17:21:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 17:21:29: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 17:21:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 17:21:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 17:21:29: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 17:21:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 17:21:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 17:21:29: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 17:21:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 17:21:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 17:21:29: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 17:21:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 17:21:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 17:21:29: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 17:21:31: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "Todos de Spec ! : Live - Live "
+L 12/23/2009 - 17:21:32: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "Todos de Spec ! : Live - Live "
+L 12/23/2009 - 17:21:32: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "Todos de Spec ! : Live - Live "
+L 12/23/2009 - 17:21:32: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "Todos de Spec ! : Live - Live "
+L 12/23/2009 - 17:21:32: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "Todos de Spec ! : Live - Live "
+L 12/23/2009 - 17:21:34: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 17:21:35: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 17:21:35: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 17:21:35: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 17:21:35: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 17:21:36: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" say "SEU PESADELO CHEGO HOHO'"
+L 12/23/2009 - 17:22:11: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" tsay "Sem AWP"
+L 12/23/2009 - 17:22:38: [plmenu.amxx] Ban: "Fir3.rOx | LeO       )(KTRON<48><STEAM_ID_LAN><>" ban and kick "-->[S]wat<-- | [J]asonSubzero<46><STEAM_ID_LAN><>" (minutes "60")
+L 12/23/2009 - 17:22:42: [admin.amxx] Login: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | LeO       )(KTRON") (access "abcdefghijklmnopqrstu") (address "189.62.241.16")
+L 12/23/2009 - 17:22:57: [plmenu.amxx] Kick: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" kick "-->[S]wat<-- | [J]asonSubzero<46><STEAM_ID_LAN><>"
+L 12/23/2009 - 17:24:19: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" tsay "NAO VALE AWP"
+L 12/23/2009 - 17:24:24: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" tsay "NAO VALE AWP"
+L 12/23/2009 - 17:24:43: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" tsay "ESQUECe"
+L 12/23/2009 - 17:24:46: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" tsay "TIRO NAO"
+L 12/23/2009 - 17:24:52: [admin.amxx] Login: "Hs # PrO | flanders<51><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.4.175")
+L 12/23/2009 - 17:25:21: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" tsay ""
+L 12/23/2009 - 17:25:31: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" tsay "oq po"
+L 12/23/2009 - 17:25:39: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" tsay "NAo uns bangui"
+L 12/23/2009 - 17:25:47: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" tsay "mais ja ta"
+L 12/23/2009 - 17:26:04: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" tsay "=("
+L 12/23/2009 - 17:26:08: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" tsay "OS COMANDOS"
+L 12/23/2009 - 17:26:13: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" tsay "PRA SURF"
+L 12/23/2009 - 17:26:17: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" tsay "PRA SURF"
+L 12/23/2009 - 17:26:22: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" tsay "Q MANDEI SE COLOKO"
+L 12/23/2009 - 17:26:28: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" tsay "ENTAO :)"
+L 12/23/2009 - 17:26:50: [admin.amxx] Login: "Hs # PrO | flanders<54><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.4.175")
+L 12/23/2009 - 17:27:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" say "Todos de Spec ! : Live - Live "
+L 12/23/2009 - 17:27:29: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" say "Todos de Spec ! : Live - Live "
+L 12/23/2009 - 17:27:31: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 17:27:31: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 17:27:31: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1 ")
+L 12/23/2009 - 17:27:33: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" set cvar (name "sv_alltalk") (value "0")
+L 12/23/2009 - 17:27:33: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" set cvar (name "mp_freezetime") (value "60")
+L 12/23/2009 - 17:27:33: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" set cvar (name "sv_restart") (value "1")
+L 12/23/2009 - 17:27:45: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" set cvar (name "sv_alltalk") (value "0")
+L 12/23/2009 - 17:27:45: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" set cvar (name "mp_freezetime") (value "60")
+L 12/23/2009 - 17:27:45: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" set cvar (name "sv_restart") (value "1")
+L 12/23/2009 - 17:27:51: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 17:27:51: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 17:27:51: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1 ")
+L 12/23/2009 - 17:27:51: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 17:27:51: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 17:27:51: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1 ")
+L 12/23/2009 - 17:27:51: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:27:59: [adminchat.amxx] Chat: "Hs # PrO | flanders<54><STEAM_ID_LAN><>" tsay " aFFF"
+L 12/23/2009 - 17:27:59: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:28:01: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" tsay "ARRUMA ISSO"
+L 12/23/2009 - 17:28:10: [adminchat.amxx] Chat: "Hs # PrO | flanders<54><STEAM_ID_LAN><>" tsay " paa que sxe"
+L 12/23/2009 - 17:28:11: [plmenu.amxx] Kick: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" kick "-->[S]wat<-- | [J]asonSubzero<50><STEAM_ID_LAN><>"
+L 12/23/2009 - 17:28:16: [adminchat.amxx] Chat: "Hs # PrO | flanders<54><STEAM_ID_LAN><>" tsay " >>???"
+L 12/23/2009 - 17:28:21: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" tsay "EU COLOKEI SEM QUERE"
+L 12/23/2009 - 17:28:21: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<32><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:28:24: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" tsay "TIRA LA"
+L 12/23/2009 - 17:28:43: [adminchat.amxx] Chat: "Hs # PrO | flanders<54><STEAM_ID_LAN><>" tsay "tem como tirar"
+L 12/23/2009 - 17:28:55: [admin.amxx] Login: "Fir3.rOx | Form1g4<59><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | Form1g4") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/23/2009 - 17:29:07: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<59><STEAM_ID_LAN><>" tsay "[CSO] Escreva Chapeus para escolher um chapeu!"
+L 12/23/2009 - 17:29:10: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<59><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:29:30: [admin.amxx] Login: "Hs # PrO | flanders<60><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.4.175")
+L 12/23/2009 - 17:29:59: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" tsay "sai gora"
+L 12/23/2009 - 17:30:02: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" tsay "FORA"
+L 12/23/2009 - 17:30:07: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" tsay "vai joga tibia LIXAO"
+L 12/23/2009 - 17:30:26: [adminchat.amxx] Chat: "Hs # PrO | flanders<60><STEAM_ID_LAN><>" tsay " tem como   tirar sxe???"
+L 12/23/2009 - 17:30:51: [plmenu.amxx] Kick: "Fir3.rOx | LeO       )(KTRON<49><STEAM_ID_LAN><>" kick "[L]ow.[P]ing'$ l MoL ! PpL'<58><STEAM_ID_LAN><>"
+L 12/23/2009 - 17:30:58: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<59><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:31:12: [admin.amxx] Login: "Hs # PrO | flanders<61><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.4.175")
+L 12/23/2009 - 17:31:19: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<59><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:31:33: [admin.amxx] Login: "Fir3.rOx | LeO       )(KTRON<63><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | LeO       )(KTRON") (access "abcdefghijklmnopqrstu") (address "189.62.241.16")
+L 12/23/2009 - 17:31:56: [admin.amxx] Login: "Fir3.rOx | Form1g4<64><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | Form1g4") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/23/2009 - 17:32:04: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<64><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:33:00: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<63><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 17:33:00: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<63><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 17:33:00: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<63><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1 ")
+L 12/23/2009 - 17:33:54: [admin.amxx] Login: "Fir3.rOx | Form1g4<68><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | Form1g4") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/23/2009 - 17:34:33: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<63><STEAM_ID_LAN><>" tsay "CAMPER = KICK"
+L 12/23/2009 - 17:36:11: [admin.amxx] Login: "Hs # PrO | flanders<70><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.5.181")
+L 12/23/2009 - 17:36:20: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<63><STEAM_ID_LAN><>" tsay "ZAP PARA MAN"
+L 12/23/2009 - 17:37:10: [admin.amxx] Login: "Hs # PrO | flanders<71><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.5.181")
+L 12/23/2009 - 17:37:48: [adminchat.amxx] Chat: "Hs # PrO | flanders<71><STEAM_ID_LAN><>" tsay "aiaia uiuiu"
+L 12/23/2009 - 17:37:52: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<63><STEAM_ID_LAN><>" tsay "IAEJA"
+L 12/23/2009 - 17:39:39: [admin.amxx] Login: "Hs # PrO | flanders<73><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.5.181")
+L 12/23/2009 - 17:43:07: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<63><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 17:43:07: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<63><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 17:43:07: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<63><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1 ")
+L 12/23/2009 - 17:43:07: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<63><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 17:43:07: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<63><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 17:43:07: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<63><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1 ")
+L 12/23/2009 - 17:43:09: [admin.amxx] Login: "Hs # PrO | flanders<77><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.4.1")
+L 12/23/2009 - 17:43:17: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<68><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:43:18: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<68><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:43:19: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<68><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:43:22: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<68><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:43:23: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<68><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:43:26: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<68><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:43:28: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<68><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:43:30: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<68><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:43:32: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<68><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:43:34: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<68><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:43:36: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<68><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:43:42: [admin.amxx] Login: "Fir3.rOx | LeO       )(KTRON<78><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | LeO       )(KTRON") (access "abcdefghijklmnopqrstu") (address "189.62.241.16")
+L 12/23/2009 - 17:43:55: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<78><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 17:43:55: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<78><STEAM_ID_LAN><>" say "[ Restarting ... ] "
+L 12/23/2009 - 17:43:55: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<78><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1 ")
+L 12/23/2009 - 17:44:14: [adminchat.amxx] Chat: "Hs # PrO | flanders<77><STEAM_ID_LAN><>" tsay "vai levar kick  td mundo que tah de tk"
+L 12/23/2009 - 17:44:20: [admin.amxx] Login: "Fir3.rOx | Form1g4<79><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | Form1g4") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/23/2009 - 17:44:31: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<79><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:44:41: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<79><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:45:02: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<79><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:45:04: [admin.amxx] Login: "Hs # PrO | flanders<82><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.4.1")
+L 12/23/2009 - 17:45:09: [admin.amxx] Login: "Fir3.rOx | Form1g4<83><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | Form1g4") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/23/2009 - 17:45:20: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<83><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/23/2009 - 17:46:38: [admin.amxx] Login: "Hs # PrO | flanders<86><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.5.181")
+L 12/23/2009 - 17:48:51: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<78><STEAM_ID_LAN><>" tsay "FODAO CAMPER E BAN"
+L 12/23/2009 - 17:48:58: [admin.amxx] Login: "Hs # PrO | flanders<100><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.4.136")
+L 12/23/2009 - 17:58:35: -------- Mapchange to surf_ski_2 --------
+L 12/23/2009 - 17:58:40: [AMXX] Run time error 4 (plugin "spawn_editor.amxx") - debug not enabled!
+L 12/23/2009 - 17:58:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/23/2009 - 17:58:40: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/23/2009 - 17:58:40: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/23/2009 - 17:59:29: [admin.amxx] Login: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | LeO       )(KTRON") (access "abcdefghijklmnopqrstu") (address "189.62.241.16")
+L 12/23/2009 - 17:59:35: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 17:59:35: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 17:59:35: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 17:59:36: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 17:59:36: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/23/2009 - 17:59:36: [admincmd.amxx] Cmd: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/23/2009 - 18:01:02: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "CAMPERA = KICK"
+L 12/23/2009 - 18:01:08: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "AWp = KICk"
+L 12/23/2009 - 18:01:20: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "TO LIGADO"
+L 12/23/2009 - 18:01:24: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "MAIS NAO SO HOSTER"
+L 12/23/2009 - 18:04:41: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "daqui a POKO vo tira esse ADDOn e dexa o NORMAL mesmo E MELHOE"
+L 12/23/2009 - 18:05:35: [adminvote.amxx] Vote: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" vote custom (question "Tira_map") (option#1 "Sim") (option#2 "Nao")
+L 12/23/2009 - 18:05:47: [adminvote.amxx] Vote: Voting successful (got "2") (needed "1") (result "Tira_map - Sim")
+L 12/23/2009 - 18:06:06: [adminvote.amxx] Vote: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" vote custom (question "MAIS") (option#1 "TARDE") (option#2 "(")
+L 12/23/2009 - 18:06:18: [adminvote.amxx] Vote: Voting successful (got "3") (needed "1") (result "MAIS - TARDE")
+L 12/23/2009 - 18:07:38: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "SEM CAMPERA"
+L 12/23/2009 - 18:11:23: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "vai toma KICk"
+L 12/23/2009 - 18:11:32: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "Nb tomo ban"
+L 12/23/2009 - 18:11:34: [adminvote.amxx] Vote: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" vote custom (question "MAIS") (option#1 "TARDE") (option#2 "(")
+L 12/23/2009 - 18:11:46: [adminvote.amxx] Vote: Voting successful (got "3") (needed "1") (result "MAIS - TARDE")
+L 12/23/2009 - 18:11:47: [plmenu.amxx] Ban: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" ban and kick "Mlk'z.tOp #  Sony.Ericsson<14><STEAM_ID_LAN><>" (minutes "5")
+L 12/23/2009 - 18:11:54: [plmenu.amxx] Kick: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" kick "Mlk'z.tOp #  Sony.Ericsson<14><STEAM_ID_LAN><>"
+L 12/23/2009 - 18:13:15: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "SEM CAMPER SO BASe"
+L 12/23/2009 - 18:19:31: [admin.amxx] Login: "Hs # PrO | flanders<28><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.1.117")
+L 12/23/2009 - 18:21:31: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "]"
+L 12/23/2009 - 18:21:36: [admin.amxx] Login: "Hs # PrO | flanders<29><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.5.194")
+L 12/23/2009 - 18:21:42: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "SONY vai tom kick"
+L 12/23/2009 - 18:21:51: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "SONY vbai toma kick"
+L 12/23/2009 - 18:22:04: [adminchat.amxx] Chat: "Hs # PrO | flanders<29><STEAM_ID_LAN><>" tsay " skjapoidj"
+L 12/23/2009 - 18:22:14: [adminchat.amxx] Chat: "Hs # PrO | flanders<29><STEAM_ID_LAN><>" tsay "esqueci de por"
+L 12/23/2009 - 18:22:34: [plmenu.amxx] Kick: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" kick "mix Pelego SPFC<21><STEAM_ID_LAN><>"
+L 12/23/2009 - 18:23:11: [adminchat.amxx] Chat: "Hs # PrO | flanders<29><STEAM_ID_LAN><>" tsay "sem propaganda"
+L 12/23/2009 - 18:24:01: [adminchat.amxx] Chat: "Hs # PrO | flanders<29><STEAM_ID_LAN><>" tsay "passa ai"
+L 12/23/2009 - 18:24:09: [adminchat.amxx] Chat: "Hs # PrO | flanders<29><STEAM_ID_LAN><>" tsay " passa ai "
+L 12/23/2009 - 18:24:16: [adminchat.amxx] Chat: "Hs # PrO | flanders<29><STEAM_ID_LAN><>" tsay "pssa ai"
+L 12/23/2009 - 18:25:00: [plmenu.amxx] Kick: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" kick "Mlk'z.tOp #  Sony.Ericsson<15><STEAM_ID_LAN><>"
+L 12/23/2009 - 18:25:43: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "HOSTER nao ta ON"
+L 12/23/2009 - 18:26:30: [admin.amxx] Login: "Hs # PrO | flanders<37><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.5.194")
+L 12/23/2009 - 18:28:36: [adminchat.amxx] Chat: "Hs # PrO | flanders<37><STEAM_ID_LAN><>" tsay "m4 e "
+L 12/23/2009 - 18:29:26: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "sem capera CORNO"
+L 12/23/2009 - 18:29:34: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "CAMPERA *"
+L 12/23/2009 - 18:30:38: [admincmd.amxx] Kick: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" kick "Arthur matado de maria<33><STEAM_ID_LAN><>" (reason "")
+L 12/23/2009 - 18:31:03: [admincmd.amxx] Cmd: "Fir3.rOx | + adx's# |<0><><>" pause server
+L 12/23/2009 - 18:31:05: [admincmd.amxx] Cmd: "Fir3.rOx | + adx's# |<0><><>" unpause server
+L 12/23/2009 - 18:31:06: [admincmd.amxx] Cmd: "Fir3.rOx | + adx's# |<0><><>" pause server
+L 12/23/2009 - 18:31:07: [admincmd.amxx] Cmd: "Fir3.rOx | + adx's# |<0><><>" unpause server
+L 12/23/2009 - 18:31:08: [admincmd.amxx] Cmd: "Fir3.rOx | + adx's# |<0><><>" pause server
+L 12/23/2009 - 18:31:09: [admincmd.amxx] Cmd: "Fir3.rOx | + adx's# |<0><><>" unpause server
+L 12/23/2009 - 18:31:12: [admincmd.amxx] Cmd: "Fir3.rOx | + adx's# |<0><><>" pause server
+L 12/23/2009 - 18:31:13: [admincmd.amxx] Cmd: "Fir3.rOx | + adx's# |<0><><>" unpause server
+L 12/23/2009 - 18:31:35: [adminchat.amxx] Chat: "Hs # PrO | flanders<37><STEAM_ID_LAN><>" tsay "ou adx paa de mexer nos plugins"
+L 12/23/2009 - 18:32:13: [plmenu.amxx] Kick: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" kick "{-->|'P4UL1Nn & FL4H <---S2'}<38><STEAM_ID_LAN><>"
+L 12/23/2009 - 18:32:47: [admin.amxx] Login: "Hs # PrO | flanders<47><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.5.194")
+L 12/23/2009 - 18:33:21: [adminchat.amxx] Chat: "Hs # PrO | flanders<47><STEAM_ID_LAN><>" tsay "dddd"
+L 12/23/2009 - 18:33:27: [adminchat.amxx] Chat: "Hs # PrO | flanders<47><STEAM_ID_LAN><>" tsay "n sd"
+L 12/23/2009 - 18:33:56: [admin.amxx] Login: "Hs # PrO | flanders<51><STEAM_ID_LAN><>" became an admin (account "Hs # PrO | flanders") (access "abcdefghijklmnopqrstu") (address "200.165.5.194")
+L 12/23/2009 - 18:34:32: [adminchat.amxx] Chat: "Hs # PrO | flanders<51><STEAM_ID_LAN><>" tsay "sem pausa no server"
+L 12/23/2009 - 18:35:11: [adminchat.amxx] Chat: "Hs # PrO | flanders<51><STEAM_ID_LAN><>" tsay " spec entrem"
+L 12/23/2009 - 18:35:43: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "PEDRO JA CHEGO ?"
+L 12/23/2009 - 18:36:10: [adminchat.amxx] Chat: "Fir3.rOx | LeO       )(KTRON<3><STEAM_ID_LAN><>" tsay "TA SUSSA"
+L 12/23/2009 - 18:37:03: [adminchat.amxx] Chat: "Hs # PrO | flanders<51><STEAM_ID_LAN><>" tsay "so m4"
+L 12/23/2009 - 18:37:41: [adminchat.amxx] Chat: "Hs # PrO | flanders<51><STEAM_ID_LAN><>" tsay "yeah"
+L 12/23/2009 - 18:38:09: [adminchat.amxx] Chat: "Hs # PrO | flanders<51><STEAM_ID_LAN><>" tsay " so doze   sem colt nem  ak"
+L 12/23/2009 - 18:38:22: [adminchat.amxx] Chat: "Hs # PrO | flanders<51><STEAM_ID_LAN><>" tsay "guilherme abre"
+L 12/23/2009 - 19:21:05: -------- Mapchange to surf_ski_2 --------
+L 12/23/2009 - 19:21:10: [AMXX] Run time error 4 (plugin "spawn_editor.amxx") - debug not enabled!
+L 12/23/2009 - 19:21:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/23/2009 - 19:21:10: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/23/2009 - 19:21:10: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/23/2009 - 19:44:18: [admin.amxx] Login: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | Form1g4") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/23/2009 - 21:19:32: -------- Mapchange to surf_ski_2 --------
+L 12/23/2009 - 21:19:36: [AMXX] Run time error 4 (plugin "spawn_editor.amxx") - debug not enabled!
+L 12/23/2009 - 21:19:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/23/2009 - 21:19:36: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/23/2009 - 21:19:36: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/23/2009 - 22:02:37: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/23/2009 - 22:02:52: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_airstrip
+L 12/23/2009 - 22:04:49: -------- Mapchange to de_airstrip --------
+L 12/23/2009 - 22:04:57: [csdm_spawn_preset.amxx] Loaded 38 spawn points for map de_airstrip.
+L 12/23/2009 - 22:04:57: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/23/2009 - 23:16:08: -------- Mapchange to surf_ski_2 --------
+L 12/23/2009 - 23:16:14: [AMXX] Run time error 4 (plugin "spawn_editor.amxx") - debug not enabled!
+L 12/23/2009 - 23:16:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/23/2009 - 23:16:14: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/23/2009 - 23:16:14: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/23/2009 - 23:17:28: [admin.amxx] Login: "Fir3.rOx | PeedriiN<1><STEAM_ID_LAN><>" kicked due to invalid password (account "Fir3.rOx | PeedriiN") (address "192.168.254.1")
+L 12/23/2009 - 23:17:39: [admin.amxx] Login: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | PeedriiN") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/23/2009 - 23:23:01: [plmenu.amxx] Ban: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" ban and kick "[H]e(E)l'z[P]l[I]n(T)<3><STEAM_ID_LAN><>" (minutes "10")
+L 12/23/2009 - 23:23:46: [admin.amxx] Login: "Fir3.rOx | PeedriiN<4><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | PeedriiN") (access "abcdefghijklmnopqrstu") (address "192.168.254.1")
+L 12/23/2009 - 23:24:05: [plmenu.amxx] Ban: "Fir3.rOx | PeedriiN<4><STEAM_ID_LAN><>" ban and kick "[H]e(E)l'z[P]l[I]n(T)<3><STEAM_ID_LAN><>" (minutes "10")
+L 12/23/2009 - 23:56:54: -------- Mapchange to surf_ski_2 --------
+L 12/23/2009 - 23:57:00: [AMXX] Run time error 4 (plugin "spawn_editor.amxx") - debug not enabled!
+L 12/23/2009 - 23:57:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/23/2009 - 23:57:00: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\surf_ski_2.spawns.cfg)
+L 12/23/2009 - 23:57:00: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/23/2009 - 23:58:38: [admin.amxx] Login: "Fir3.rOx | PeedriiN<1><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | PeedriiN") (access "abcdefghijklmnopqrstu") (address "201.42.10.195")

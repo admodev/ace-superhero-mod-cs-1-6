@@ -1,0 +1,25 @@
+L 12/25/2009 - 11:47:09: -------- Mapchange to de_dust2 --------
+L 12/25/2009 - 11:47:10: Error:
+L 12/25/2009 - 11:47:10: [AMXX] Module requested a not exisitng function (file "cstrike\addons\amxmodx\modules\hamsandwich_amxx.dll") (func "AddNewNatives")
+L 12/25/2009 - 11:47:10: [AMXX] Plugin "backweapons.amxx" failed to load: Module/Library "hamsandwich" required for plugin.  Check modules.ini.
+L 12/25/2009 - 11:47:10: [AMXX] Plugin "damage_glow.amxx" failed to load: Module/Library "hamsandwich" required for plugin.  Check modules.ini.
+L 12/25/2009 - 11:47:17: [superheromodnvault.amxx] DEBUG: Attempting to load the SuperHero Config File
+L 12/25/2009 - 11:47:17: [superheromodnvault.amxx] DEBUG: Attempting to load the SuperHero Config File
+L 12/25/2009 - 11:49:15: [admin.amxx] Login: "Fir3.rOx | PeedriiN<1><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | PeedriiN") (access "abcdefghijklmnopqrstu") (address "189.46.167.211")
+L 12/25/2009 - 11:53:40: [admin.amxx] Login: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" kicked due to invalid password (account "Fir3.rOx | Form1g4") (address "189.46.167.211")
+L 12/25/2009 - 11:53:50: [admin.amxx] Login: "Fir3.rOx | Form1g4<3><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | Form1g4") (access "abcdefghijklmnopqrstu") (address "189.46.167.211")
+L 12/25/2009 - 12:01:43: -------- Mapchange to surf_ski_2 --------
+L 12/25/2009 - 12:01:44: [AMXX] Plugin "backweapons.amxx" failed to load: Module/Library "hamsandwich" required for plugin.  Check modules.ini.
+L 12/25/2009 - 12:01:44: [AMXX] Plugin "damage_glow.amxx" failed to load: Module/Library "hamsandwich" required for plugin.  Check modules.ini.
+L 12/25/2009 - 12:01:50: [superheromodnvault.amxx] DEBUG: Attempting to load the SuperHero Config File
+L 12/25/2009 - 12:01:50: [superheromodnvault.amxx] DEBUG: Attempting to load the SuperHero Config File
+L 12/25/2009 - 12:01:55: [admin.amxx] Login: "Fir3.rOx | Form1g4<3><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | Form1g4") (access "abcdefghijklmnopqrstu") (address "189.46.167.211")
+L 12/25/2009 - 12:02:59: [admin.amxx] Login: "Fir3.rOx | Form1g4<6><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | Form1g4") (access "abcdefghijklmnopqrstu") (address "189.46.167.211")
+L 12/25/2009 - 12:33:17: -------- Mapchange to de_dust2_fundo --------
+L 12/25/2009 - 12:33:18: [AMXX] Plugin "backweapons.amxx" failed to load: Module/Library "hamsandwich" required for plugin.  Check modules.ini.
+L 12/25/2009 - 12:33:18: [AMXX] Plugin "damage_glow.amxx" failed to load: Module/Library "hamsandwich" required for plugin.  Check modules.ini.
+L 12/25/2009 - 12:33:22: [superheromodnvault.amxx] DEBUG: Attempting to load the SuperHero Config File
+L 12/25/2009 - 12:33:22: [superheromodnvault.amxx] DEBUG: Attempting to load the SuperHero Config File
+L 12/25/2009 - 12:33:25: [admin.amxx] Login: "Fir3.rOx | Form1g4<6><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | Form1g4") (access "abcdefghijklmnopqrstu") (address "189.46.167.211")
+L 12/25/2009 - 12:37:57: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<6><STEAM_ID_LAN><>" tsay "eh hero po"
+L 12/25/2009 - 12:38:07: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<6><STEAM_ID_LAN><>" tsay "to usando hero po"

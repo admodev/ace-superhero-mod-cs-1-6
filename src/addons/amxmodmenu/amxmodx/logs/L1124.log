@@ -1,0 +1,43 @@
+L 11/24/2004 - 10:59:34: -------- Mapchange --------
+L 11/24/2004 - 10:59:35: [AMXX] Module "engine" required for plugin.  Check modules.ini. (plugin "sentryguns.amxx")
+L 11/24/2004 - 10:59:35: [AMXX] Plugin uses an unknown function (name "cs_set_user_money") - check your modules.ini. (plugin "admin_allinone.amxx")
+L 11/24/2004 - 10:59:35: [AMXX] Plugin uses an unknown function (name "get_user_stats") - check your modules.ini. (plugin "enter-leaver_message.amxx")
+L 11/24/2004 - 10:59:36: [AMXX] Plugin uses an unknown function (name "cs_set_user_money") - check your modules.ini. (plugin "sunglasses.amxx")
+L 11/24/2004 - 11:00:08: [admin.amxx] Login: "$eu_crey$$on<1><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 11/24/2004 - 11:20:52: -------- Mapchange --------
+L 11/24/2004 - 11:20:52: [AMXX] Module "engine" required for plugin.  Check modules.ini. (plugin "sentryguns.amxx")
+L 11/24/2004 - 11:20:52: [AMXX] Plugin uses an unknown function (name "cs_set_user_money") - check your modules.ini. (plugin "admin_allinone.amxx")
+L 11/24/2004 - 11:20:52: [AMXX] Plugin uses an unknown function (name "get_user_stats") - check your modules.ini. (plugin "enter-leaver_message.amxx")
+L 11/24/2004 - 11:20:52: [AMXX] Plugin uses an unknown function (name "cs_set_user_money") - check your modules.ini. (plugin "sunglasses.amxx")
+L 11/24/2004 - 11:22:02: [adminvote.amxx] Vote: "$eu_crey$$on<1><STEAM_ID_PENDING><>" vote maps (map#1 "de_dust2") (map#2 "cs_assault") (map#3 "de_aztec") (map#4 "")
+L 11/24/2004 - 11:22:14: [adminvote.amxx] Vote: Voting successful (got "1") (needed "1") (result "changelevel de_aztec")
+L 11/24/2004 - 11:22:19: [adminvote.amxx] Vote: Result accepted
+L 11/24/2004 - 11:22:23: -------- Mapchange --------
+L 11/24/2004 - 11:22:23: [AMXX] Module "engine" required for plugin.  Check modules.ini. (plugin "sentryguns.amxx")
+L 11/24/2004 - 11:22:23: [AMXX] Plugin uses an unknown function (name "cs_set_user_money") - check your modules.ini. (plugin "admin_allinone.amxx")
+L 11/24/2004 - 11:22:23: [AMXX] Plugin uses an unknown function (name "get_user_stats") - check your modules.ini. (plugin "enter-leaver_message.amxx")
+L 11/24/2004 - 11:22:23: [AMXX] Plugin uses an unknown function (name "cs_set_user_money") - check your modules.ini. (plugin "sunglasses.amxx")
+L 11/24/2004 - 19:30:47: -------- Mapchange --------
+L 11/24/2004 - 19:30:48: [AMXX] Module "engine" required for plugin.  Check modules.ini. (plugin "sentryguns.amxx")
+L 11/24/2004 - 19:30:48: [AMXX] Plugin uses an unknown function (name "cs_set_user_money") - check your modules.ini. (plugin "admin_allinone.amxx")
+L 11/24/2004 - 19:30:48: [AMXX] Plugin uses an unknown function (name "get_user_stats") - check your modules.ini. (plugin "enter-leaver_message.amxx")
+L 11/24/2004 - 19:30:48: [AMXX] Plugin uses an unknown function (name "cs_set_user_money") - check your modules.ini. (plugin "sunglasses.amxx")
+L 11/24/2004 - 19:30:49: [AMXX] Plugin file open error (plugin "mapchoose.amxx")
+L 11/24/2004 - 19:31:41: [admin.amxx] Login: "[POD]Marlon Brando (84)<2><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 11/24/2004 - 19:31:42: [admin.amxx] Login: "[POD]Adam Sandler (75)<3><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 11/24/2004 - 19:31:42: [admin.amxx] Login: "[P*D]Jennifer Aniston (67)<4><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 11/24/2004 - 19:31:43: [admin.amxx] Login: "[P0D]Juliet Lewis (96)<5><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 11/24/2004 - 19:31:43: [admin.amxx] Login: "[P0D]Sean Connery (61)<6><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 11/24/2004 - 19:31:44: [admin.amxx] Login: "[P*D]Jennifer Love Hewitt (72)<7><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 11/24/2004 - 19:31:45: [admin.amxx] Login: "[P*D]Al Pacino (62)<8><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 11/24/2004 - 19:34:05: [admincmd.amxx] Cmd: "$eu_crey$$on<1><STEAM_ID_LAN><>" ask for players list
+L 11/24/2004 - 19:41:40: [adminvote.amxx] Vote: "$eu_crey$$on<1><STEAM_ID_LAN><>" vote maps (map#1 "de_dust2") (map#2 "de_dust") (map#3 "cs_assault") (map#4 "")
+L 11/24/2004 - 19:41:52: [adminvote.amxx] Vote: Voting failed (got "0") (needed "1")
+L 11/24/2004 - 19:50:39: [admincmd.amxx] Cmd: "$eu_crey$$on<1><STEAM_ID_LAN><>" ask for players list
+L 11/24/2004 - 19:52:04: -------- Mapchange --------
+L 11/24/2004 - 19:52:04: [AMXX] Module "engine" required for plugin.  Check modules.ini. (plugin "sentryguns.amxx")
+L 11/24/2004 - 19:52:05: [AMXX] Plugin uses an unknown function (name "cs_set_user_money") - check your modules.ini. (plugin "admin_allinone.amxx")
+L 11/24/2004 - 19:52:05: [AMXX] Plugin uses an unknown function (name "get_user_stats") - check your modules.ini. (plugin "enter-leaver_message.amxx")
+L 11/24/2004 - 19:52:05: [AMXX] Plugin uses an unknown function (name "cs_set_user_money") - check your modules.ini. (plugin "sunglasses.amxx")
+L 11/24/2004 - 19:52:05: [AMXX] Plugin file open error (plugin "mapchoose.amxx")
+L 11/24/2004 - 19:52:13: [admin.amxx] Login: "$eu_crey$$on<1><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")

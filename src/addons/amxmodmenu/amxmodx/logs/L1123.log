@@ -1,0 +1,15 @@
+L 11/23/2004 - 13:49:10: -------- Mapchange --------
+L 11/23/2004 - 13:49:11: [AMXX] Module "engine" required for plugin.  Check modules.ini. (plugin "sentryguns.amxx")
+L 11/23/2004 - 13:49:11: [AMXX] Plugin uses an unknown function (name "cs_set_user_money") - check your modules.ini. (plugin "admin_allinone.amxx")
+L 11/23/2004 - 13:49:11: [AMXX] Plugin uses an unknown function (name "get_user_stats") - check your modules.ini. (plugin "enter-leaver_message.amxx")
+L 11/23/2004 - 13:49:11: [AMXX] Plugin uses an unknown function (name "cs_set_user_money") - check your modules.ini. (plugin "sunglasses.amxx")
+L 11/23/2004 - 13:49:25: [admin.amxx] Login: "$eu_crey$$on<1><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 11/23/2004 - 13:52:56: [plmenu.amxx] Cmd: "$eu_crey$$on<1><STEAM_ID_LAN><>" slay "Joe Pesci<7><BOT><>"
+L 11/23/2004 - 13:53:11: [plmenu.amxx] Cmd: "$eu_crey$$on<1><STEAM_ID_LAN><>" slap with 5 damage "Laurence Fishburne<3><BOT><>"
+L 11/23/2004 - 13:56:18: [plmenu.amxx] Kick: "$eu_crey$$on<1><STEAM_ID_LAN><>" kick "Sharon Stone<6><BOT><>"
+L 11/23/2004 - 13:56:57: -------- Mapchange --------
+L 11/23/2004 - 13:56:58: [AMXX] Module "engine" required for plugin.  Check modules.ini. (plugin "sentryguns.amxx")
+L 11/23/2004 - 13:56:58: [AMXX] Plugin uses an unknown function (name "cs_set_user_money") - check your modules.ini. (plugin "admin_allinone.amxx")
+L 11/23/2004 - 13:56:58: [AMXX] Plugin uses an unknown function (name "get_user_stats") - check your modules.ini. (plugin "enter-leaver_message.amxx")
+L 11/23/2004 - 13:56:58: [AMXX] Plugin uses an unknown function (name "cs_set_user_money") - check your modules.ini. (plugin "sunglasses.amxx")
+L 11/23/2004 - 13:57:03: [admin.amxx] Login: "$eu_crey$$on<10><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")

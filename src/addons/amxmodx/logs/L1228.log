@@ -1,0 +1,581 @@
+L 12/28/2009 - 11:48:42: -------- Mapchange to surf_ski_2 --------
+L 12/28/2009 - 11:48:43: Error:
+L 12/28/2009 - 11:48:43: [AMXX] Module requested a not exisitng function (file "cstrike\addons\amxmodx\modules\hamsandwich_amxx.dll") (func "AddNewNatives")
+L 12/28/2009 - 11:48:43: [AMXX] Plugin "backweapons.amxx" failed to load: Module/Library "hamsandwich" required for plugin.  Check modules.ini.
+L 12/28/2009 - 11:48:43: [AMXX] Plugin "damage_glow.amxx" failed to load: Module/Library "hamsandwich" required for plugin.  Check modules.ini.
+L 12/28/2009 - 11:48:48: [superheromodnvault.amxx] DEBUG: Attempting to load the SuperHero Config File
+L 12/28/2009 - 11:48:48: [superheromodnvault.amxx] DEBUG: Attempting to load the SuperHero Config File
+L 12/28/2009 - 12:00:02: [admin.amxx] Login: "Fir3.rOx | Form1g4<20><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | Form1g4") (access "abcdefghijklmnopqrstu") (address "201.13.177.37")
+L 12/28/2009 - 12:00:31: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<20><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/28/2009 - 12:00:31: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<20><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/28/2009 - 12:00:32: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<20><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/28/2009 - 12:00:47: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<20><STEAM_ID_LAN><>" tsay " Admin oN"
+L 12/28/2009 - 12:01:41: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<20><STEAM_ID_LAN><>" tsay "koe"
+L 12/28/2009 - 12:04:02: [plmenu.amxx] Kick: "Fir3.rOx | Form1g4<20><STEAM_ID_LAN><>" kick "Higor<11><STEAM_ID_LAN><>"
+L 12/28/2009 - 12:04:40: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<20><STEAM_ID_LAN><>" tsay "quem sabe remover bind eu agradeco  :D"
+L 12/28/2009 - 12:05:09: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<20><STEAM_ID_LAN><>" tsay "ai naum ta com sXe nao eh ?"
+L 12/28/2009 - 12:05:17: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<20><STEAM_ID_LAN><>" tsay "ta sim po"
+L 12/28/2009 - 12:05:28: [plmenu.amxx] Kick: "Fir3.rOx | Form1g4<20><STEAM_ID_LAN><>" kick "hreuhte (:<4><STEAM_ID_LAN><>"
+L 12/28/2009 - 12:06:46: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<20><STEAM_ID_LAN><>" tsay "nossa"
+L 12/28/2009 - 12:06:49: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<20><STEAM_ID_LAN><>" tsay "mentira"
+L 12/28/2009 - 12:07:43: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<20><STEAM_ID_LAN><>" tsay "bieeeeL ta ae ?"
+L 12/28/2009 - 12:07:45: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<20><STEAM_ID_LAN><>" tsay "ah ta"
+L 12/28/2009 - 12:08:17: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<20><STEAM_ID_LAN><>" tsay "galera quem sabe me ajuda ae ?"
+L 12/28/2009 - 12:08:22: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<20><STEAM_ID_LAN><>" tsay "quero remover uma bind"
+L 12/28/2009 - 12:08:26: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<20><STEAM_ID_LAN><>" tsay "oq eu escrevo"
+L 12/28/2009 - 12:12:17: [admincmd.amxx] Ban: "Fir3.rOx | Form1g4<20><STEAM_ID_LAN><>" ban and kick "Higor<40><STEAM_ID_LAN><>" (minutes "5") (reason "")
+L 12/28/2009 - 12:13:19: [admincmd.amxx] Ban: "Fir3.rOx | Form1g4<20><STEAM_ID_LAN><>" ban and kick "Xurupita<42><STEAM_ID_LAN><>" (minutes "5") (reason "")
+L 12/28/2009 - 12:13:56: [admincmd.amxx] Ban: "Fir3.rOx | Form1g4<20><STEAM_ID_LAN><>" ban and kick "Xurupita<55><STEAM_ID_LAN><>" (minutes "5") (reason "")
+L 12/28/2009 - 12:14:10: [admin.amxx] Login: "Fir3.rOx | Form1g4<56><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | Form1g4") (access "abcdefghijklmnopqrstu") (address "201.13.177.37")
+L 12/28/2009 - 12:15:14: [admincmd.amxx] Kick: "Fir3.rOx | Form1g4<56><STEAM_ID_LAN><>" kick "Mix * Ber<33><STEAM_ID_LAN><>" (reason "")
+L 12/28/2009 - 12:15:24: [plmenu.amxx] Cmd: "Fir3.rOx | Form1g4<56><STEAM_ID_LAN><>" slay "AMARELO DO CARALHO<46><STEAM_ID_LAN><>"
+L 12/28/2009 - 12:15:45: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<56><STEAM_ID_LAN><>" tsay "camper"
+L 12/28/2009 - 12:16:43: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<56><STEAM_ID_LAN><>" tsay "add todos serve favoritos"
+L 12/28/2009 - 12:16:51: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<56><STEAM_ID_LAN><>" tsay "vo liga sXe no server"
+L 12/28/2009 - 12:18:25: -------- Mapchange to surf_ski_2 --------
+L 12/28/2009 - 12:18:26: Error:
+L 12/28/2009 - 12:18:26: [AMXX] Module requested a not exisitng function (file "cstrike\addons\amxmodx\modules\hamsandwich_amxx.dll") (func "AddNewNatives")
+L 12/28/2009 - 12:18:26: [AMXX] Plugin "backweapons.amxx" failed to load: Module/Library "hamsandwich" required for plugin.  Check modules.ini.
+L 12/28/2009 - 12:18:26: [AMXX] Plugin "damage_glow.amxx" failed to load: Module/Library "hamsandwich" required for plugin.  Check modules.ini.
+L 12/28/2009 - 12:18:31: [superheromodnvault.amxx] DEBUG: Attempting to load the SuperHero Config File
+L 12/28/2009 - 12:18:31: [superheromodnvault.amxx] DEBUG: Attempting to load the SuperHero Config File
+L 12/28/2009 - 12:19:49: [admin.amxx] Login: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | Form1g4") (access "abcdefghijklmnopqrstu") (address "201.13.177.37")
+L 12/28/2009 - 12:22:04: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "ae vey quando tu entro no meu server"
+L 12/28/2009 - 12:22:12: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "tava com sXe ?"
+L 12/28/2009 - 12:22:21: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "ta"
+L 12/28/2009 - 12:22:34: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/28/2009 - 12:22:34: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/28/2009 - 12:22:34: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/28/2009 - 12:22:37: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "aff"
+L 12/28/2009 - 12:22:58: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "vey tu entende de sXe ?"
+L 12/28/2009 - 12:23:08: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "ops"
+L 12/28/2009 - 12:23:11: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "sXe nao"
+L 12/28/2009 - 12:23:16: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "Super Hero Mod "
+L 12/28/2009 - 12:23:19: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "tu entende ?"
+L 12/28/2009 - 12:23:25: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "tu sabe uq eh"
+L 12/28/2009 - 12:23:27: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "?"
+L 12/28/2009 - 12:23:41: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "tu sabe remover bind ?"
+L 12/28/2009 - 12:23:48: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "pq eu naum consigo aperta o B pra compra arma"
+L 12/28/2009 - 12:23:54: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "tu sabe remover a bind ?"
+L 12/28/2009 - 12:24:11: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "em tu sabe ?"
+L 12/28/2009 - 12:24:19: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "brow tu sabe remover bind ?"
+L 12/28/2009 - 12:25:15: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "quem sabe remover bind ?"
+L 12/28/2009 - 12:26:02: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "quem sabe remover bind ae ?"
+L 12/28/2009 - 12:27:46: [admincmd.amxx] Kick: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" kick "mix:julio<3><STEAM_ID_LAN><>" (reason "")
+L 12/28/2009 - 12:32:56: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "heauhaeuhaeeauhae"
+L 12/28/2009 - 12:33:03: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "Xurupita"
+L 12/28/2009 - 12:33:05: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "kkkkk"
+L 12/28/2009 - 12:33:10: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "me mato lindu em"
+L 12/28/2009 - 12:33:39: [admincmd.amxx] Kick: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" kick "mix:julio<21><STEAM_ID_LAN><>" (reason "")
+L 12/28/2009 - 12:33:52: [plmenu.amxx] Cmd: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" slay "Xurupita<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 12:33:52: [plmenu.amxx] Cmd: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" slay "AMARELO DO CARALHO<13><STEAM_ID_LAN><>"
+L 12/28/2009 - 12:34:16: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "mals foi meu irmao"
+L 12/28/2009 - 12:36:24: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "fdp"
+L 12/28/2009 - 12:44:59: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "vai toma no seu cu"
+L 12/28/2009 - 12:45:09: [admincmd.amxx] Kick: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" kick "Joao Mixer<34><STEAM_ID_LAN><>" (reason "")
+L 12/28/2009 - 12:46:09: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "RR"
+L 12/28/2009 - 12:46:11: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "sem Step"
+L 12/28/2009 - 12:46:24: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "nao karalho"
+L 12/28/2009 - 12:46:29: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "eh qui eu tirei o step"
+L 12/28/2009 - 12:46:51: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "hehe suave"
+L 12/28/2009 - 12:49:03: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "ah para com issu vey "
+L 12/28/2009 - 12:50:40: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "eta"
+L 12/28/2009 - 12:50:43: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "kakakakaka"
+L 12/28/2009 - 12:56:19: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "oq"
+L 12/28/2009 - 13:04:09: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "vlw kara"
+L 12/28/2009 - 13:05:49: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "FDP"
+L 12/28/2009 - 13:05:52: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "eeaeaea"
+L 12/28/2009 - 13:07:24: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay " MORRO DA FORMIGA Surfa Bem Em Cara =D"
+L 12/28/2009 - 13:07:40: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay " UheaueAHUeahEAUeah"
+L 12/28/2009 - 13:07:55: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay "fala pelomenos matei neh"
+L 12/28/2009 - 13:08:00: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay " UEahEAUEaheUHeaueAHEaueAH"
+L 12/28/2009 - 13:08:45: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<1><STEAM_ID_LAN><>" tsay " Escrevao chapeu para escolher um"
+L 12/28/2009 - 13:12:57: [voteban.amxx] Vote ban started by Lunatic hai - bebe for [WATF]R0N4LDM3C_C0X!NH4_4 STEAM_ID_LAN
+L 12/28/2009 - 13:13:12: [voteban.amxx] [AMXX] The vote succeeded: STEAM_ID_LAN is banned for 5 minutes
+L 12/28/2009 - 13:24:21: [voteban.amxx] Vote ban started by CapSLooK for [WATF]R0N4LDM3C_C0X!NH4_4 STEAM_ID_LAN
+L 12/28/2009 - 13:24:36: [voteban.amxx] [AMXX] The vote succeeded: STEAM_ID_LAN is banned for 5 minutes
+L 12/28/2009 - 13:29:05: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/28/2009 - 13:29:20: [mapchooser.amxx] Vote: Voting for the nextmap finished. Map surf_ski_2 will be extended to next 15 minutes
+L 12/28/2009 - 13:31:40: [admin.amxx] Login: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | Form1g4") (access "abcdefghijklmnopqrstu") (address "201.13.177.37")
+L 12/28/2009 - 13:32:15: [plmenu.amxx] Kick: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" kick "CapSLooK<95><STEAM_ID_LAN><>"
+L 12/28/2009 - 13:32:39: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " Admin Online"
+L 12/28/2009 - 13:34:04: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " eu"
+L 12/28/2009 - 13:34:12: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " eu karalho"
+L 12/28/2009 - 13:35:05: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " quem eu ?"
+L 12/28/2009 - 13:35:14: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " como "
+L 12/28/2009 - 13:35:31: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " sei la man entaum"
+L 12/28/2009 - 13:36:20: [plmenu.amxx] Cmd: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" slay "|sKn|B|viiini|<111><STEAM_ID_LAN><>"
+L 12/28/2009 - 13:37:46: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " nao"
+L 12/28/2009 - 13:39:45: [plmenu.amxx] Cmd: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" transfer "|sKn|B|viiini|<111><STEAM_ID_LAN><>" (team "TERRORIST")
+L 12/28/2009 - 13:39:45: [plmenu.amxx] Cmd: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" transfer "McOnwed*||GaBe||<104><STEAM_ID_LAN><>" (team "TERRORIST")
+L 12/28/2009 - 13:39:46: [plmenu.amxx] Cmd: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" transfer "[M]ix [S]eTe<116><STEAM_ID_LAN><>" (team "TERRORIST")
+L 12/28/2009 - 13:41:45: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " Quem ja viu AVATAR ae o filme"
+L 12/28/2009 - 13:41:46: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " ?"
+L 12/28/2009 - 13:42:52: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " oq"
+L 12/28/2009 - 13:43:18: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "eh teia"
+L 12/28/2009 - 13:43:30: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "eu to usando o hero Spider-Man"
+L 12/28/2009 - 13:46:33: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " Step = Lixo"
+L 12/28/2009 - 13:48:20: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " mata gente que vcs vai ganhar XP"
+L 12/28/2009 - 13:48:26: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " ai quando enche ateh o 100"
+L 12/28/2009 - 13:48:31: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "vcs poder escolher um hero"
+L 12/28/2009 - 13:48:34: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " Burros"
+L 12/28/2009 - 13:48:47: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "not"
+L 12/28/2009 - 13:50:23: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " Exemple: bind v +power1"
+L 12/28/2009 - 13:50:30: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " No console"
+L 12/28/2009 - 13:50:37: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " Sem AWP"
+L 12/28/2009 - 13:50:41: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " AWP=KICK"
+L 12/28/2009 - 13:52:54: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " diga"
+L 12/28/2009 - 13:54:40: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " Sem arma de mira to falando serio"
+L 12/28/2009 - 13:54:43: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " vo da BAN"
+L 12/28/2009 - 13:54:56: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " Filho da puta sem arma de mira"
+L 12/28/2009 - 13:55:24: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " OOOOOH TOMOU HEAD HA HAY"
+L 12/28/2009 - 13:55:42: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "karalho "
+L 12/28/2009 - 13:55:44: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " heuaehaueae"
+L 12/28/2009 - 13:55:50: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " Sorry My time"
+L 12/28/2009 - 13:56:24: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " tu quer usar qual poder vey"
+L 12/28/2009 - 13:56:51: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " Coxinha"
+L 12/28/2009 - 13:56:55: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " c ta usando "
+L 12/28/2009 - 13:57:08: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " C ta usando Batman Certo ?"
+L 12/28/2009 - 13:57:11: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " Entaum"
+L 12/28/2009 - 13:57:22: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " Batman ele ja eh aAUTOMATICO fih"
+L 12/28/2009 - 13:57:34: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " Batman serve para vc ganhar todas as armas"
+L 12/28/2009 - 13:57:38: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " da"
+L 12/28/2009 - 13:57:47: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " pra tu poder escolher otro poder"
+L 12/28/2009 - 13:57:56: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " quando c tiver morto"
+L 12/28/2009 - 13:58:00: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " escreve asim"
+L 12/28/2009 - 13:58:03: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " no say"
+L 12/28/2009 - 13:58:06: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " mesmo"
+L 12/28/2009 - 13:58:11: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " /clearpowers"
+L 12/28/2009 - 13:58:15: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " tendeu?"
+L 12/28/2009 - 13:58:24: [plmenu.amxx] Kick: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" kick "Mii Tela | Sem CLan<135><STEAM_ID_LAN><>"
+L 12/28/2009 - 13:58:35: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " ALP=BAN"
+L 12/28/2009 - 13:58:41: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " ALP=KICKY"
+L 12/28/2009 - 13:59:00: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "oq"
+L 12/28/2009 - 13:59:32: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " Nossa"
+L 12/28/2009 - 13:59:36: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " Nubei"
+L 12/28/2009 - 13:59:41: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " vai toma no cu mlke"
+L 12/28/2009 - 13:59:47: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " tu nem presto atencao quando eu falei"
+L 12/28/2009 - 13:59:50: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " agora vai se fera"
+L 12/28/2009 - 13:59:53: [plmenu.amxx] Kick: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" kick "[WATF]R0N4LDM3C_C0X!NH4_4<60><STEAM_ID_LAN><>"
+L 12/28/2009 - 14:00:00: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "  Cara chato poha"
+L 12/28/2009 - 14:00:08: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " que cara mais Chato"
+L 12/28/2009 - 14:00:11: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " vai toma nocu"
+L 12/28/2009 - 14:00:16: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " eu fiquei falando mow tempao"
+L 12/28/2009 - 14:00:20: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " ele nem presto atencao"
+L 12/28/2009 - 14:00:27: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " e dps vai fikar fazendo eu de otario"
+L 12/28/2009 - 14:00:32: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " dps falo"
+L 12/28/2009 - 14:00:42: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " agora to de saco cheio ja"
+L 12/28/2009 - 14:02:24: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " ALP=KICKY"
+L 12/28/2009 - 14:02:44: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " nao tem nenhu gravity"
+L 12/28/2009 - 14:04:08: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " nao ta loko"
+L 12/28/2009 - 14:04:16: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " issu daki eh Super Hero Mosd"
+L 12/28/2009 - 14:04:21: [plmenu.amxx] Kick: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" kick "Xurupita<145><STEAM_ID_LAN><>"
+L 12/28/2009 - 14:04:24: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay " nao nao"
+L 12/28/2009 - 14:04:28: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "mano vo fala denovo"
+L 12/28/2009 - 14:04:31: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "mais dessa vez"
+L 12/28/2009 - 14:04:34: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "resta a tencao"
+L 12/28/2009 - 14:04:39: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "presta a tencao"
+L 12/28/2009 - 14:04:42: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "ta"
+L 12/28/2009 - 14:04:57: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "oi"
+L 12/28/2009 - 14:05:04: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "oq tu falo"
+L 12/28/2009 - 14:05:13: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "c liga"
+L 12/28/2009 - 14:05:15: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "eh asim"
+L 12/28/2009 - 14:05:19: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "tipow"
+L 12/28/2009 - 14:05:23: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "nao tem uma barrinho ali"
+L 12/28/2009 - 14:05:29: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "de 200"
+L 12/28/2009 - 14:05:30: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "?"
+L 12/28/2009 - 14:05:34: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "uma barrinha"
+L 12/28/2009 - 14:05:36: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "entaum"
+L 12/28/2009 - 14:05:40: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "ai cada vez que tu mata"
+L 12/28/2009 - 14:05:44: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "vai enchendo em 6 em 6"
+L 12/28/2009 - 14:05:51: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "ve se vcs me escutam"
+L 12/28/2009 - 14:07:26: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "/clearpowers"
+L 12/28/2009 - 14:07:44: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "/clearpowers"
+L 12/28/2009 - 14:07:49: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "/clearpowers"
+L 12/28/2009 - 14:07:54: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "/clearpowers"
+L 12/28/2009 - 14:07:58: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "escreveu Coxinha ?"
+L 12/28/2009 - 14:08:14: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay ""
+L 12/28/2009 - 14:08:24: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "/clearpowers"
+L 12/28/2009 - 14:09:25: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "/clearpowers"
+L 12/28/2009 - 14:09:50: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "/drop Batman"
+L 12/28/2009 - 14:13:04: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<103><STEAM_ID_LAN><>" tsay "cauma ae vo atende o portao"
+L 12/28/2009 - 14:15:16: [admin.amxx] Login: "Fir3.rOx | Form1g4<160><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | Form1g4") (access "abcdefghijklmnopqrstu") (address "201.13.177.37")
+L 12/28/2009 - 14:15:36: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<160><STEAM_ID_LAN><>" tsay " ae galera"
+L 12/28/2009 - 14:16:10: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<160><STEAM_ID_LAN><>" tsay " Voto (sv_stepsize_250) (sim) ou (nao) ?"
+L 12/28/2009 - 14:16:49: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<160><STEAM_ID_LAN><>" tsay " Voto (sv_stepsize 250) (sim) ou (nao) ?"
+L 12/28/2009 - 14:16:49: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<160><STEAM_ID_LAN><>" tsay " Voto (sv_stepsize 250) (sim) ou (nao) ? "
+L 12/28/2009 - 14:16:49: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<160><STEAM_ID_LAN><>" tsay " Voto (sv_stepsize 250) (sim) ou (nao) ? "
+L 12/28/2009 - 14:16:50: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<160><STEAM_ID_LAN><>" tsay " Voto (sv_stepsize 250) (sim) ou (nao) ? "
+L 12/28/2009 - 14:16:50: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<160><STEAM_ID_LAN><>" tsay " Voto (sv_stepsize 250) (sim) ou (nao) ? "
+L 12/28/2009 - 14:16:51: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<160><STEAM_ID_LAN><>" tsay " Voto (sv_stepsize 250) (sim) ou (nao) ? "
+L 12/28/2009 - 14:16:52: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<160><STEAM_ID_LAN><>" tsay " Voto (sv_stepsize 250) (sim) ou (nao) ? "
+L 12/28/2009 - 14:16:52: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<160><STEAM_ID_LAN><>" tsay " Voto (sv_stepsize 250) (sim) ou (nao) ? "
+L 12/28/2009 - 14:16:52: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<160><STEAM_ID_LAN><>" tsay " Voto (sv_stepsize 250) (sim) ou (nao) ? "
+L 12/28/2009 - 14:16:52: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<160><STEAM_ID_LAN><>" tsay " Voto (sv_stepsize 250) (sim) ou (nao) ? "
+L 12/28/2009 - 14:16:52: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<160><STEAM_ID_LAN><>" tsay " Voto (sv_stepsize 250) (sim) ou (nao) ? "
+L 12/28/2009 - 14:17:20: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<160><STEAM_ID_LAN><>" tsay "vo po entaum"
+L 12/28/2009 - 14:17:55: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<160><STEAM_ID_LAN><>" tsay " Vo ir ao mercado"
+L 12/28/2009 - 14:18:10: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<160><STEAM_ID_LAN><>" tsay " Sem cheats c naum eu tiro o Super hero mod"
+L 12/28/2009 - 14:18:14: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<160><STEAM_ID_LAN><>" tsay " Fuiz"
+L 12/28/2009 - 14:35:17: [admin.amxx] Login: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | Form1g4") (access "abcdefghijklmnopqrstu") (address "201.13.177.37")
+L 12/28/2009 - 14:35:37: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " koe BieeeeeL"
+L 12/28/2009 - 14:36:11: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " lols"
+L 12/28/2009 - 14:36:17: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay "oq"
+L 12/28/2009 - 14:36:24: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " que porra de gravidade karalho"
+L 12/28/2009 - 14:36:27: [plmenu.amxx] Kick: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" kick "- mauriciN . - JogosBB.com<150><STEAM_ID_LAN><>"
+L 12/28/2009 - 14:36:54: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " Sem mata mario karalho"
+L 12/28/2009 - 14:37:23: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " Sem Matar Mario"
+L 12/28/2009 - 14:37:29: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " Mato Mario=Kicky"
+L 12/28/2009 - 14:37:58: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " Muhahahahhahaha"
+L 12/28/2009 - 14:38:57: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " vo deixa ALLTALK OFF toma no cu soh fika falando"
+L 12/28/2009 - 14:38:59: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay ""
+L 12/28/2009 - 14:39:02: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/28/2009 - 14:39:02: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/28/2009 - 14:39:02: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/28/2009 - 14:39:03: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/28/2009 - 14:39:03: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/28/2009 - 14:39:03: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 0 ")
+L 12/28/2009 - 14:39:05: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/28/2009 - 14:39:05: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/28/2009 - 14:39:05: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 0 ")
+L 12/28/2009 - 14:39:07: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/28/2009 - 14:39:07: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/28/2009 - 14:39:07: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 0 ")
+L 12/28/2009 - 14:39:08: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/28/2009 - 14:39:08: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/28/2009 - 14:39:08: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 0 ")
+L 12/28/2009 - 14:40:12: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay "lol"
+L 12/28/2009 - 14:40:14: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " nao kickey"
+L 12/28/2009 - 14:40:23: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " deve ser teu ping ta alto"
+L 12/28/2009 - 14:40:26: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " ai foi kkado"
+L 12/28/2009 - 14:40:31: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " poder da teia eh"
+L 12/28/2009 - 14:40:36: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " Spider-Man"
+L 12/28/2009 - 14:40:40: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " Spider-Man"
+L 12/28/2009 - 14:41:07: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " bind v +power1"
+L 12/28/2009 - 14:41:18: [plmenu.amxx] Kick: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" kick ".gL @ [S]peed~[s]<193><STEAM_ID_LAN><>"
+L 12/28/2009 - 14:42:51: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " mano issu eh um heroi"
+L 12/28/2009 - 14:43:08: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay "ta loko"
+L 12/28/2009 - 14:43:38: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " bosta"
+L 12/28/2009 - 14:45:29: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay "  pedrinhooxxx.servegame.com:27015 "
+L 12/28/2009 - 14:45:29: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay "  pedrinhooxxx.servegame.com:27015 "
+L 12/28/2009 - 14:45:29: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay "  pedrinhooxxx.servegame.com:27015 "
+L 12/28/2009 - 14:45:29: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay "  pedrinhooxxx.servegame.com:27015 "
+L 12/28/2009 - 14:45:30: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay "  pedrinhooxxx.servegame.com:27015 "
+L 12/28/2009 - 14:45:30: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay "  pedrinhooxxx.servegame.com:27015 "
+L 12/28/2009 - 14:45:30: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay "  pedrinhooxxx.servegame.com:27015 "
+L 12/28/2009 - 14:45:34: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay "  pedrinhooxxx.servegame.com:27015 "
+L 12/28/2009 - 14:45:34: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay "  pedrinhooxxx.servegame.com:27015 "
+L 12/28/2009 - 14:45:34: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay "  pedrinhooxxx.servegame.com:27015 "
+L 12/28/2009 - 14:45:35: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay "  pedrinhooxxx.servegame.com:27015 "
+L 12/28/2009 - 14:45:35: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay "  pedrinhooxxx.servegame.com:27015 "
+L 12/28/2009 - 14:45:53: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " mato mario=Kicky"
+L 12/28/2009 - 14:49:16: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " Vai Se Fuder !!!!"
+L 12/28/2009 - 14:49:20: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " Vai logo karalho"
+L 12/28/2009 - 14:49:40: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " Lols"
+L 12/28/2009 - 14:50:36: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " BieeeeeL cai la e mata ele"
+L 12/28/2009 - 14:50:45: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " RsRsRsRs\"
+L 12/28/2009 - 14:53:10: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay "vai se fuder fdp sem colt"
+L 12/28/2009 - 14:53:12: [plmenu.amxx] Kick: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" kick "Xurupita<211><STEAM_ID_LAN><>"
+L 12/28/2009 - 14:53:24: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay "  pedrinhooxxx.servegame.com:27015 "
+L 12/28/2009 - 14:53:24: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay "  pedrinhooxxx.servegame.com:27015 "
+L 12/28/2009 - 14:53:24: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay "  pedrinhooxxx.servegame.com:27015 "
+L 12/28/2009 - 14:53:24: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay "  pedrinhooxxx.servegame.com:27015 "
+L 12/28/2009 - 14:53:40: [plmenu.amxx] Cmd: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" slay "Xurupita<215><STEAM_ID_LAN><>"
+L 12/28/2009 - 14:53:47: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay "s em colt FDPS"
+L 12/28/2009 - 14:55:04: [plmenu.amxx] Cmd: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" slay "- mauriciN . - JogosBB.com<210><STEAM_ID_LAN><>"
+L 12/28/2009 - 14:55:36: [admincmd.amxx] Kick: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" kick "sou o cara de paul<201><STEAM_ID_LAN><>" (reason "")
+L 12/28/2009 - 14:55:41: [plmenu.amxx] Kick: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" kick "- mauriciN . - JogosBB.com<210><STEAM_ID_LAN><>"
+L 12/28/2009 - 14:57:10: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " sem arma de mira em Brn"
+L 12/28/2009 - 14:57:45: [plmenu.amxx] Cmd: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" slay "Higor (sem clan)<223><STEAM_ID_LAN><>"
+L 12/28/2009 - 14:57:46: [plmenu.amxx] Cmd: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" slay "Mii Tela | Sem CLan<225><STEAM_ID_LAN><>"
+L 12/28/2009 - 14:57:46: [plmenu.amxx] Cmd: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" slay "Mix : B e e e r * ~> .<197><STEAM_ID_LAN><>"
+L 12/28/2009 - 14:58:01: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " vai se fude morre sai do server e entra"
+L 12/28/2009 - 14:58:05: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " nunca vai acaba karalho"
+L 12/28/2009 - 14:58:15: [admincmd.amxx] Ban: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" ban and kick "Mix : B e e e r * ~> .<197><STEAM_ID_LAN><>" (minutes "5") (reason "")
+L 12/28/2009 - 14:59:28: [plmenu.amxx] Cmd: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" slay "Higor (sem clan)<223><STEAM_ID_LAN><>"
+L 12/28/2009 - 14:59:28: [plmenu.amxx] Cmd: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" slay "Mii Tela | Sem CLan<225><STEAM_ID_LAN><>"
+L 12/28/2009 - 14:59:38: [admincmd.amxx] Kick: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" kick "Higor (sem clan)<223><STEAM_ID_LAN><>" (reason "")
+L 12/28/2009 - 15:09:37: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay "mi tela c mata ae mano"
+L 12/28/2009 - 15:09:43: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/28/2009 - 15:09:43: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/28/2009 - 15:09:43: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 0 ")
+L 12/28/2009 - 15:09:45: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/28/2009 - 15:09:45: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" say "ALLTALK OFF "
+L 12/28/2009 - 15:09:45: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 0 ")
+L 12/28/2009 - 15:09:52: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" server console (cmdline "exec cfg/adm1.cfg")
+L 12/28/2009 - 15:09:52: [adminchat.amxx] Chat: "Fir3.rOx | SuperHeroMod sXe ON<0><><>" tsay "ADMIN [x] ON []OFF"
+L 12/28/2009 - 15:09:52: [adminchat.amxx] Chat: "Fir3.rOx | SuperHeroMod sXe ON<0><><>" tsay "ADMIN Online!!!"
+L 12/28/2009 - 15:09:57: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" server console (cmdline "exec cfg/msn.cfg")
+L 12/28/2009 - 15:09:57: [adminchat.amxx] Chat: "Fir3.rOx | SuperHeroMod sXe ON<0><><>" tsay ""Fexem Navegador , MsN , Emule , etc...""
+L 12/28/2009 - 15:09:57: [adminchat.amxx] Chat: "Fir3.rOx | SuperHeroMod sXe ON<0><><>" tsay ""Isso Reduz o LAG!!!"
+L 12/28/2009 - 15:09:57: [adminchat.amxx] Chat: "Fir3.rOx | SuperHeroMod sXe ON<0><><>" csay ""ATENCAO""
+L 12/28/2009 - 15:09:57: [adminchat.amxx] Chat: "Fir3.rOx | SuperHeroMod sXe ON<0><><>" say "Fexem o msn galera para nao lagar o servidor!"
+L 12/28/2009 - 15:11:43: [plmenu.amxx] Cmd: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" slay "Xurupita<245><STEAM_ID_LAN><>"
+L 12/28/2009 - 15:12:09: [plmenu.amxx] Cmd: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" slay "Xurupita<246><STEAM_ID_LAN><>"
+L 12/28/2009 - 15:12:25: [admincmd.amxx] Ban: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" ban and kick "Xurupita<247><STEAM_ID_LAN><>" (minutes "5") (reason "")
+L 12/28/2009 - 15:13:03: [admincmd.amxx] Ban: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" ban and kick "Mix * Ber<241><STEAM_ID_LAN><>" (minutes "5") (reason "")
+L 12/28/2009 - 15:14:11: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " vai se fuder vo po dim dim poha nenhuma nao"
+L 12/28/2009 - 15:14:46: [plmenu.amxx] Kick: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" kick "Higor (sem clan)<250><STEAM_ID_LAN><>"
+L 12/28/2009 - 15:15:57: [adminchat.amxx] Chat: "[G]od's-[X]treme<233><STEAM_ID_LAN><>" chat "lixo"
+L 12/28/2009 - 15:16:11: [adminchat.amxx] Chat: "[G]od's-[X]treme<233><STEAM_ID_LAN><>" chat "nem sabe sufa"
+L 12/28/2009 - 15:20:19: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " Sim"
+L 12/28/2009 - 15:20:36: [plmenu.amxx] Cmd: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" slay "Xurupita<267><STEAM_ID_LAN><>"
+L 12/28/2009 - 15:21:08: [plmenu.amxx] Kick: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" kick "Mii Tela | Sem CLan<269><STEAM_ID_LAN><>"
+L 12/28/2009 - 15:21:16: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/28/2009 - 15:21:39: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/28/2009 - 15:22:18: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay "quem sabe me dizer pra que server Aquaman ?"
+L 12/28/2009 - 15:24:01: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay "qual eh o poder que solta Baratinhas ?"
+L 12/28/2009 - 15:25:11: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay "qual eh o nome do poder que solta baratas ?"
+L 12/28/2009 - 15:27:21: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " Muhahahaha"
+L 12/28/2009 - 15:27:23: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay ""
+L 12/28/2009 - 15:27:31: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " ninguem sabe vim aki"
+L 12/28/2009 - 15:27:32: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " heueaheau"
+L 12/28/2009 - 15:27:34: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/28/2009 - 15:27:34: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/28/2009 - 15:27:34: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/28/2009 - 15:27:35: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/28/2009 - 15:27:35: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" say "ALLTALK ON "
+L 12/28/2009 - 15:27:35: [admincmd.amxx] Cmd: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1 ")
+L 12/28/2009 - 15:31:45: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " Pra que server Wolverine ?"
+L 12/28/2009 - 15:31:57: [adminchat.amxx] Chat: "Fir3.rOx | Form1g4<188><STEAM_ID_LAN><>" tsay " pra que server Wolverine ?"
+L 12/28/2009 - 21:30:20: -------- Mapchange to surf_ski_2 --------
+L 12/28/2009 - 21:30:20: Error:
+L 12/28/2009 - 21:30:20: [AMXX] Module requested a not exisitng function (file "cstrike\addons\amxmodx\modules\hamsandwich_amxx.dll") (func "AddNewNatives")
+L 12/28/2009 - 21:30:21: [AMXX] Plugin "backweapons.amxx" failed to load: Module/Library "hamsandwich" required for plugin.  Check modules.ini.
+L 12/28/2009 - 21:30:21: [AMXX] Plugin "damage_glow.amxx" failed to load: Module/Library "hamsandwich" required for plugin.  Check modules.ini.
+L 12/28/2009 - 21:30:29: [superheromodnvault.amxx] DEBUG: Attempting to load the SuperHero Config File
+L 12/28/2009 - 21:30:29: [superheromodnvault.amxx] DEBUG: Attempting to load the SuperHero Config File
+L 12/28/2009 - 21:40:32: [admin.amxx] Login: "Fir3.rOx | PeedriiN<1><STEAM_ID_LAN><>" kicked due to invalid password (account "Fir3.rOx | PeedriiN") (address "187.10.136.46")
+L 12/28/2009 - 21:40:43: [admin.amxx] Login: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | PeedriiN") (access "abcdefghijklmnopqrstu") (address "187.10.136.46")
+L 12/28/2009 - 21:43:37: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<2><STEAM_ID_LAN><>" tsay "eae"
+L 12/28/2009 - 21:57:19: [admin.amxx] Login: "Fir3.rOx | PeedriiN<9><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | PeedriiN") (access "abcdefghijklmnopqrstu") (address "187.10.136.46")
+L 12/28/2009 - 21:57:33: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<9><STEAM_ID_LAN><>" tsay "e vo fexa e abri o sv pra ve c da"
+L 12/28/2009 - 21:57:36: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<9><STEAM_ID_LAN><>" tsay " axo ki ehg isso"
+L 12/28/2009 - 21:58:38: -------- Mapchange to surf_ski_2 --------
+L 12/28/2009 - 21:58:39: Error:
+L 12/28/2009 - 21:58:39: [AMXX] Module requested a not exisitng function (file "cstrike\addons\amxmodx\modules\hamsandwich_amxx.dll") (func "AddNewNatives")
+L 12/28/2009 - 21:58:39: [AMXX] Plugin "backweapons.amxx" failed to load: Module/Library "hamsandwich" required for plugin.  Check modules.ini.
+L 12/28/2009 - 21:58:39: [AMXX] Plugin "damage_glow.amxx" failed to load: Module/Library "hamsandwich" required for plugin.  Check modules.ini.
+L 12/28/2009 - 21:58:44: [superheromodnvault.amxx] DEBUG: Attempting to load the SuperHero Config File
+L 12/28/2009 - 21:58:44: [superheromodnvault.amxx] DEBUG: Attempting to load the SuperHero Config File
+L 12/28/2009 - 21:58:45: [admin.amxx] Login: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | MicK-ShacK") (access "abcdefghijklmnopqrstu") (address "187.13.176.110")
+L 12/28/2009 - 21:58:56: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay "aew"
+L 12/28/2009 - 21:59:06: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay "Adm MicK-ShacK OnLinE"
+L 12/28/2009 - 21:59:27: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay "lue MicK-ShacK"
+L 12/28/2009 - 21:59:39: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay "a"
+L 12/28/2009 - 21:59:44: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay "E noix"
+L 12/28/2009 - 21:59:50: [admin.amxx] Login: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | PeedriiN") (access "abcdefghijklmnopqrstu") (address "187.10.136.46")
+L 12/28/2009 - 22:00:02: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " KK"
+L 12/28/2009 - 22:00:13: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " kk"
+L 12/28/2009 - 22:00:16: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " sim sim"
+L 12/28/2009 - 22:00:17: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" tsay " hehe"
+L 12/28/2009 - 22:00:22: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay "u.U"
+L 12/28/2009 - 22:07:39: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/28/2009 - 22:09:59: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" server console (cmdline "exec cfg/adm1.cfg")
+L 12/28/2009 - 22:09:59: [adminchat.amxx] Chat: "Fir3.rOx | [P]rO [S]urF SH | sX<0><><>" tsay "ADMIN [x] ON []OFF"
+L 12/28/2009 - 22:09:59: [adminchat.amxx] Chat: "Fir3.rOx | [P]rO [S]urF SH | sX<0><><>" tsay "ADMIN Online!!!"
+L 12/28/2009 - 22:10:33: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1")
+L 12/28/2009 - 22:10:39: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" set cvar (name "mp_freezetime") (value "0")
+L 12/28/2009 - 22:10:52: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" server console (cmdline "sv_voiceenable 1")
+L 12/28/2009 - 22:10:57: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" server console (cmdline "exec cfg/rir.cfg")
+L 12/28/2009 - 22:10:57: [adminchat.amxx] Chat: "Fir3.rOx | [P]rO [S]urF SH | sX<0><><>" tsay "Hahuheheuhehaahehehahaheahahedhhea"
+L 12/28/2009 - 22:10:57: [adminchat.amxx] Chat: "Fir3.rOx | [P]rO [S]urF SH | sX<0><><>" tsay " Muhuuhahaha"
+L 12/28/2009 - 22:10:57: [adminchat.amxx] Chat: "Fir3.rOx | [P]rO [S]urF SH | sX<0><><>" csay "\0/\0/\0/"
+L 12/28/2009 - 22:11:02: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" tsay "[CSO] Escreva Chapeus para escolher um chapeu!"
+L 12/28/2009 - 22:11:24: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" server console (cmdline "sv_alltalk 1")
+L 12/28/2009 - 22:17:14: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/28/2009 - 22:17:56: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" transfer "Vickiller<6><STEAM_ID_LAN><>" (team "CT")
+L 12/28/2009 - 22:18:22: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/28/2009 - 22:19:08: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" tsay " oeisoeis"
+L 12/28/2009 - 22:25:07: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/28/2009 - 22:29:14: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay "aejaj"
+L 12/28/2009 - 22:29:36: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " corre noa"
+L 12/28/2009 - 22:30:04: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " to com pulso quebrado lek"
+L 12/28/2009 - 22:30:17: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" tsay " pulso quebrado ou pulso aberto?"
+L 12/28/2009 - 22:30:22: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" tsay " tem diferenca"
+L 12/28/2009 - 22:30:24: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay "berto"
+L 12/28/2009 - 22:30:38: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" tsay " com pulso quebrado nem dava pra tu jogar cs"
+L 12/28/2009 - 22:30:46: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " e aberto"
+L 12/28/2009 - 22:31:00: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " cai da lage"
+L 12/28/2009 - 22:31:50: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/28/2009 - 22:32:01: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " Cachorra"
+L 12/28/2009 - 22:35:17: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" tsay " nao sei pq, qnd eu entro no server dos kra surf ski"
+L 12/28/2009 - 22:35:24: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" tsay " nao fika esse gravityzinho q parece q tah aki"
+L 12/28/2009 - 22:35:46: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/28/2009 - 22:40:13: [adminvote.amxx] Vote: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" vote custom (question "kk") (option#1 "_") (option#2 "kk")
+L 12/28/2009 - 22:40:25: [adminvote.amxx] Vote: Voting successful (got "3") (needed "1") (result "kk - kk")
+L 12/28/2009 - 22:40:54: [adminvote.amxx] Vote: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" vote custom (question "MICK_") (option#1 "LINDAO_") (option#2 "BUNITAO")
+L 12/28/2009 - 22:41:00: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" tsay " oeisoeisoes"
+L 12/28/2009 - 22:41:04: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" tsay " q issu seu feiu"
+L 12/28/2009 - 22:41:06: [adminvote.amxx] Vote: Voting successful (got "1") (needed "1") (result "MICK_ - LINDAO_")
+L 12/28/2009 - 22:41:33: [adminvote.amxx] Vote: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" vote custom (question "Lindo") (option#1 "Tesao") (option#2 "Bunito")
+L 12/28/2009 - 22:41:41: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" tsay " oeisoeisoeiso9esi"
+L 12/28/2009 - 22:41:45: [adminvote.amxx] Vote: Voting successful (got "4") (needed "1") (result "Lindo - Tesao")
+L 12/28/2009 - 22:42:01: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/28/2009 - 22:42:44: [adminvote.amxx] Vote: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" vote custom (question "MickShack") (option#1 "Lindo") (option#2 "_Gostoso_Tesao_")
+L 12/28/2009 - 22:42:56: [adminvote.amxx] Vote: Voting successful (got "1") (needed "1") (result "MickShack - _Gostoso_Tesao_")
+L 12/28/2009 - 22:43:13: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " kk"
+L 12/28/2009 - 22:43:27: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " kk"
+L 12/28/2009 - 22:46:36: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " camper camper"
+L 12/28/2009 - 22:47:04: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay "ae"
+L 12/28/2009 - 22:47:15: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " vai fazer oq falei"
+L 12/28/2009 - 22:47:18: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " vai ?"
+L 12/28/2009 - 22:47:25: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" tsay " vai oq"
+L 12/28/2009 - 22:47:38: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " aquele baguio dos hero"
+L 12/28/2009 - 22:47:44: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " baixa e bota"
+L 12/28/2009 - 22:48:03: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay "que horas amanha"
+L 12/28/2009 - 22:48:21: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay "Ip fixo pedrinhooxxx.servegame.com:27015"
+L 12/28/2009 - 22:48:22: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay "Ip fixo pedrinhooxxx.servegame.com:27015 "
+L 12/28/2009 - 22:48:23: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay "Ip fixo pedrinhooxxx.servegame.com:27015 "
+L 12/28/2009 - 22:48:25: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay "Ip fixo pedrinhooxxx.servegame.com:27015 "
+L 12/28/2009 - 22:48:40: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " Ip fixo pedrinhooxxx.servegame.com:27015 "
+L 12/28/2009 - 22:48:43: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " Ip fixo pedrinhooxxx.servegame.com:27015 "
+L 12/28/2009 - 22:48:44: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " Ip fixo pedrinhooxxx.servegame.com:27015 "
+L 12/28/2009 - 22:48:45: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " Ip fixo pedrinhooxxx.servegame.com:27015 "
+L 12/28/2009 - 22:48:46: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " Ip fixo pedrinhooxxx.servegame.com:27015 "
+L 12/28/2009 - 22:49:13: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " camper saly"
+L 12/28/2009 - 22:49:36: [plmenu.amxx] Cmd: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<24><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:49:52: [plmenu.amxx] Cmd: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" slay "[16bpp] Pros Street<24><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:53:42: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" tsay " no susto, mas vlw"
+L 12/28/2009 - 22:53:44: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " 1 de life cachorra"
+L 12/28/2009 - 22:55:25: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:25: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:25: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:26: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:26: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:26: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:26: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:26: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:26: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:27: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:27: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:27: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:27: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:27: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:27: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:27: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:28: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:28: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:28: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:28: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:42: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:42: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:42: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:42: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:43: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:43: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:43: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:43: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:43: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:43: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:44: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:44: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:44: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:44: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:44: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:45: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:45: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:45: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:45: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:45: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:45: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:46: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:46: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:46: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:46: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:46: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:47: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:47: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:47: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:47: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:47: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:47: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:48: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:48: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:48: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:48: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:48: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:49: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:49: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:49: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:49: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:50: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:50: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:50: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:50: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:50: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:55:50: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" slap with 0 damage "[16bpp] Pros Street<25><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:56:20: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" tsay " oieoieeos"
+L 12/28/2009 - 22:56:22: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " mause cachorro"
+L 12/28/2009 - 22:56:53: [plmenu.amxx] Kick: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" kick "|[S]hoOTeR's [P]pL's| [D]on[T]<10><STEAM_ID_LAN><>"
+L 12/28/2009 - 22:57:19: [plmenu.amxx] Cmd: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" transfer "|[S]hoOTeR's [P]pL's| [D]on[T]<28><STEAM_ID_LAN><>" (team "TERRORIST")
+L 12/28/2009 - 22:57:21: [plmenu.amxx] Cmd: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" transfer "DarkAngel<18><STEAM_ID_LAN><>" (team "TERRORIST")
+L 12/28/2009 - 22:57:34: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " HOHOH"
+L 12/28/2009 - 22:57:41: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" transfer "(1)xP.ViRuS.TeaM<27><STEAM_ID_LAN><>" (team "CT")
+L 12/28/2009 - 22:57:51: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " nbo"
+L 12/28/2009 - 22:57:54: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" transfer "santiago<15><STEAM_ID_LAN><>" (team "CT")
+L 12/28/2009 - 22:58:08: [plmenu.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" transfer "DarkAngel<18><STEAM_ID_LAN><>" (team "CT")
+L 12/28/2009 - 22:58:24: [plmenu.amxx] Cmd: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" transfer "|[S]hoOTeR's [P]pL's| [D]on[T]<28><STEAM_ID_LAN><>" (team "CT")
+L 12/28/2009 - 22:58:25: [plmenu.amxx] Cmd: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" transfer "[16bpp] Pros Street<25><STEAM_ID_LAN><>" (team "CT")
+L 12/28/2009 - 22:59:37: [plmenu.amxx] Cmd: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" transfer "|[S]hoOTeR's [P]pL's| [D]on[T]<28><STEAM_ID_LAN><>" (team "TERRORIST")
+L 12/28/2009 - 22:59:37: [plmenu.amxx] Cmd: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" transfer "santiago<15><STEAM_ID_LAN><>" (team "TERRORIST")
+L 12/28/2009 - 22:59:38: [plmenu.amxx] Cmd: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" transfer "DarkAngel<18><STEAM_ID_LAN><>" (team "TERRORIST")
+L 12/28/2009 - 22:59:39: [plmenu.amxx] Cmd: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" transfer "(1)xP.ViRuS.TeaM<27><STEAM_ID_LAN><>" (team "TERRORIST")
+L 12/28/2009 - 23:00:02: [plmenu.amxx] Cmd: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" transfer "[16bpp] Pros Street<29><STEAM_ID_LAN><>" (team "TERRORIST")
+L 12/28/2009 - 23:01:35: [admincmd.amxx] Kick: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" kick "|[S]hoOTeR's [P]pL's| [D]on[T]<28><STEAM_ID_LAN><>" (reason "")
+L 12/28/2009 - 23:02:51: [plmenu.amxx] Cmd: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" transfer "[16bpp] Pros Street<29><STEAM_ID_LAN><>" (team "TERRORIST")
+L 12/28/2009 - 23:04:04: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" tsay " tava escrevendo"
+L 12/28/2009 - 23:05:06: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " qual foi"
+L 12/28/2009 - 23:05:15: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/28/2009 - 23:06:05: [admincmd.amxx] Ban: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" ban and kick "|[S]hoOTeR's [P]pL's| [D]on[T]<31><STEAM_ID_LAN><>" (minutes "5") (reason "")
+L 12/28/2009 - 23:07:39: [plmenu.amxx] Cmd: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" transfer "Loriinho<32><STEAM_ID_LAN><>" (team "TERRORIST")
+L 12/28/2009 - 23:07:55: [plmenu.amxx] Ban: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" ban and kick "Loriinho<32><STEAM_ID_LAN><>" (minutes "5")
+L 12/28/2009 - 23:09:45: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" tsay " ae rapaziada, tah lag ae?"
+L 12/28/2009 - 23:09:46: [adminvote.amxx] Vote: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" vote custom (question "Step?") (option#1 "SIM") (option#2 "NAO")
+L 12/28/2009 - 23:09:58: [adminvote.amxx] Vote: Voting successful (got "3") (needed "1") (result "Step? - SIM")
+L 12/28/2009 - 23:11:10: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" chat " cai ae"
+L 12/28/2009 - 23:11:19: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay "como eu falo ai"
+L 12/28/2009 - 23:11:30: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" tsay " ai aonde"
+L 12/28/2009 - 23:11:44: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " onde se falo "
+L 12/28/2009 - 23:11:48: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" chat " assim?"
+L 12/28/2009 - 23:11:51: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" chat "b e"
+L 12/28/2009 - 23:11:57: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" chat " viu oeisoeiso conseguiu"
+L 12/28/2009 - 23:11:59: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" chat " com U"
+L 12/28/2009 - 23:12:09: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" chat " se tiro steep"
+L 12/28/2009 - 23:13:17: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " tem bind ai vc"
+L 12/28/2009 - 23:13:21: [admincmd.amxx] Cmd: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" server console (cmdline "sv_restartround 1")
+L 12/28/2009 - 23:13:37: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " aa away"
+L 12/28/2009 - 23:15:16: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " vo da kick camper"
+L 12/28/2009 - 23:15:34: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " pedrin sabe ir mario nao"
+L 12/28/2009 - 23:15:54: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " sabe"
+L 12/28/2009 - 23:15:59: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " ?"
+L 12/28/2009 - 23:16:42: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay "  boa macaco"
+L 12/28/2009 - 23:16:47: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" chat "se sabe ir mario"
+L 12/28/2009 - 23:17:02: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " se sabe ir mario ?"
+L 12/28/2009 - 23:17:13: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " em emo"
+L 12/28/2009 - 23:17:18: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " em emo"
+L 12/28/2009 - 23:17:23: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" tsay " ueshuesh"
+L 12/28/2009 - 23:17:27: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " sabe ?"
+L 12/28/2009 - 23:17:37: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " em cachora sabe ir mario "
+L 12/28/2009 - 23:17:38: [adminchat.amxx] Chat: "Fir3.rOx | PeedriiN<3><STEAM_ID_LAN><>" tsay " karalhOOOo eushuesheusheus"
+L 12/28/2009 - 23:18:21: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " o cachorra responde sabe ir mario ? se tem alguma bind ai"
+L 12/28/2009 - 23:18:41: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " em piranha"
+L 12/28/2009 - 23:19:35: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " mais ou menos que horas"
+L 12/28/2009 - 23:19:59: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" chat " vlw"
+L 12/28/2009 - 23:20:54: [plmenu.amxx] Cmd: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" transfer "joeqnai<34><STEAM_ID_LAN><>" (team "TERRORIST")
+L 12/28/2009 - 23:27:42: [plmenu.amxx] Cmd: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" transfer "|[S]hoOTeR's [P]pL's| [D]on[T]<36><STEAM_ID_LAN><>" (team "TERRORIST")
+L 12/28/2009 - 23:27:45: [plmenu.amxx] Cmd: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" transfer "[16bpp] Pros Street<37><STEAM_ID_LAN><>" (team "TERRORIST")
+L 12/28/2009 - 23:29:29: [plmenu.amxx] Cmd: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" transfer "Mix HS>>0.0<38><STEAM_ID_LAN><>" (team "TERRORIST")
+L 12/28/2009 - 23:29:30: [plmenu.amxx] Cmd: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" transfer "(1)Mix HS>>0.0<39><STEAM_ID_LAN><>" (team "TERRORIST")
+L 12/28/2009 - 23:29:32: [plmenu.amxx] Cmd: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" transfer "(1)xP.ViRuS.TeaM<27><STEAM_ID_LAN><>" (team "TERRORIST")
+L 12/28/2009 - 23:30:27: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " vlw vlw"
+L 12/28/2009 - 23:30:32: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " querem 1 RR ?"
+L 12/28/2009 - 23:30:37: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " querme que mude de Map"
+L 12/28/2009 - 23:30:55: [adminvote.amxx] Vote: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" vote custom (question "RR") (option#1 "Sim") (option#2 "NAo")
+L 12/28/2009 - 23:31:07: [adminvote.amxx] Vote: Voting successful (got "2") (needed "1") (result "RR - Sim")
+L 12/28/2009 - 23:31:21: [adminvote.amxx] Vote: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" vote custom (question "MUDAMAP") (option#1 "Sim") (option#2 "nao")
+L 12/28/2009 - 23:31:33: [adminvote.amxx] Vote: Voting successful (got "2") (needed "1") (result "MUDAMAP - Sim")
+L 12/28/2009 - 23:31:56: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<2><STEAM_ID_LAN><>" tsay " vo sair fuiz"
+L 12/28/2009 - 23:52:41: [admin.amxx] Login: "Fir3.rOx | MicK-ShacK<49><STEAM_ID_LAN><>" became an admin (account "Fir3.rOx | MicK-ShacK") (access "abcdefghijklmnopqrstu") (address "187.13.176.110")
+L 12/28/2009 - 23:52:59: [adminchat.amxx] Chat: "Fir3.rOx | MicK-ShacK<49><STEAM_ID_LAN><>" tsay " adm onnnn"
+L 12/28/2009 - 23:57:23: [admincmd.amxx] Kick: "Fir3.rOx | MicK-ShacK<49><STEAM_ID_LAN><>" kick "mix RCK'1;*<53><STEAM_ID_LAN><>" (reason "")

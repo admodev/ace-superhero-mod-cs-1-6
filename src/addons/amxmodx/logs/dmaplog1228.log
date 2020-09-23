@@ -1,0 +1,22 @@
+L 12/28/2009 - 11:48:53: Log file started (file "cstrike\addons\amxmodx\logs\dmaplog1228.log") (game "cstrike") (amx "1.75a")
+L 12/28/2009 - 11:48:53: Did not ban any maps from mapstoban.ini file
+L 12/28/2009 - 11:48:53: Loaded 20 Maps into the maps that will be picked for the vote
+L 12/28/2009 - 11:48:53: 2 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 12/28/2009 - 11:48:53: Found 22 Maps in your mapcycle.txt/allmaps.txt file, 20 are available for filling slots
+L 12/28/2009 - 12:18:35: Did not ban any maps from mapstoban.ini file
+L 12/28/2009 - 12:18:36: Loaded 21 Maps into the maps that will be picked for the vote
+L 12/28/2009 - 12:18:36: 1 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 12/28/2009 - 12:18:36: Found 22 Maps in your mapcycle.txt/allmaps.txt file, 21 are available for filling slots
+L 12/28/2009 - 13:29:20: Nominations for the map vote: 0 out of 5 possible nominations
+L 12/28/2009 - 13:29:20: Randomly Filling slots for the vote with 5 out of 21
+L 12/28/2009 - 13:29:20: Filled 5 vote slots with random maps, 2 are custom
+L 12/28/2009 - 13:29:20: Vote: Voting for the nextmap started
+L 12/28/2009 - 13:29:40: Vote: Voting for the nextmap finished. Map surf_ski_2 will be extended to next 15 minutes
+L 12/28/2009 - 21:30:34: Did not ban any maps from mapstoban.ini file
+L 12/28/2009 - 21:30:34: Loaded 21 Maps into the maps that will be picked for the vote
+L 12/28/2009 - 21:30:34: 1 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 12/28/2009 - 21:30:34: Found 22 Maps in your mapcycle.txt/allmaps.txt file, 21 are available for filling slots
+L 12/28/2009 - 21:58:48: Did not ban any maps from mapstoban.ini file
+L 12/28/2009 - 21:58:48: Loaded 22 Maps into the maps that will be picked for the vote
+L 12/28/2009 - 21:58:48: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 12/28/2009 - 21:58:48: Found 22 Maps in your mapcycle.txt/allmaps.txt file, 22 are available for filling slots

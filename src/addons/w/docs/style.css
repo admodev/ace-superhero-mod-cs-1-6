@@ -1,0 +1,24 @@
+body { font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; color: white; text-align: justify; font-size: 12; background-color: #002040; }
+
+td { font-size:12; }
+.transp { ; }
+.normcell { background-color: #001A3A; }
+.tabhead { background-color: #001020; text-align: center; font-weight: bold; }
+.tabbody { background-color: #003060; vertical-align: top; text-align: justify; }
+
+.w-title-big { font-size: 30; font-weight: bold; color: orange; }
+.w-title { font-size: 20; font-weight: bold; color: #A0A0A0; }
+.w-title-small { font-size: 17; font-weight: bold; color: #707070; }
+
+A { color: orange; text-decoration: none; }
+A:hover { text-decoration: underline; }
+
+table { border: #FFFFFF; border-style: solid; border-width: 1px; }
+
+.error { font-weight: bold; color: orange; }
+
+.small { font-size: 10 };
+
+select { background-color: #002040; color: #FFFFFF; }
+
+input { border-style: solid; border-color: orange; border-width: 1px; }

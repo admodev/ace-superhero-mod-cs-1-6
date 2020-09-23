@@ -1,0 +1,836 @@
+<html>
+<head>
+<title>:: webmod docs : w scripting language ::</title>
+<link Rel="StyleSheet" type="text/css" href="style.css">
+</head>
+
+<body>
+<div align="center" class="w-title-big">:: webmod ::</div>
+<br><br>
+<div align="center" class="w-title">{w.scripting:language}</div>
+<br><br><br><br>
+<table align="center" width="640" style="border-width: 0;">
+<tr><td><div align="justify">
+
+<div class="w-title">I. About</div>
+<br>
+WebMod provides a scripting language preprocessor, that allows you to create
+dynamic web pages. It supports cookies, GET and POST vars, Half-Life & mods internal
+data, and say, enough things to let you make great pages...
+<br><br>
+All scripting parts are included into HTML code between brackets : <font color="orange">&lt;html stuff&gt; some text <b>{w script}</b> other &lt;html things&gt;</font>.
+<br><br>
+The only extension allowed for pages to be parsed is 'w' : page.w, index.w, mylongnamedpage.w ...
+<br><br>
+This document introduces to some scripting basics, as variables and available operands.
+
+<br><br><br><br>
+<div class="w-title">II. Variables</div>
+<br>
+All variables are as follow : <font color="orange">X.name</font> -- where
+<font color="orange">X</font> is a letter identifying the type of the var, and
+<font color="orange">name</font> the name of the var in this type.
+
+<br><br>
+<div class="w-title-small">a. available var types</div>
+<br><br>
+<table align="center" width="500" cellpadding="4" cellspacing="2">
+<tr><td class="tabhead">Type</td><td class="tabhead">Full name</td><td class="tabhead">Description</td></tr>
+<tr><td class="tabbody">W</td><td class="tabbody" nowrap>WebMod var</td><td class="tabbody">here go many vars that can not be found anywhere else, among which some server & web client info</td></tr>
+<tr><td class="tabbody">c</td><td class="tabbody" nowrap>CVar</td><td class="tabbody">server CVars</td></tr>
+<tr><td class="tabbody">v</td><td class="tabbody" nowrap>script vars</td><td class="tabbody">variables to be used by scripts (specific to each instance of each script)</td></tr>
+<tr><td class="tabbody">p</td><td class="tabbody" nowrap>player info</td><td class="tabbody">player-specific variables (only used in "player" loops and functions ; see below)</td></tr>
+<tr><td class="tabbody">m</td><td class="tabbody" nowrap>map info</td><td class="tabbody">map vars (name) (only used in "map" loops ; see below)</td></tr>
+<tr><td class="tabbody">t</td><td class="tabbody" nowrap>time & date</td><td class="tabbody">current (local server) time and date vars</td></tr>
+<tr><td class="tabbody">h</td><td class="tabbody" nowrap>HTTP headers</td><td class="tabbody">some header lines that can be sent to the browser</td></tr>
+<tr><td class="tabbody">C</td><td class="tabbody" nowrap>cookies</td><td class="tabbody">web client's cookies</td></tr>
+<tr><td class="tabbody">P</td><td class="tabbody" nowrap>POST vars</td><td class="tabbody">data sent by the client browser with POST method -- typically from a HTML form</td></tr>
+<tr><td class="tabbody">G</td><td class="tabbody" nowrap>GET vars</td><td class="tabbody">data sent by the client browser with GET method -- parameters right after the URL :<br><font color="orange">http://myhost:27015/mypage.w?<b>mode=display</b></font></td></tr>
+</table>
+
+<br><br>
+<div class="w-title-small">b. webmod vars</div>
+<br><br>
+<table align="center" width="500" cellpadding="4" cellspacing="2">
+<tr><td class="tabhead" width="100" nowrap>Name</td><td class="tabhead" width="15">R</td><td class="tabhead" width="15">W</td><td class="tabhead">Description</td></tr>
+
+<tr>
+<td class="tabbody">W.maxplayers</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody">maximum number of players the server can accept</td>
+</tr>
+
+<tr>
+<td class="tabbody">W.map</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">current map</td>
+</tr>
+
+<tr>
+<td class="tabbody">W.moddir</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody">full path to the mod directory<br>(/usr/games/hlds_l/cstrike, C:\HLServer\cstrike, ...)</td>
+</tr>
+
+<tr>
+<td class="tabbody">W.users</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody">current number of users (connecting + playing clients)</td>
+</tr>
+
+<tr>
+<td class="tabbody">W.players</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody">current number of players (ingame clients, fully connected)</td>
+</tr>
+
+<tr>
+<td class="tabbody">W.url</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody">current URL<br>(/, /index.w, ...)</td>
+</tr>
+
+<tr>
+<td class="tabbody">W.clientip</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody">web client's ip address</td>
+</tr>
+
+<tr>
+<td class="tabbody">W.OS</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody">game server operating system : Win32, Linux or FreeBSD</td>
+</tr>
+
+<tr>
+<td class="tabbody">W.os</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody">win32, linux or freebsd</td>
+</tr>
+
+
+</table>
+
+<br><br>
+<div class="w-title-small">c. cvars</div>
+<br>Please note these are just examples ; all cvars are available (read & write of course).<br><br>
+<table align="center" width="500" cellpadding="4" cellspacing="2">
+<tr><td class="tabhead" width="100" nowrap>Name</td><td class="tabhead" width="15">R</td><td class="tabhead" width="15">W</td><td class="tabhead">Description</td></tr>
+
+<tr>
+<td class="tabbody">c.hostname</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">server hostname</td>
+</tr>
+
+<tr>
+<td class="tabbody">c.admin_mod_version</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">AdminMod version (if installed ; empty string otherwise)<br>(writeable but you'd better not...)</td>
+</tr>
+
+<tr>
+<td class="tabbody">c.sv_gravity</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">current gravity (default : 800)</td>
+</tr>
+
+<tr>
+<td class="tabbody">...</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">...</td>
+</tr>
+
+</table>
+
+<br><br>
+<div class="w-title-small">d. script vars</div>
+<br>Scripts can read & write their own variables : <font color="orange">v.<i>varname</i></font> ; <font color="orange"><i>varname</i></font> can be any word (max 32 characters).
+<br>Maximum length for their values is 512 characters.
+<br>Maximum number of vars per script is 256.
+
+<br><br><br>
+<div class="w-title-small">e. player info</div>
+<br>These vars are only available in "player" type loops and functions (see below). They are read-only.<br><br>
+<table align="center" width="500" cellpadding="4" cellspacing="2">
+<tr><td class="tabhead" width="100" nowrap>Name</td><td class="tabhead" width="15">R</td><td class="tabhead" width="15">W</td><td class="tabhead">Description</td></tr>
+
+<tr>
+<td class="tabbody">p.name</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody">name :-p</td>
+</tr>
+
+<tr>
+<td class="tabbody">p.authid</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody">AuthID (WONID or SteamID) (for LAN servers, WONID=4294967295)</td>
+</tr>
+
+<tr>
+<td class="tabbody">p.id</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody">player ID (1, 2, 3, ..., 'maxplayers')</td>
+</tr>
+
+<tr>
+<td class="tabbody">p.uid</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody">player UID (1, 2, 3, ...) (this is a counter starting with 1, reset only at server restart ; so it counts connections the server has accepted so far)</td>
+</tr>
+
+<tr>
+<td class="tabbody">p.ctime</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody">hh:mm:ss - time for which the player has been connected (if not connected : 0)</td>
+</tr>
+
+<tr>
+<td class="tabbody">p.ptime</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody">hh:mm:ss - time for which the player has been playing (starts when entering the game) (if not ingame : 0)</td>
+</tr>
+
+<tr>
+<td class="tabbody">p.ping</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody">latency (milliseconds)</td>
+</tr>
+
+<tr>
+<td class="tabbody">p.loss</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody">network loss</td>
+</tr>
+
+<tr>
+<td class="tabbody">p.ip</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody">ip address from which the client is playing</td>
+</tr>
+
+<tr>
+<td class="tabbody">p.ingame</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody">0 if player is not ingame, 1 otherwise</td>
+</tr>
+
+<tr>
+<td class="tabbody">p.connected</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody">0 if player is not connected, 1 otherwise (btw you should never need to use it)</td>
+</tr>
+
+</table>
+
+
+<br><br><br>
+<div class="w-title-small">f. map file info</div>
+<br>These vars are only available in "map" type loops (see below). They are read-only.<br><br>
+<table align="center" width="500" cellpadding="4" cellspacing="2">
+<tr><td class="tabhead" width="100" nowrap>Name</td><td class="tabhead" width="15">R</td><td class="tabhead" width="15">W</td><td class="tabhead">Description</td></tr>
+
+<tr>
+<td class="tabbody">m.name</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody">map name !</td>
+</tr>
+
+</table>
+
+
+<br><br><br>
+<div class="w-title-small">g. time & date</div>
+<br>Read-only vars about local server's time and date.<br><br>
+<table align="center" width="500" cellpadding="4" cellspacing="2">
+<tr><td class="tabhead" width="100" nowrap>Name</td><td class="tabhead" width="15">R</td><td class="tabhead" width="15">W</td><td class="tabhead">Description</td></tr>
+
+<tr>
+<td class="tabbody">t.hour<br>t.min<br>t.sec</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody">hours, minutes and seconds (2 characters : '1' gives "01")</td>
+</tr>
+
+<tr>
+<td class="tabbody">t.weekday<br>t.day<br>t.month<br>t.year<br>t.year2</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody">day of week ("0":sunday ... "6":saturday)<br>day of month ("01"..."31")<br>month of year ("01"..."12")<br>year (4 digits)<br>year (2 digits)</td>
+</tr>
+
+<tr>
+<td class="tabbody">t.weekdayname<br>t.weekdayname2<br>t.monthname<br>t.monthname2</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody">"Sunday" ... "Saturday"<br>"Sun" ... "Sat"<br>"January" ... "December"<br>"Jan" ... "Dec"</td>
+</tr>
+
+<tr>
+<td class="tabbody">t.string</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody">fully formatted time & date string :<br>Day Mon dd hh:mm:ss yyyy</td>
+</tr>
+
+</table>
+
+
+<br><br><br>
+<div class="w-title-small">h. http headers</div>
+<br>Here are write-only vars that can be sent to the web browser.<br><br>
+<table align="center" width="500" cellpadding="4" cellspacing="2">
+<tr><td class="tabhead" width="100" nowrap>Name</td><td class="tabhead" width="15">R</td><td class="tabhead" width="15">W</td><td class="tabhead">Description</td></tr>
+
+<tr>
+<td class="tabbody">h.location</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">will redirect the browser to another page</td>
+</tr>
+
+<tr>
+<td class="tabbody">h.contenttype</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">will change the output's content-type (default : text/html)</td>
+</tr>
+
+</table>
+
+
+<br><br><br>
+<div class="w-title-small">i. other http vars</div>
+<br>WebMod supports cookies, GET and POST vars. Here are a few examples.<br><br>
+<table align="center" width="500" cellpadding="4" cellspacing="2">
+<tr><td class="tabhead" width="100" nowrap>Name</td><td class="tabhead" width="15">R</td><td class="tabhead" width="15">W</td><td class="tabhead">Description</td></tr>
+
+<tr>
+<td class="tabbody">G.mode</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody">value passed in the URL : <font color="orange">/page.w?<b>mode</b>=<b>display</b></font></td>
+</tr>
+
+<tr>
+<td class="tabbody">P.pass</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">&nbsp;</td>
+<td class="tabbody">value from a HTML form :<br><font color="orange">&lt;form action="page.w" method="<b>post</b>"&gt;<br>&nbsp;&nbsp;&lt;input type="password" name="<b>pass</b>"&gt;<br>&nbsp;&nbsp;&lt;input type="submit" value="ok"&gt;<br>&lt;/form&gt;</font></td>
+</tr>
+
+<tr>
+<td class="tabbody">C.cookiename</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody" style="text-align: center;">X</td>
+<td class="tabbody">client cookie<li>'reading' this will return the value of the cookie sent by the client for this page (in his HTTP request)<br>
+<li>'writing' will send the cookie to the browser in the HTTP response header
+<br><br>so if you write to a <font color="orange">C.cookie</font> var, then read it, it won't return the value you gave it
+</td>
+</tr>
+
+</table>
+
+
+<br><br><br><br>
+<div class="w-title">III. Scripting syntax</div>
+<br>
+<div class="w-title-small">a. generalities</div>
+<br>
+Scripting parts must be enclosed into brackets in order to be parsed by the preprocessor : <font color="orange">html{script}html</font>. You can imbricate script blocks within other ones : <font color="orange">html{script with some html output{other script}}html</font>.
+<br><br>If you don't want a bracket to be parsed as a script part start, you can escape it like this : <font color="orange">\{</font> (also works with <font color="orange">\}</font> and other separators we'll see : <font color="orange">\,</font> and <font color="orange">\:</font>).
+It is only required when the character you want to print would normally have some effect in your script ; for example, you don't have to escape <font color="orange">}</font> if you are not in a script.
+<br><br>Comments can be added like this : <font color="orange">{#</font>blah blah blah<font color="orange">}</font>.
+<br><br>Now we'll see which kinds of operands, loops and functions are available.
+<br><br><br>
+<div class="w-title-small">b. operand <font color="orange">?</font> (test) and associated ones : <font color="orange">=</font>, <font color="orange">!</font>, <font color="orange">&gt;</font>, <font color="orange">&gt;=</font>, <font color="orange">&lt;</font>, <font color="orange">&lt;=</font>, <font color="orange">@</font>, <font color="orange">&</font>, <font color="orange">|</font> </div>
+<br>
+Used to check or to compare vars.<br>
+<br><br>
+<table align="center" width="500" cellpadding="4" cellspacing="2">
+<tr><td class="tabhead" colspan="2">Syntax</td></tr>
+<tr><td class="tabbody" colspan="2" style="text-align: center;"><font color="orange">{</font>test<font color="orange">?</font>what to do/print if TRUE<font color="orange">:</font>what to do/print if FALSE<font color="orange">}</font></td></tr>
+<tr><td class="tabhead" nowrap>Example</td><td class="tabhead">Description</td></tr>
+
+<tr>
+<td class="tabbody" nowrap>
+password :<br><font color="orange">{c.sv_password?yes:no}</font>
+</td>
+<td class="tabbody">
+prints 'yes' if string identified by 'c.sv_password' (server password cvar) isn't empty, 'no' otherwise
+</td>
+</tr>
+
+<tr>
+<td class="tabbody" nowrap><font color="orange">
+{W.players?some one:no one}<br></font>
+playing right now
+</td>
+<td class="tabbody">
+evaluates W.players (TRUE if non-zero, FALSE otherwise)
+</td>
+</tr>
+
+<tr>
+<td class="tabbody" nowrap><font color="orange">
+{W.players?<b>{W.players}</b> players:no one}<br></font>
+on the server right now
+</td>
+<td class="tabbody">
+eh, our TRUE statement includes a script part !
+</td>
+</tr>
+
+<tr><td class="tabhead" colspan="2">Want to test more ?</td></tr>
+
+<tr>
+<td class="tabbody"><font color="orange">
+{{c.sv_password=c.rcon_password}?
+<br>please change your rcon password !}
+</font></td>
+<td class="tabbody">
+please note there is no FALSE statement (the ':' separator can be omitted)
+</td>
+</tr>
+
+<tr>
+<td class="tabbody"><font color="orange">
+{{c.sv_password!c.rcon_password}?:
+<br>please change your rcon password !}
+</font></td>
+<td class="tabbody">
+exactly the same result (no TRUE statement)
+</td>
+</tr>
+
+<tr><td class="tabhead" colspan="2">Available tests</td></tr>
+
+<tr><td class="tabbody">
+<font color="orange">
+=
+<br>
+!
+</font>
+</td><td class="tabbody">
+strings and integers comparison
+</td>
+</tr>
+
+<tr><td class="tabbody">
+<font color="orange">&gt;
+<br>&gt;=
+<br>&lt;
+<br>&lt;=</font>
+</td><td class="tabbody">
+integers comparison
+</td></tr>
+
+<tr><td class="tabbody">
+<font color="orange">@</font></td><td class="tabbody">searches a string in another one :
+<br><font color="orange">{string1@string2}</font> will return/print :<br>
+<li>0 if string2 does not contain string1
+<li>2 if string1 first occur in string2 is at the beginning
+<li>3 if string1 first occur in string2 is at the very end
+<li>1 if string2 contains string1 anywhere else
+</td></tr>
+
+<tr><td class="tabbody">
+<font color="orange">&</font></td><td class="tabbody">boolean AND</td></tr>
+
+<tr><td class="tabbody">
+<font color="orange">|</font></td><td class="tabbody">boolean OR</td></tr>
+
+</table>
+
+
+
+<br><br><br>
+<div class="w-title-small">c. operand <font color="orange">:</font> (assignment)</div>
+<br>
+Used to assign values to (writeable) vars.<br>
+<br><br>
+<table align="center" width="500" cellpadding="4" cellspacing="2">
+<tr><td class="tabhead" colspan="2">Syntax</td></tr>
+<tr><td class="tabbody" colspan="2" style="text-align: center;"><font color="orange">{</font>varname<font color="orange">:</font>value<font color="orange">}</font></td></tr>
+<tr><td class="tabhead" nowrap>Example</td><td class="tabhead">Description</td></tr>
+
+<tr>
+<td class="tabbody"><font color="orange">
+{c.sv_password:hello}
+</font></td>
+<td class="tabbody">
+changes the server password
+</td>
+</tr>
+
+<tr>
+<td class="tabbody" nowrap><font color="orange">
+{c.<b>{G.mode}</b>_password:hello}
+</font></td>
+<td class="tabbody">
+changes the server or rcon password ; depends on which 'mode' was provided in the URL<br>(<font color="orange">page.w?mode=rcon</font> or <font color="orange">page.w?mode=sv</font>)
+</td>
+</tr>
+
+<tr>
+<td class="tabbody"><font color="orange">
+{{P.passfield=c.rcon_password}?<br><b>{C.rconpass:{P.passfield}}</b>}
+</font></td>
+<td class="tabbody">
+sets 'rconpass' cookie to rcon password if good password was entered in a form field named 'passfield' (do nothing otherwise)
+</td>
+</tr>
+
+<tr>
+<td class="tabbody"><font color="orange">
+<b>{C.rconpass:</b><br>{{P.passfield=c.rcon_password}?<br>{c.rcon_password}}<b>}</b>
+</font></td>
+<td class="tabbody">
+nearly same results ; but clears 'rconpass' cookie if provided password was wrong
+</td>
+</tr>
+
+</table>
+
+<br><br><br>
+<div class="w-title-small">d. mathematic operands</div>
+<br>
+You can do simple operations thanks to these : <font color="orange">+</font>, <font color="orange">-</font>, <font color="orange">*</font>, <font color="orange">/</font>.<br>
+
+<br><br>
+<div class="w-title-small">e. functions</div>
+<br>
+Here are a few functions you can use.
+
+<br><br><br>
+<table align="center" width="500" cellpadding="4" cellspacing="2">
+<tr><td class="tabhead" colspan="2">Syntax</td></tr>
+<tr><td class="tabbody" colspan="2" style="text-align: center;"><font color="orange">{@</font>funcname<font color="orange">:</font>param1<font color="orange">:</font>param2 ...<font color="orange">}</font>
+<br>double <font color="orange">@</font> at the beginning avoids function output
+</td></tr>
+<tr><td class="tabhead" nowrap>Example</td><td class="tabhead">Description</td></tr>
+
+<tr>
+<td class="tabbody" nowrap><font color="orange">
+{@@rcon:changelevel de_dust}
+</font></td>
+<td class="tabbody">
+sends a command to console ; return value (output) for 'rcon' function is '0' if first parameter was empty, '1' otherwise
+<br>as we don't want this to be displayed in our html document, we double the '@' character
+</td>
+</tr>
+
+<tr>
+<td class="tabbody" nowrap><font color="orange">
+{@file_exists:{W.moddir}/server.cfg}
+</font></td>
+<td class="tabbody">
+displays/returns '1' if file exists (is readable), '0' otherwise
+</td>
+</tr>
+
+<tr>
+<td class="tabbody" nowrap><font color="orange">
+{@@execclient:452:say hello everybody}
+</font></td>
+<td class="tabbody">
+sends "say hello everybody" to a player's console, player is identified by his UID (p.uid) ;
+this function returns/prints 1 if player was found, 0 otherwise (we don't want this to be displayed so we double our '@')
+</td>
+</tr>
+
+<tr>
+<td class="tabbody" nowrap><font color="orange">
+{@trim:<br>&nbsp;&nbsp;&nbsp;some text<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+</font></td>
+<td class="tabbody">
+strips blank characters (space, tab, line feed) at the beginning and end of the string : will return/print "some text"
+</td>
+</tr>
+
+<tr>
+<td class="tabbody" nowrap><font color="orange">
+{@player:p.id=7:<br>slot #7 is taken by '{p.name}'}
+</font></td>
+<td class="tabbody">
+selects a player by one of his fields (also works with others p. vars) ; the second parameter will be processed as soon as a player verifying the test is found
+</td>
+</tr>
+
+<tr>
+<td class="tabbody" nowrap><font color="orange">
+{@user:p.id=7:<br>slot #7 is taken by '{p.name}'}
+</font></td>
+<td class="tabbody">
+same as 'player' function, but also searches in currently connecting players
+</td>
+</tr>
+
+<tr>
+<td class="tabbody" nowrap><font color="orange">
+{@sleep:2}
+</font></td>
+<td class="tabbody">
+delays execution for the given amount of seconds
+</td>
+</tr>
+
+<tr><td class="tabbody" colspan="2" style="text-align: center;">
+more to come, depending on webmod users needs...
+</td></tr>
+</table>
+
+
+<br><br><br>
+<div class="w-title-small">f. loops : <font color="orange">L.p</font> (players) and <font color="orange">L.u</font> (users)</div>
+<br>
+You can ask WebMod to do something for each player (ingame) / user (ingame or connecting).
+
+<br><br><br>
+<table align="center" width="500" cellpadding="4" cellspacing="2">
+<tr><td class="tabhead" colspan="2">Syntax</td></tr>
+<tr><td class="tabbody" colspan="2" style="text-align: center;"><font color="orange">{</font>L.p<font color="orange">:</font>what to do/print<font color="orange">}</font>
+</td></tr>
+<tr><td class="tabhead" nowrap>Example</td><td class="tabhead">Description</td></tr>
+
+<tr>
+<td class="tabbody" nowrap><font color="orange">
+&lt;ul&gt;{L.p:&lt;li&gt;{p.name}}&lt;/ul&gt;
+</font></td>
+<td class="tabbody">
+prints (ingame) players names in a dotted list (see above for complete list of player vars)
+</td>
+</tr>
+
+</table>
+
+
+<br><br><br>
+<div class="w-title-small">e. loop : <font color="orange">L.m</font> (maps)</div>
+<br>
+Searches for maps.
+
+<br><br><br>
+<table align="center" width="500" cellpadding="4" cellspacing="2">
+<tr><td class="tabhead" colspan="2">Syntax</td></tr>
+<tr><td class="tabbody" colspan="2" style="text-align: center;"><font color="orange">{</font>L.m<font color="orange">:</font>what to do/print<font color="orange">}</font>
+</td></tr>
+<tr><td class="tabhead" nowrap>Example</td><td class="tabhead">Description</td></tr>
+
+<tr>
+<td class="tabbody" nowrap><font color="orange">
+&lt;ul&gt;{L.m:&lt;li&gt;{m.name}}&lt;/ul&gt;
+</font></td>
+<td class="tabbody">
+prints all maps (.bsp files) in {W.moddir}/maps ; alphabetically sorted
+</td>
+</tr>
+
+</table>
+
+
+
+<br><br><br>
+<div class="w-title-small">f. loop : <font color="orange">L.l</font> (list)</div>
+<br>
+This is kind of a 'for each' loop.
+
+<br><br><br>
+<table align="center" width="500" cellpadding="4" cellspacing="2">
+<tr><td class="tabhead" colspan="2">Syntax</td></tr>
+<tr><td class="tabbody" colspan="2" style="text-align: center;"><font color="orange">{</font>L.l<font color="orange">:</font>varname<font color="orange">:</font>values,it,will,take<font color="orange">:</font>what to do/print<font color="orange">}</font>
+</td></tr>
+<tr><td class="tabhead" nowrap>Example</td><td class="tabhead">Description</td></tr>
+
+<tr>
+<td class="tabbody" nowrap><font color="orange">
+{L.l:v.myvar:hello,world,!:{v.myvar} }
+</font></td>
+<td class="tabbody">
+stupid example ; will print "hello world ! "
+</td>
+</tr>
+
+</table>
+
+
+<br><br><br>
+<div class="w-title-small">g. loop : <font color="orange">L.L</font> (list)</div>
+<br>
+Works the same way as L.l but lets you provide the separator (one single character) ; moreover, elements will be extracted after your list is parsed.
+
+<br><br><br>
+<table align="center" width="500" cellpadding="4" cellspacing="2">
+<tr><td class="tabhead" colspan="2">Syntax</td></tr>
+<tr><td class="tabbody" colspan="2" style="text-align: center;"><font color="orange">{</font>L.L<font color="orange">:</font>varname<font color="orange">:</font>separator<font color="orange">:</font>values it will take<font color="orange">:</font>what to do/print<font color="orange">}</font>
+</td></tr>
+<tr><td class="tabhead" nowrap>Example</td><td class="tabhead">Description</td></tr>
+
+<tr>
+<td class="tabbody" nowrap><font color="orange">
+{L.L:v.mapname:<br>:{<<{W.moddir}/mapcycle.txt}:<br>&lt;li&gt;{v.myvar}}
+</font></td>
+<td class="tabbody">
+will display each map from your mapcycle.txt (separator is a line feed)
+</td>
+</tr>
+
+</table>
+
+
+<br><br><br>
+<div class="w-title-small">h. loop : <font color="orange">L.w</font> (while)</div>
+<br>
+This is a typical 'while' loop.
+
+<br><br><br>
+<table align="center" width="500" cellpadding="4" cellspacing="2">
+<tr><td class="tabhead" colspan="2">Syntax</td></tr>
+<tr><td class="tabbody" colspan="2" style="text-align: center;"><font color="orange">{</font>L.w<font color="orange">:</font>test<font color="orange">:</font>what to do/print<font color="orange">}</font>
+</td></tr>
+<tr><td class="tabhead" nowrap>Example</td><td class="tabhead">Description</td></tr>
+
+<tr>
+<td class="tabbody" nowrap><font color="orange">
+{v.i:0}<br>
+{L.w:v.i<10:hello#{v.i} {v.i:{v.i+1}}}
+</font></td>
+<td class="tabbody">
+will display hello#0 hello#1 ... hello#9
+</td>
+</tr>
+
+</table>
+
+
+
+<br><br><br>
+<div class="w-title-small">i. file read & write</div>
+<br>
+WebMod lets you do (very) basic operations with files. File paths can be relative (to <font color="orange">{W.moddir}/addons/w/www</font>), or absolute.
+<br><br><br>
+<table align="center" width="500" cellpadding="4" cellspacing="2">
+<tr><td class="tabhead" colspan="2">Syntax</td></tr>
+
+<tr>
+<td class="tabbody" nowrap><font color="orange">
+{&lt;</font>filename<font color="orange">}
+</font></td>
+<td class="tabbody">
+reads & parses the file
+</td>
+</tr>
+
+<tr>
+<td class="tabbody" nowrap><font color="orange">
+{&lt;&lt;</font>filename<font color="orange">}
+</font></td>
+<td class="tabbody">
+reads the file but doesn't parse it
+</td>
+</tr>
+
+<tr>
+<td class="tabbody" nowrap><font color="orange">
+{&gt;</font>filename<font color="orange">:</font>content<font color="orange">}
+</font></td>
+<td class="tabbody">
+overwrites the file with 'content'
+</td>
+</tr>
+
+<tr>
+<td class="tabbody" nowrap><font color="orange">
+{&gt;&gt;</font>filename<font color="orange">:</font>content<font color="orange">}
+</font></td>
+<td class="tabbody">
+appends 'content' to the file
+</td>
+</tr>
+
+
+<tr><td class="tabhead" nowrap>Example</td><td class="tabhead">Description</td></tr>
+
+<tr>
+<td class="tabbody" nowrap><font color="orange">
+{&lt;includes/head.inc}
+</font></td>
+<td class="tabbody">
+reads, parses and displays<br>{W.moddir}/addons/w/www/<b>includes/head.inc</b>
+</td>
+</tr>
+
+<tr>
+<td class="tabbody" nowrap><font color="orange">
+{&lt;&lt;{W.moddir}/server.cfg}
+</font></td>
+<td class="tabbody">
+includes {W.moddir}/server.cfg (not parsed)
+</td>
+</tr>
+
+<tr>
+<td class="tabbody" nowrap><font color="orange">
+{&gt;{W.moddir}/mapcycle.txt:de_dust
+<br>de_dust2}
+</font></td>
+<td class="tabbody">
+overwrites mapcycle file ; the server will become a dust 1 & 2 only server !
+</td>
+</tr>
+
+<tr>
+<td class="tabbody" nowrap><font color="orange">
+{&gt;&gt;{W.moddir}/mapcycle.txt:de_rats}
+</font></td>
+<td class="tabbody">
+adds de_rats to your server mapcycle
+</td>
+</tr>
+
+</table>
+
+
+
+<br><br><br><br>
+<div class="w-title">IV. That's all folks !</div>
+<br>
+You might know enough things to build your own scripts and web pages !
+<br><br>
+Please have a look at WebMod's standard .w pages that use most of these topics we've seen : vars, forms, cookies, functions, loops, file read & write...
+<br><br>
+Have fun !
+<br><br>
+<div align="right">-- <a href="mailto:w@djeyl.net">dJeyL</a></div>
+
+<br><br><br><br><br><br>
+</div></td></tr>
+</table>
+</body>
+</html>

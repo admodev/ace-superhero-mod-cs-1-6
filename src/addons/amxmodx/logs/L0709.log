@@ -1,0 +1,14 @@
+L 07/09/2010 - 12:40:30: -------- Mapchange to $1000$ --------
+L 07/09/2010 - 12:40:30: Error:
+L 07/09/2010 - 12:40:30: [AMXX] Module requested a not exisitng function (file "cstrike\addons\amxmodx\modules\hamsandwich_amxx.dll") (func "AddNewNatives")
+L 07/09/2010 - 12:40:31: [AMXX] Plugin "backweapons.amxx" failed to load: Module/Library "hamsandwich" required for plugin.  Check modules.ini.
+L 07/09/2010 - 12:40:31: [AMXX] Plugin "damage_glow.amxx" failed to load: Module/Library "hamsandwich" required for plugin.  Check modules.ini.
+L 07/09/2010 - 12:40:41: [superheromodnvault.amxx] DEBUG: Attempting to load the SuperHero Config File
+L 07/09/2010 - 12:40:42: [superheromodnvault.amxx] DEBUG: Attempting to load the SuperHero Config File
+L 07/09/2010 - 14:25:39: -------- Mapchange to de_dust2 --------
+L 07/09/2010 - 14:25:40: Error:
+L 07/09/2010 - 14:25:40: [AMXX] Module requested a not exisitng function (file "cstrike\addons\amxmodx\modules\hamsandwich_amxx.dll") (func "AddNewNatives")
+L 07/09/2010 - 14:25:40: [AMXX] Plugin "backweapons.amxx" failed to load: Module/Library "hamsandwich" required for plugin.  Check modules.ini.
+L 07/09/2010 - 14:25:40: [AMXX] Plugin "damage_glow.amxx" failed to load: Module/Library "hamsandwich" required for plugin.  Check modules.ini.
+L 07/09/2010 - 14:25:48: [superheromodnvault.amxx] DEBUG: Attempting to load the SuperHero Config File
+L 07/09/2010 - 14:25:49: [superheromodnvault.amxx] DEBUG: Attempting to load the SuperHero Config File
