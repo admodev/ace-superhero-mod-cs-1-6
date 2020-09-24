@@ -4,7 +4,7 @@ Descripción pendiente...
 
 ### Calidad del código 💎
 
-Pendiente...
+[![CodeFactor](https://www.codefactor.io/repository/github/admodev/ace-superhero-mod-cs-1-6/badge)](https://www.codefactor.io/repository/github/admodev/ace-superhero-mod-cs-1-6)
 
 ### Versión
 
