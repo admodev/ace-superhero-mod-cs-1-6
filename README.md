@@ -33,7 +33,7 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 ## Autor ✒️
 
 - **Adolfo Moyano** - _Software Engineer & Game Dev_ - [admodev](https://github.com/admodev) 👾
-- **Facundo** - _Tester_ - 🎮
+- **Facundo** - _Tester_ - [Facundo1998](https://github.com/Facundo1998) 🎮
 
 ## Licencia 📄
 
